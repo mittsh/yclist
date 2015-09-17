@@ -1,5 +1,6 @@
 import re
 import json
+from urlparse import urlparse
 
 YC_LINE = re.compile(r'^' +
   '(?P<name>.+?)' + '\s+' +
@@ -24,6 +25,12 @@ MD_COMPANY_TPL = '''## {name}
 
 '''
 
+def get_hostname(url):
+  if not url:
+    return None
+  hostname = urlparse(url).hostname
+  return hostname.replace('www.','')
+
 class ParseYC(object):
 
   def __init__(self):
@@ -47,6 +54,7 @@ class ParseYC(object):
       'batch':(m.group('batch') or None),
       'status':(m.group('status') or 'Active'),
       'description':(m.group('description') or None),
+      'hostname':get_hostname(m.group('url'))
     })
 
   def generate_md(self):

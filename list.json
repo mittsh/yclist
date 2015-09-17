@@ -2,6 +2,7 @@
   {
     "batch": "S10", 
     "description": "1000memories is the new shoebox for your old photos.", 
+    "hostname": "1000memories.com", 
     "name": "1000Memories", 
     "status": "Exited", 
     "url": "http://1000memories.com"
@@ -9,6 +10,7 @@
   {
     "batch": "W10", 
     "description": "140Fire is a platform to make online video ads interactive.", 
+    "hostname": "140fire.com", 
     "name": "140bets", 
     "status": "Active", 
     "url": "http://www.140fire.com"
@@ -16,6 +18,7 @@
   {
     "batch": "W08", 
     "description": "280 North is a web application company based on their proprietary application framework, Cappuccino.", 
+    "hostname": "280north.com", 
     "name": "280 North", 
     "status": "Exited", 
     "url": "http://280north.com"
@@ -23,6 +26,7 @@
   {
     "batch": "W14", 
     "description": "Grow Revenue Big data made simple. Leave the numbers to us, we'll give the answers to insights you want to see.", 
+    "hostname": "42debut.com", 
     "name": "42", 
     "status": "Active", 
     "url": "http://42debut.com"
@@ -30,6 +34,7 @@
   {
     "batch": "W12", 
     "description": "42Floors makes office space rentals and commercial real estate listings easier to search by indexing business places for rent, coworking spaces, office sublets, and executive suites.", 
+    "hostname": "42floors.com", 
     "name": "42floors", 
     "status": "Active", 
     "url": "http://42floors.com"
@@ -37,6 +42,7 @@
   {
     "batch": "W10", 
     "description": "500friends enables retailers to acquire and retain high value customers.", 
+    "hostname": "500friends.com", 
     "name": "500Friends", 
     "status": "Active", 
     "url": "http://www.500friends.com"
@@ -44,6 +50,7 @@
   {
     "batch": "S13", 
     "description": "Want to talk? Connect with someone who will really listen.", 
+    "hostname": "7cupsoftea.com", 
     "name": "7 Cups of Tea", 
     "status": "Active", 
     "url": "http://www.7cupsoftea.com"
@@ -51,6 +58,7 @@
   {
     "batch": "W08", 
     "description": "8aweek is a Firefox extension that monitors surfing behavior to let you know when you spend too much time on time wasting sites.", 
+    "hostname": null, 
     "name": "8aweek", 
     "status": "Dead", 
     "url": null
@@ -58,6 +66,7 @@
   {
     "batch": "W12", 
     "description": "99dresses allows users to trade the fashion items with other users.", 
+    "hostname": "99dresses.com", 
     "name": "99dresses", 
     "status": "Active", 
     "url": "http://99dresses.com"
@@ -65,6 +74,7 @@
   {
     "batch": "S12", 
     "description": "The world's largest and fastest growing online comedy community that has brought together tens of millions of people who love to laugh, have fun and connect with others through humor.", 
+    "hostname": "9gag.com", 
     "name": "9GAG", 
     "status": "Active", 
     "url": "http://9gag.com"
@@ -72,6 +82,7 @@
   {
     "batch": "W14", 
     "description": "Say goodbye to expense reports.", 
+    "hostname": "abacus.com", 
     "name": "Abacus", 
     "status": "Active", 
     "url": "http://www.abacus.com"
@@ -79,6 +90,7 @@
   {
     "batch": "W11", 
     "description": "Acunote is a project management tool and Scrum software.", 
+    "hostname": "acunote.com", 
     "name": "Acunote", 
     "status": "Active", 
     "url": "http://www.acunote.com"
@@ -86,6 +98,7 @@
   {
     "batch": "W08", 
     "description": "Addmired, Inc. is a software company in Palo Alto, CA, focused on creating new and engaging applications and games for users of social networks and mobile devices.", 
+    "hostname": "addmired.com", 
     "name": "Addmired", 
     "status": "Active", 
     "url": "http://www.addmired.com"
@@ -93,6 +106,7 @@
   {
     "batch": "S10", 
     "description": "AdGrok allows business owners to automate the process of choosing and bidding on keywords on Google AdWords.", 
+    "hostname": "adgrok.com", 
     "name": "AdGrok", 
     "status": "Exited", 
     "url": "http://adgrok.com"
@@ -100,6 +114,7 @@
   {
     "batch": "W09", 
     "description": "Adioso is a better search and booking app for leisure travel.", 
+    "hostname": "adioso.com", 
     "name": "Adioso", 
     "status": "Active", 
     "url": "http://adioso.com"
@@ -107,6 +122,7 @@
   {
     "batch": "S07", 
     "description": "Adpinion was trying to get rid of the antagonism between advertisers and web surfers by letting you vote for the ads you want.", 
+    "hostname": null, 
     "name": "Adpinion", 
     "status": "Dead", 
     "url": null
@@ -114,6 +130,7 @@
   {
     "batch": "S10", 
     "description": "AeroFS is a program where users are able to manage and store their files and data in a cloud-like platform.", 
+    "hostname": "aerofs.com", 
     "name": "AeroFS", 
     "status": "Active", 
     "url": "http://www.aerofs.com"
@@ -121,6 +138,7 @@
   {
     "batch": "S11", 
     "description": "Agile Diagnosis is building the central place for clinical guidelines, providing clinicians with access to expertise and information in a format they can apply in their practice.", 
+    "hostname": "agilediagnosis.com", 
     "name": "AgileDiagnosis", 
     "status": "Active", 
     "url": "http://www.agilediagnosis.com"
@@ -128,6 +146,7 @@
   {
     "batch": "W09", 
     "description": "Founded in August 2008 and based in San Francisco, California, Airbnb is a trusted community marketplace for people to list, discover, and book unique spaces around the world \u2013 online or from a mobile phone.", 
+    "hostname": "airbnb.com", 
     "name": "AirBnb", 
     "status": "Active", 
     "url": "http://airbnb.com"
@@ -135,6 +154,7 @@
   {
     "batch": "S12", 
     "description": "Airbrite is a cloud-enabled platform that powers mobile commerce We are the next generation of e-commerce. Our mobile-first API powers modern shopping.", 
+    "hostname": "airbritelabs.com", 
     "name": "Airbrite", 
     "status": "Active", 
     "url": "http://airbritelabs.com"
@@ -142,6 +162,7 @@
   {
     "batch": "W14", 
     "description": "If you've been on a delayed or cancelled flight or been denied boarding within the last three years you could be entitled up to $800 from the airline.", 
+    "hostname": "getairhelp.com", 
     "name": "AirHelp", 
     "status": "Active", 
     "url": "http://www.getairhelp.com"
@@ -149,6 +170,7 @@
   {
     "batch": "W14", 
     "description": "The World's Best Software Experts at your finger tips, on-demand through video chat & screen sharing.", 
+    "hostname": "airpair.com", 
     "name": "AirPair", 
     "status": "Active", 
     "url": "http://www.airpair.com"
@@ -156,6 +178,7 @@
   {
     "batch": "W13", 
     "description": "Airware specializes in the development of autopilots for unmanned aircraft systems.", 
+    "hostname": "airware.com", 
     "name": "Airware", 
     "status": "Active", 
     "url": "http://www.airware.com"
@@ -163,6 +186,7 @@
   {
     "batch": "S11", 
     "description": "Aisle50 is the first group-buying outlet for groceries, a $2 trillion business. The best way to save on your groceries.", 
+    "hostname": "aisle50.com", 
     "name": "Aisle50", 
     "status": "Active", 
     "url": "http://www.aisle50.com"
@@ -170,6 +194,7 @@
   {
     "batch": "W14", 
     "description": "Build Realtime Search. A powerful API built for developers, Algolia delivers relevant results in your apps and websites from the first keystroke.", 
+    "hostname": "algolia.com", 
     "name": "Algolia", 
     "status": "Active", 
     "url": "http://www.algolia.com"
@@ -177,6 +202,7 @@
   {
     "batch": "W14", 
     "description": "Office productivity with a purpose.", 
+    "hostname": "tryambition.com", 
     "name": "Ambition", 
     "status": "Active", 
     "url": "http://www.tryambition.com"
@@ -184,6 +210,7 @@
   {
     "batch": "S12", 
     "description": "Amicus empowers cause-driven organizations to leverage the social networks of their supporters, raise more money, attract more members, and win more votes.", 
+    "hostname": "amicushq.com", 
     "name": "Amicus", 
     "status": "Active", 
     "url": "http://amicushq.com"
@@ -191,6 +218,7 @@
   {
     "batch": "S13", 
     "description": "An Emergency Response System. Reimagined.", 
+    "hostname": "amulyte.com", 
     "name": "Amulyte", 
     "status": "Active", 
     "url": "http://amulyte.com"
@@ -198,6 +226,7 @@
   {
     "batch": "W10", 
     "description": "InboxQ is a browser extension that delivers a persistent stream of questions from Twitter directly to you.", 
+    "hostname": "inboxq.com", 
     "name": "Answerly.com", 
     "status": "Active", 
     "url": "http://www.inboxq.com"
@@ -205,6 +234,7 @@
   {
     "batch": "S10", 
     "description": "AnyLeaf offers unbeatable deals on local groceries.", 
+    "hostname": "anyleaf.com", 
     "name": "AnyLeaf", 
     "status": "Active", 
     "url": "http://www.anyleaf.com/signup"
@@ -212,6 +242,7 @@
   {
     "batch": "W12", 
     "description": "AnyPerk offers discounts on web-services as employee perks.", 
+    "hostname": "anyperk.com", 
     "name": "Anyperk", 
     "status": "Active", 
     "url": "http://anyperk.com"
@@ -219,6 +250,7 @@
   {
     "batch": "S08", 
     "description": "Anyvite is a free site dedicated to event invitation creation and group organization.", 
+    "hostname": "anyvite.com", 
     "name": "Anyvite", 
     "status": "Active", 
     "url": "http://www.anyvite.com"
@@ -226,6 +258,7 @@
   {
     "batch": "W12", 
     "description": "AnyVivo wants to be the e-commerce hub for all living things.", 
+    "hostname": "anyvivo.com", 
     "name": "AnyVivo", 
     "status": "Active", 
     "url": "http://www.anyvivo.com"
@@ -233,6 +266,7 @@
   {
     "batch": "S07", 
     "description": "Anywhere.fm lets you upload your music collection onto their site and then play your music anywhere from the web.", 
+    "hostname": "anywhere.fm", 
     "name": "Anywhere.fm", 
     "status": "Exited", 
     "url": "http://www.anywhere.fm"
@@ -240,6 +274,7 @@
   {
     "batch": "W11", 
     "description": "AppHarbor is a .NET Platform-as-a-Service.", 
+    "hostname": "appharbor.com", 
     "name": "AppHarbor", 
     "status": "Active", 
     "url": "http://appharbor.com"
@@ -247,6 +282,7 @@
   {
     "batch": "S07", 
     "description": "AppJet is an online programming tool for building simple web apps.", 
+    "hostname": "appjet.com", 
     "name": "Appjet", 
     "status": "Exited", 
     "url": "http://appjet.com"
@@ -254,6 +290,7 @@
   {
     "batch": "S13", 
     "description": "The Complete Mobile A/B Testing Solution", 
+    "hostname": "apptimize.com", 
     "name": "Apptimize", 
     "status": "Active", 
     "url": "http://apptimize.com"
@@ -261,6 +298,7 @@
   {
     "batch": "W14", 
     "description": "Furnishings by owner. Delivery to you. The destination marketplace for quality gently used furniture.", 
+    "hostname": "aptdeco.com", 
     "name": "AptDeco", 
     "status": "Active", 
     "url": "http://www.aptdeco.com"
@@ -268,6 +306,7 @@
   {
     "batch": "W12", 
     "description": "Ark.com is a search engine for people. Find new people. Reconnect with old classmates. Make new business contacts. Search your friends.", 
+    "hostname": "ark.com", 
     "name": "Ark", 
     "status": "Active", 
     "url": "http://www.ark.com"
@@ -275,6 +314,7 @@
   {
     "batch": "S13", 
     "description": "The most transparent platform ever for buying, selling, and managing parts.", 
+    "hostname": "asseta.com", 
     "name": "Asseta", 
     "status": "Active", 
     "url": "http://www.asseta.com"
@@ -282,6 +322,7 @@
   {
     "batch": "W07", 
     "description": "Auctomatic, a Y Combinator company, offers an auction and marketplace management system for all of those individual sellers on such sites as Ebay, Amazon, Overstock and others.", 
+    "hostname": "auctomatic.com", 
     "name": "Auctomatic", 
     "status": "Exited", 
     "url": "http://auctomatic.com"
@@ -289,6 +330,7 @@
   {
     "batch": "W06", 
     "description": null, 
+    "hostname": null, 
     "name": "AudioBeta", 
     "status": "Active", 
     "url": null
@@ -296,6 +338,7 @@
   {
     "batch": "S12", 
     "description": "Authy makes it easy to add optional two factor authentication to your application. You just add some API calls to your app and your users will be able to use their phones as a second layer of authentication.", 
+    "hostname": "authy.com", 
     "name": "Authy", 
     "status": "Active", 
     "url": "https://www.authy.com"
@@ -303,6 +346,7 @@
   {
     "batch": "S08", 
     "description": "Awesome Highlighter is a company that provides a tool that enables you to go to a website and highlight information to save for later or share with your friends.", 
+    "hostname": null, 
     "name": "AwesomeHighlighter", 
     "status": "Dead", 
     "url": null
@@ -310,6 +354,7 @@
   {
     "batch": "S11", 
     "description": "Our mission is to connect great businesses with each other. We'll help you make smart and easy decisions on products and services based on honest reviews, from one business to another.", 
+    "hostname": "b2brev.com", 
     "name": "B2Brev", 
     "status": "Active", 
     "url": "http://b2brev.com"
@@ -317,6 +362,7 @@
   {
     "batch": "S08", 
     "description": "BackType is a marketing intelligence platform that helps brands and agencies understand the business impact of social media.", 
+    "hostname": "backtype.com", 
     "name": "Backtype", 
     "status": "Exited", 
     "url": "http://www.backtype.com"
@@ -324,6 +370,7 @@
   {
     "batch": "W11", 
     "description": "Payments for marketplaces. Pay sellers, campaign organizers and service providers.", 
+    "hostname": "balancedpayments.com", 
     "name": "Balanced Payments", 
     "status": "Active", 
     "url": "https://www.balancedpayments.com"
@@ -331,6 +378,7 @@
   {
     "batch": "W14", 
     "description": "Fund one writer for $5 a month. Get access to every story on Beacon.", 
+    "hostname": "beaconreader.com", 
     "name": "Beacon", 
     "status": "Active", 
     "url": "http://www.beaconreader.com"
@@ -338,6 +386,7 @@
   {
     "batch": "W13", 
     "description": "Free, powerful social metrics combined with effective campaign feedback.", 
+    "hostname": "beatdeck.com", 
     "name": "Beatdeck", 
     "status": "Active", 
     "url": "https://www.beatdeck.com"
@@ -345,6 +394,7 @@
   {
     "batch": "W11", 
     "description": "Beetailer's software helps retailers import existing web stores onto Facebook and gives e-retailers tools for promoting the storefront and detailed analytics about how well it is doing.", 
+    "hostname": "beetailer.com", 
     "name": "Beetailer", 
     "status": "Active", 
     "url": "http://www.beetailer.com"
@@ -352,6 +402,7 @@
   {
     "batch": "W14", 
     "description": "Bellabeat allows you to connect with your unborn baby and share your experience with friends, family and other future moms.", 
+    "hostname": "bellabeat.com", 
     "name": "Bellabeat", 
     "status": "Active", 
     "url": "http://www.bellabeat.com"
@@ -359,6 +410,7 @@
   {
     "batch": "S12", 
     "description": "Fast, scalable financial analytics. BigCalc lets quants and algo traders run simulations on limitless amounts of historic data.", 
+    "hostname": "bigcalc.com", 
     "name": "BigCalc", 
     "status": "Active", 
     "url": "http://www.bigcalc.com"
@@ -366,6 +418,7 @@
   {
     "batch": "S07", 
     "description": "Biographicon was a wiki-based website containing biographies of famous and non-famous people.", 
+    "hostname": null, 
     "name": "Biographicon", 
     "status": "Dead", 
     "url": null
@@ -373,6 +426,7 @@
   {
     "batch": "W13", 
     "description": "The App Store for server software. Run any app on any platform.", 
+    "hostname": "bitnami.com", 
     "name": "Bitnami", 
     "status": "Active", 
     "url": "http://bitnami.com"
@@ -380,6 +434,7 @@
   {
     "batch": "S13", 
     "description": "Ridiculously fast flowers. Handcrafted bouquets. Starting at $35. Delivered in 90 minutes.", 
+    "hostname": "bloomthat.com", 
     "name": "Bloomthat", 
     "status": "Active", 
     "url": "http://www.bloomthat.com"
@@ -387,6 +442,7 @@
   {
     "batch": "W14", 
     "description": "Advertising made easy for sellers on marketplaces.", 
+    "hostname": "boostable.com", 
     "name": "Boostable", 
     "status": "Active", 
     "url": "http://www.boostable.com"
@@ -394,6 +450,7 @@
   {
     "batch": "S12", 
     "description": "Boosted Boards builds the world's lightest electric longboards.", 
+    "hostname": "boostedboards.com", 
     "name": "BoostedBoards", 
     "status": "Active", 
     "url": "http://www.boostedboards.com"
@@ -401,6 +458,7 @@
   {
     "batch": "S07", 
     "description": "Browse the best deals on electronics and appliances from top stores like Amazon.com, Newegg, CircuitCity, Best Buy, Walmart, and Dell.", 
+    "hostname": "bountii.com", 
     "name": "Bountii", 
     "status": "Active", 
     "url": "http://bountii.com"
@@ -408,6 +466,7 @@
   {
     "batch": "W11", 
     "description": "RPC Framework for Building Modular Services and Cross-Language Applications.", 
+    "hostname": "getbridge.com", 
     "name": "Bridge", 
     "status": "Active", 
     "url": "https://www.getbridge.com"
@@ -415,6 +474,7 @@
   {
     "batch": "W10", 
     "description": "Browsarity.com is a browser application that allows people to donate to charity while shopping online.", 
+    "hostname": "browsarity.com", 
     "name": "Browsarity", 
     "status": "Active", 
     "url": "http://www.browsarity.com"
@@ -422,6 +482,7 @@
   {
     "batch": "S10", 
     "description": "Brushes is a painting app designed exclusively for the iPhone, iPod touch, and iPad.", 
+    "hostname": "brushesapp.com", 
     "name": "Brushes", 
     "status": "Active", 
     "url": "http://brushesapp.com"
@@ -429,6 +490,7 @@
   {
     "batch": "S12", 
     "description": "Ship parcels to BufferBox for quick, convenient & secure pick-up anytime. Never miss a delivery again.", 
+    "hostname": "bufferbox.com", 
     "name": "BufferBox", 
     "status": "Active", 
     "url": "http://www.bufferbox.com"
@@ -436,6 +498,7 @@
   {
     "batch": "W13", 
     "description": "BuildZoom is your one-stop shop for getting a house built, remodeled or repaired.", 
+    "hostname": "buildzoom.com", 
     "name": "BuildZoom", 
     "status": "Active", 
     "url": "http://www.buildzoom.com"
@@ -443,6 +506,7 @@
   {
     "batch": "S09", 
     "description": "Bump Technologies builds mobile applications and APIs that allow two smartphones to identify one another and connect by simply being bumped together.", 
+    "hostname": "bu.mp", 
     "name": "Bump", 
     "status": "Active", 
     "url": "http://bu.mp"
@@ -450,6 +514,7 @@
   {
     "batch": "S13", 
     "description": "Trade bitcoin with ease.", 
+    "hostname": "buttercoin.com", 
     "name": "Buttercoin", 
     "status": "Active", 
     "url": "http://buttercoin.com"
@@ -457,6 +522,7 @@
   {
     "batch": "W07", 
     "description": "Buxfer is the next-generation personal finance solution, taking money management to the web.", 
+    "hostname": "buxfer.com", 
     "name": "Buxfer", 
     "status": "Active", 
     "url": "http://www.buxfer.com"
@@ -464,6 +530,7 @@
   {
     "batch": "W14", 
     "description": "Private language tutors on-demand.", 
+    "hostname": "cambly.com", 
     "name": "Cambly", 
     "status": "Active", 
     "url": "http://www.cambly.com"
@@ -471,6 +538,7 @@
   {
     "batch": "W14", 
     "description": "Thousands of the best summer camps and year-round activities in your area and beyond.", 
+    "hostname": "camperoo.com", 
     "name": "Camperoo", 
     "status": "Active", 
     "url": "http://www.camperoo.com"
@@ -478,6 +546,7 @@
   {
     "batch": "S11", 
     "description": "Be the first to hear about movies that you will love!", 
+    "hostname": "cantwa.it", 
     "name": "Can'tWait", 
     "status": "Active", 
     "url": "http://cantwa.it"
@@ -485,6 +554,7 @@
   {
     "batch": "S12", 
     "description": "Canopy Labs provides a powerful platform for businesses wanting to build and apply customer models.", 
+    "hostname": "canopylabs.com", 
     "name": "Canopy Labs", 
     "status": "Active", 
     "url": "http://canopylabs.com"
@@ -492,6 +562,7 @@
   {
     "batch": "W10", 
     "description": "Cardpool is a gift card exchange marketplace where anybody can buy, sell, or trade their new or pre-owned gift cards.", 
+    "hostname": "cardpool.com", 
     "name": "CardPool", 
     "status": "Exited", 
     "url": "http://www.cardpool.com"
@@ -499,6 +570,7 @@
   {
     "batch": "W14", 
     "description": "Empower at-risk patients to become better healthcare consumers.", 
+    "hostname": "caremessage.org", 
     "name": "CareMessage", 
     "status": "Active", 
     "url": "http://caremessage.org"
@@ -506,6 +578,7 @@
   {
     "batch": "W12", 
     "description": "Carsabi is a search engine for used cars.", 
+    "hostname": "carsabi.com", 
     "name": "Carsabi", 
     "status": "Exited", 
     "url": "http://carsabi.com"
@@ -513,6 +586,7 @@
   {
     "batch": "S09", 
     "description": "CarWoo! is an online new-car buying service and marketplace.", 
+    "hostname": "carwoo.com", 
     "name": "CarWoo", 
     "status": "Active", 
     "url": "http://www.carwoo.com"
@@ -520,6 +594,7 @@
   {
     "batch": "S13", 
     "description": "On Casetext, judicial opinions and statutes are annotated with analysis by prominent law professors and attorneys at leading firms, giving you unique insight. And everything is 100% free.", 
+    "hostname": "casetext.com", 
     "name": "Casetext", 
     "status": "Active", 
     "url": "http://casetext.com"
@@ -527,6 +602,7 @@
   {
     "batch": "S10", 
     "description": "Chart.io helps businesses analyze and track their critical data.", 
+    "hostname": "chart.io", 
     "name": "Chart.io", 
     "status": "Active", 
     "url": "http://chart.io"
@@ -534,6 +610,7 @@
   {
     "batch": "W08", 
     "description": "Chatterous is a communications service that aims to allow groups of friends to stay in contact with each other synchronously through any communications channel.", 
+    "hostname": "chatterous.com", 
     "name": "Chatterous", 
     "status": "Active", 
     "url": "http://www.chatterous.com"
@@ -541,6 +618,7 @@
   {
     "batch": "W11", 
     "description": "Chirply is a platform for crowd-sourcing & crowd-curating design.", 
+    "hostname": "chirply.com", 
     "name": "Chirply", 
     "status": "Active", 
     "url": "http://www.chirply.com"
@@ -548,6 +626,7 @@
   {
     "batch": "W10", 
     "description": "We want the whole world to find their color enlightenment. We believe that choosing colors shouldn't be a \"black and white\" process, and that everyone can discover their own personal color enlightenment from within.", 
+    "hostname": "chromaom.com", 
     "name": "ChromaOm", 
     "status": "Active", 
     "url": "http://www.chromaom.com"
@@ -555,6 +634,7 @@
   {
     "batch": "W12", 
     "description": "Chute is a cloud platform that helps apps and sites capture, manage, and display media files", 
+    "hostname": "getchute.com", 
     "name": "chute", 
     "status": "Active", 
     "url": "http://getchute.com"
@@ -562,6 +642,7 @@
   {
     "batch": "W11", 
     "description": "Know when your friends & networks are nearby, wherever you are, no matter where you go. Circle tells you when your friends, or people from your networks (college, work, hometown, professional group, etc.), are near you.", 
+    "hostname": "discovercircle.com", 
     "name": "Circle", 
     "status": "Active", 
     "url": "http://discovercircle.com"
@@ -569,6 +650,7 @@
   {
     "batch": "W13", 
     "description": "We're making it easier for engineers, students, and hobbyists to design, analyze, build, and share circuits.", 
+    "hostname": "circuitlab.com", 
     "name": "CircuitLab", 
     "status": "Active", 
     "url": "http://circuitlab.com"
@@ -576,6 +658,7 @@
   {
     "batch": "S12", 
     "description": "Circular offers an infinitely scrolling feed of content based on people you follow and topics that interest you.", 
+    "hostname": "circularapp.com", 
     "name": "Circular", 
     "status": "Active", 
     "url": "http://www.circularapp.com"
@@ -583,6 +666,7 @@
   {
     "batch": "S11", 
     "description": "CitusDB is a distributed database that lets you run SQL queries over very large data sets. Designed for analytical queries, CitusDB enables real-time responsiveness.", 
+    "hostname": "citusdata.com", 
     "name": "Citus Data", 
     "status": "Active", 
     "url": "http://www.citusdata.com"
@@ -590,6 +674,7 @@
   {
     "batch": "S12", 
     "description": "Build educational applications that just work.", 
+    "hostname": "getclever.com", 
     "name": "Clever", 
     "status": "Active", 
     "url": "http://getclever.com"
@@ -597,6 +682,7 @@
   {
     "batch": "S05", 
     "description": "ClickFacts is a Malware Software Solutions company for buyers and sellers of online media.", 
+    "hostname": "clickfacts.com", 
     "name": "ClickFacts", 
     "status": "Active", 
     "url": "http://clickfacts.com"
@@ -604,6 +690,7 @@
   {
     "batch": "S07", 
     "description": "Clickpass makes OpenID easy to use and brings OpenID closer to the mainstream than any other company has done before.", 
+    "hostname": "clickpass.com", 
     "name": "Clickpass", 
     "status": "Exited", 
     "url": "http://www.clickpass.com"
@@ -611,6 +698,7 @@
   {
     "batch": "S07", 
     "description": "The Cloudant Data Layer is the cloud database service managed by experts.", 
+    "hostname": "cloudant.com", 
     "name": "Cloudant", 
     "status": "Active", 
     "url": "http://cloudant.com"
@@ -618,6 +706,7 @@
   {
     "batch": "W09", 
     "description": "Cloudkick is a centralized web-based control hub for cloud servers.", 
+    "hostname": "cloudkick.com", 
     "name": "Cloudkick", 
     "status": "Exited", 
     "url": "http://cloudkick.com"
@@ -625,6 +714,7 @@
   {
     "batch": "W06", 
     "description": "Clustrix has built a NewSQL database with no limits.", 
+    "hostname": "clustrix.com", 
     "name": "Clustrix", 
     "status": "Active", 
     "url": "http://www.clustrix.com"
@@ -632,6 +722,7 @@
   {
     "batch": "S08", 
     "description": "CO2Stats aims to help website owners understand the electricity usage and related carbon emissions associated with site usage, and then helps site owners manage their carbon footprint.", 
+    "hostname": "co2stats.com", 
     "name": "CO2Stats", 
     "status": "Active", 
     "url": "http://co2stats.com"
@@ -639,6 +730,7 @@
   {
     "batch": "S12", 
     "description": "Coco Controller is a Kickstarter project that adds directional controls and game buttons to almost any phone, including the Galaxy SIII, iPhone, and most standard Android handsets.", 
+    "hostname": "cococontroller.com", 
     "name": "Coco Controller", 
     "status": "Active", 
     "url": "http://cococontroller.com"
@@ -646,6 +738,7 @@
   {
     "batch": "S11", 
     "description": "Codecademy is a web-based programming tutorial designed to teach JavaScript, HTML, CSS, JQuery and Python", 
+    "hostname": "codecademy.com", 
     "name": "Codecademy", 
     "status": "Active", 
     "url": "http://www.codecademy.com"
@@ -653,6 +746,7 @@
   {
     "batch": "W14", 
     "description": "Learn to code javascript by playing a game.", 
+    "hostname": "codecombat.com", 
     "name": "CodeCombat", 
     "status": "Active", 
     "url": "http://codecombat.com"
@@ -660,6 +754,7 @@
   {
     "batch": "W14", 
     "description": "Creating the developers of the future.", 
+    "hostname": "codenow.org", 
     "name": "CodeNow", 
     "status": "Active", 
     "url": "http://www.codenow.org"
@@ -667,6 +762,7 @@
   {
     "batch": "W12", 
     "description": "Coderwall is a site for developers to profile what projects they are up to and learn from others.", 
+    "hostname": "coderwall.com", 
     "name": "Coderwall", 
     "status": "Active", 
     "url": "http://coderwall.com"
@@ -674,6 +770,7 @@
   {
     "batch": "S12", 
     "description": "Your Hosted Bitcoin Wallet. Coinbase is the easiest way to get started with Bitcoin.", 
+    "hostname": "coinbase.com", 
     "name": "Coinbase", 
     "status": "Active", 
     "url": "http://coinbase.com"
@@ -681,6 +778,7 @@
   {
     "batch": "S12", 
     "description": "Finder for the cloud. Google docs, Facebook, Instagram.", 
+    "hostname": "collections.me", 
     "name": "Collections", 
     "status": "Active", 
     "url": "http://collections.me"
@@ -688,6 +786,7 @@
   {
     "batch": "W11", 
     "description": "Comprehend Systems is the maker of Comprehend Clinical, which is a reporting and visualization tool which runs against multiple databases in real time, while leaving the data in place.", 
+    "hostname": "comprehend.com", 
     "name": "Comprehend Systems", 
     "status": "Active", 
     "url": "http://www.comprehend.com"
@@ -695,6 +794,7 @@
   {
     "batch": "S08", 
     "description": "ContestMachine is a web service that makes running promotions from any website easy.", 
+    "hostname": "contestmachine.com", 
     "name": "ContestMachine", 
     "status": "Active", 
     "url": "http://www.contestmachine.com"
@@ -702,6 +802,7 @@
   {
     "batch": "S13", 
     "description": "Linux for Massive Server Deployments CoreOS enables warehouse-scale computing on top of a minimal, modern operating system.", 
+    "hostname": "coreos.com", 
     "name": "CoreOS", 
     "status": "Active", 
     "url": "http://coreos.com"
@@ -709,6 +810,7 @@
   {
     "batch": "W10", 
     "description": "Crocodoc is the trusted leader in HTML5 document viewing.", 
+    "hostname": "crocodoc.com", 
     "name": "Crocodoc", 
     "status": "Active", 
     "url": "http://www.crocodoc.com"
@@ -716,6 +818,7 @@
   {
     "batch": "S10", 
     "description": "Crowdbooster provides the world's first intelligent social media dashboard designed to help businesses effectively grow and manage their presence online.", 
+    "hostname": "crowdbooster.com", 
     "name": "Crowdbooster", 
     "status": "Active", 
     "url": "http://crowdbooster.com"
@@ -723,6 +826,7 @@
   {
     "batch": "S13", 
     "description": "Early access to great design.", 
+    "hostname": "crowdery.com", 
     "name": "Crowdery", 
     "status": "Active", 
     "url": "http://www.crowdery.com"
@@ -730,6 +834,7 @@
   {
     "batch": "W13", 
     "description": "CrowdMed is revolutionizing healthcare by harnessing \u2018the wisdom of crowds\u2019 to help solve even the world\u2019s most difficult medical cases quickly and accurately online.", 
+    "hostname": "crowdmed.com", 
     "name": "CrowdMed", 
     "status": "Active", 
     "url": "http://www.crowdmed.com"
@@ -737,6 +842,7 @@
   {
     "batch": "W12", 
     "description": "Crowdtilt allows users to pool funds for objectives in a simple, social, and frictionless way online.", 
+    "hostname": "crowdtilt.com", 
     "name": "Crowdtilt", 
     "status": "Active", 
     "url": "http://www.crowdtilt.com"
@@ -744,6 +850,7 @@
   {
     "batch": "W10", 
     "description": "Know what's next.", 
+    "hostname": "cueup.com", 
     "name": "Cue", 
     "status": "Active", 
     "url": "https://www.cueup.com"
@@ -751,6 +858,7 @@
   {
     "batch": "W11", 
     "description": "Curebit helps online stores increase revenue through referrals by turning existing customers into marketers.", 
+    "hostname": "curebit.com", 
     "name": "Curebit", 
     "status": "Active", 
     "url": "http://www.curebit.com"
@@ -758,6 +866,7 @@
   {
     "batch": "W11", 
     "description": "Custora offers a SaaS that tells online retailers and web apps which of their customers are most valuable, and suggests actions to keep them.", 
+    "hostname": "custora.com", 
     "name": "Custora", 
     "status": "Active", 
     "url": "https://www.custora.com"
@@ -765,6 +874,7 @@
   {
     "batch": "S09", 
     "description": "DailyBooth lets users follow their friends and update them in real-time through the use of pictures and status updates.", 
+    "hostname": "dailybooth.com", 
     "name": "DailyBooth", 
     "status": "Exited", 
     "url": "http://dailybooth.com"
@@ -772,6 +882,7 @@
   {
     "batch": "W10", 
     "description": "Data Marketplace helps people find, buy and sell data online.", 
+    "hostname": "datamarketplace.com", 
     "name": "datamarketplace", 
     "status": "Exited", 
     "url": "http://datamarketplace.com"
@@ -779,6 +890,7 @@
   {
     "batch": "S12", 
     "description": "Supercharge Excel. Script your spreadsheets with Python.", 
+    "hostname": "datanitro.com", 
     "name": "DataNitro", 
     "status": "Active", 
     "url": "http://datanitro.com"
@@ -786,6 +898,7 @@
   {
     "batch": "S13", 
     "description": "Gain Insights into your Customers and Competitive Market by monitoring the highest quality online data in real-time.", 
+    "hostname": "datarank.com", 
     "name": "DataRank", 
     "status": "Active", 
     "url": "http://www.datarank.com"
@@ -793,6 +906,7 @@
   {
     "batch": "W12", 
     "description": "A fresh, new way to shop daily deals.", 
+    "hostname": "dealupa.com", 
     "name": "Dealupa", 
     "status": "Active", 
     "url": "http://dealupa.com"
@@ -800,6 +914,7 @@
   {
     "batch": "S11", 
     "description": "We are an automated credit counseling solution to help customers get out of debt, a little like a \u201cturbo tax\u201d for those who need debt relief.", 
+    "hostname": "debteye.com", 
     "name": "DebtEye", 
     "status": "Active", 
     "url": "http://www.debteye.com"
@@ -807,6 +922,7 @@
   {
     "batch": "W08", 
     "description": "Deluux aims to become distributed Facebook, or inverted Ning, by relocating the center of people\u00e2\u20ac\u2122s online identities to their websites, which exist outside of any one social network.", 
+    "hostname": "deluux.com", 
     "name": "Deluux", 
     "status": "Active", 
     "url": "http://deluux.com"
@@ -814,6 +930,7 @@
   {
     "batch": "S12", 
     "description": "Social freedom. Diaspora is a fun and creative community that puts you in control.", 
+    "hostname": "diasporaproject.org", 
     "name": "Diaspora", 
     "status": "Active", 
     "url": "http://diasporaproject.org"
@@ -821,6 +938,7 @@
   {
     "batch": "S09", 
     "description": "Directed Edge delivers Amazon-like \u201cPeople who bought this also bought\u2026\u201d and \u201cWe think you'd also like\u201d-style recommendations to other sites, using existing data being collected such as purchase or click histories.", 
+    "hostname": "directededge.com", 
     "name": "DirectedEdge", 
     "status": "Active", 
     "url": "http://www.directededge.com"
@@ -828,6 +946,7 @@
   {
     "batch": "S07", 
     "description": "Beautiful, real-time, engaging discussions for your website. With a few quick steps, you can turn your old comment system into a new way to engage your visitors.", 
+    "hostname": "disqus.com", 
     "name": "Disqus", 
     "status": "Active", 
     "url": "http://www.disqus.com"
@@ -835,6 +954,7 @@
   {
     "batch": "W09", 
     "description": "Divvyshot allows groups of friends to share their photos easily, at their full resolutions.", 
+    "hostname": "divvyshot.com", 
     "name": "Divvyshot", 
     "status": "Exited", 
     "url": "http://divvyshot.com"
@@ -842,6 +962,7 @@
   {
     "batch": "S13", 
     "description": "Your favorite local restaurants delivered to you.", 
+    "hostname": "doordash.com", 
     "name": "DoorDash", 
     "status": "Active", 
     "url": "http://doordash.com"
@@ -849,6 +970,7 @@
   {
     "batch": "S10", 
     "description": "DotCloud is a 2nd-generation platform-as-a-service.", 
+    "hostname": "dotcloud.com", 
     "name": "Dotcloud", 
     "status": "Active", 
     "url": "http://www.dotcloud.com"
@@ -856,6 +978,7 @@
   {
     "batch": "S12", 
     "description": "Double is the simplest, most elegant way to be somewhere else in the world without flying there. Wheels for your iPad.", 
+    "hostname": "doublerobotics.com", 
     "name": "Double Robotics", 
     "status": "Active", 
     "url": "http://doublerobotics.com"
@@ -863,6 +986,7 @@
   {
     "batch": "S11", 
     "description": "DoubleRecall is a recall based advertising platform and monetization solution for online media and mobile.", 
+    "hostname": "doublerecall.com", 
     "name": "DoubleRecall", 
     "status": "Active", 
     "url": "http://www.doublerecall.com"
@@ -870,6 +994,7 @@
   {
     "batch": "W11", 
     "description": "drchrono is a medical platform for doctors and patients.", 
+    "hostname": "drchrono.com", 
     "name": "Dr Chrono", 
     "status": "Active", 
     "url": "http://drchrono.com"
@@ -877,6 +1002,7 @@
   {
     "batch": "S07", 
     "description": "On DraftMix fantasy sports fans can sign up and play pickup games against other players on the site for virtual dollars or for real money .", 
+    "hostname": "draftmix.com", 
     "name": "Draftmix", 
     "status": "Active", 
     "url": "http://www.draftmix.com"
@@ -884,6 +1010,7 @@
   {
     "batch": "S12", 
     "description": "We believe that 3D printing will fundamentally reshape our relationship with the products and items we use. At Dreamforge, we'll strive to show our beliefs in big ways and small in the products we build and in the example we set.", 
+    "hostname": "dreamforge.me", 
     "name": "Dreamforge", 
     "status": "Active", 
     "url": "http://dreamforge.me"
@@ -891,6 +1018,7 @@
   {
     "batch": "S07", 
     "description": "Dropbox was founded in 2007 by Drew Houston and Arash Ferdowsi.", 
+    "hostname": "dropbox.com", 
     "name": "Dropbox", 
     "status": "Active", 
     "url": "http://www.dropbox.com"
@@ -898,6 +1026,7 @@
   {
     "batch": "S10", 
     "description": "E la Carte develops tablets for restaurant tables so guests can order, pay and play games from their seats", 
+    "hostname": "elacarte.com", 
     "name": "E la Carte", 
     "status": "Active", 
     "url": "http://elacarte.com"
@@ -905,6 +1034,7 @@
   {
     "batch": "W11", 
     "description": "Earbits is a marketing platform for music related products built around interactive radio experiences.", 
+    "hostname": "earbits.com", 
     "name": "Earbits", 
     "status": "Active", 
     "url": "http://www.earbits.com"
@@ -912,6 +1042,7 @@
   {
     "batch": "S12", 
     "description": "Easel is an in-browser, high-fidelity web design tool that lets you mockup, share and implement your ideas with ease.", 
+    "hostname": "easel.io", 
     "name": "Easel", 
     "status": "Active", 
     "url": "https://easel.io"
@@ -919,6 +1050,7 @@
   {
     "batch": "S13", 
     "description": "Shipping for developers. EasyPost allows you to integrate USPS, UPS, DHL and FedEx shipping APIs into any application in minutes.", 
+    "hostname": "easypost.com", 
     "name": "EasyPost", 
     "status": "Active", 
     "url": "http://easypost.com"
@@ -926,6 +1058,7 @@
   {
     "batch": "W09", 
     "description": "Echodio makes it easy to keep iTunes music libraries in sync, securely backed up and streamable from anywhere.", 
+    "hostname": "echodio.com", 
     "name": "Echodio", 
     "status": "Active", 
     "url": "http://www.echodio.com"
@@ -933,6 +1066,7 @@
   {
     "batch": "S12", 
     "description": "Real Time Eligibility Checks for Health Insurance.", 
+    "hostname": "eligibleapi.com", 
     "name": "Eligible", 
     "status": "Active", 
     "url": "http://eligibleapi.com"
@@ -940,6 +1074,7 @@
   {
     "batch": "W12", 
     "description": "Embark makes it easy to get around without a car. We make free, fast, and simple mobile apps for mass transit riders worldwide.", 
+    "hostname": "letsembark.com", 
     "name": "Embark", 
     "status": "Active", 
     "url": "http://letsembark.com"
@@ -947,6 +1082,7 @@
   {
     "batch": "W10", 
     "description": "Embedly provides a platform and suite of tools to make embedding and previewing links simple.", 
+    "hostname": "embed.ly", 
     "name": "Embedly", 
     "status": "Active", 
     "url": "http://embed.ly"
@@ -954,6 +1090,7 @@
   {
     "batch": "W10", 
     "description": "Embedster allows bloggers to serve an ad for any YouTube they display on their site.", 
+    "hostname": "embedster.com", 
     "name": "Embedster", 
     "status": "Active", 
     "url": "http://www.embedster.com"
@@ -961,6 +1098,7 @@
   {
     "batch": "W13", 
     "description": "Monitoring, error reporting, and metrics for all your applications.", 
+    "hostname": "errplane.com", 
     "name": "Errplane", 
     "status": "Active", 
     "url": "http://errplane.com"
@@ -968,6 +1106,7 @@
   {
     "batch": "S13", 
     "description": "Estimote beacons real world context for your apps.", 
+    "hostname": "estimote.com", 
     "name": "Estimote", 
     "status": "Active", 
     "url": "http://estimote.com"
@@ -975,6 +1114,7 @@
   {
     "batch": "W10", 
     "description": "Etacts is a CRM for people - it helps you keep in touch with people in your address book.", 
+    "hostname": "etacts.com", 
     "name": "Etacts", 
     "status": "Exited", 
     "url": "http://www.etacts.com"
@@ -982,6 +1122,7 @@
   {
     "batch": "W14", 
     "description": "Fee-free ticketing, optimized for mobile.", 
+    "hostname": "eventjoy.com", 
     "name": "Eventjoy", 
     "status": "Exited", 
     "url": "http://eventjoy.com"
@@ -989,6 +1130,7 @@
   {
     "batch": "W12", 
     "description": "everyArt allows you to commission an art piece from a diverse portfolio of artists on the web, all excited to collaborate with you on your masterpiece.", 
+    "hostname": "everyart.com", 
     "name": "EveryArt", 
     "status": "Active", 
     "url": "http://everyart.com"
@@ -996,6 +1138,7 @@
   {
     "batch": "S12", 
     "description": "Everyday.me is an automatic journal that helps you to record your life and store it forever.", 
+    "hostname": "everyday.me", 
     "name": "Everyday.me", 
     "status": "Active", 
     "url": "http://everyday.me"
@@ -1003,6 +1146,7 @@
   {
     "batch": "S11", 
     "description": "We believe most stories are meant to be shared with your family and best friends, not 500 strangers. Everyme lets you choose who to share with and how.", 
+    "hostname": "everyme.com", 
     "name": "EveryMe", 
     "status": "Active", 
     "url": "http://everyme.com"
@@ -1010,6 +1154,7 @@
   {
     "batch": "W12", 
     "description": "Exec lets you outsource the things you don't want to do in life. Let our background checked Execs help you get things done today.", 
+    "hostname": "iamexec.com", 
     "name": "Exec", 
     "status": "Active", 
     "url": "http://iamexec.com"
@@ -1017,6 +1162,7 @@
   {
     "batch": "W10", 
     "description": "Designers - Sell on Fabricly. Fabricly is a great way for you to gain extra exposure, whether you're already selling online or if you're just getting started.", 
+    "hostname": "fabricly.com", 
     "name": "Fabricly", 
     "status": "Active", 
     "url": "http://www.fabricly.com"
@@ -1024,6 +1170,7 @@
   {
     "batch": "W12", 
     "description": "FamilyLeaf is a private place to share your life with your family.", 
+    "hostname": "familyleaf.com", 
     "name": "FamilyLeaf", 
     "status": "Active", 
     "url": "http://familyleaf.com"
@@ -1031,6 +1178,7 @@
   {
     "batch": "S09", 
     "description": "FanChatter fuels your fans so they can promote you better than any ad ever could.", 
+    "hostname": "fanchatter.com", 
     "name": "FanChatter", 
     "status": "Active", 
     "url": "http://fanchatter.com"
@@ -1038,6 +1186,7 @@
   {
     "batch": "S13", 
     "description": "Let your fans support you. The easiest-to-make storefront for creators.", 
+    "hostname": "fanhero.com", 
     "name": "FanHero", 
     "status": "Active", 
     "url": "http://fanhero.com"
@@ -1045,6 +1194,7 @@
   {
     "batch": "S10", 
     "description": "Check-in to games to chat and trash-talk with friends who are also watching.", 
+    "hostname": "fanvibe.com", 
     "name": "FanPulse", 
     "status": "Exited", 
     "url": "http://fanvibe.com"
@@ -1052,6 +1202,7 @@
   {
     "batch": "W12", 
     "description": "FarmLogs makes it incredibly simple to always know what's happening on your farm. Start saving time and money. Ditch the spreadsheets and paper records!", 
+    "hostname": "farmlogs.com", 
     "name": "FarmLogs", 
     "status": "Active", 
     "url": "http://farmlogs.com"
@@ -1059,6 +1210,7 @@
   {
     "batch": "W08", 
     "description": "FathomDB offers databases as a service, taking care of many of the day-to-day tasks database administrators have to deal with and letting them focus on more complex issues.", 
+    "hostname": "fathomdb.com", 
     "name": "FathomDB", 
     "status": "Active", 
     "url": "http://www.fathomdb.com"
@@ -1066,6 +1218,7 @@
   {
     "batch": "S12", 
     "description": "Filepicker.io connects mobile & web applications to user content.", 
+    "hostname": "filepicker.io", 
     "name": "Filepicker.io", 
     "status": "Active", 
     "url": "https://www.filepicker.io"
@@ -1073,6 +1226,7 @@
   {
     "batch": "S11", 
     "description": "A scalable real-time backend for your web app. Build apps really fast without the hassle of managing servers.", 
+    "hostname": "firebase.com", 
     "name": "Firebase", 
     "status": "Active", 
     "url": "http://www.firebase.com"
@@ -1080,6 +1234,7 @@
   {
     "batch": "W11", 
     "description": "Think of FitFu as a personal trainer in your pocket that keeps you active with little bits of exercise throughout the day.", 
+    "hostname": null, 
     "name": "FitFu", 
     "status": "Dead", 
     "url": null
@@ -1087,6 +1242,7 @@
   {
     "batch": "W11", 
     "description": "We created a universal customer loyalty card that embraces the power of network effects, social media integration & improves the customer experience.", 
+    "hostname": "fivestarscard.com", 
     "name": "Five Stars", 
     "status": "Active", 
     "url": "http://fivestarscard.com"
@@ -1094,6 +1250,7 @@
   {
     "batch": "W13", 
     "description": "Spreadsheets for big data.", 
+    "hostname": "fivetran.com", 
     "name": "Fivetran", 
     "status": "Active", 
     "url": "http://fivetran.com"
@@ -1101,6 +1258,7 @@
   {
     "batch": "W06", 
     "description": "Flagr enables users to share places, adding photos, video and descriptions from their mobile phone.", 
+    "hostname": null, 
     "name": "Flagr", 
     "status": "Dead", 
     "url": null
@@ -1108,6 +1266,7 @@
   {
     "batch": "W13", 
     "description": "FlightCar lets people parking at the airport rent their vehicles out to other travelers. Never pay for airport parking again.", 
+    "hostname": "flightcar.com", 
     "name": "FlightCar", 
     "status": "Active", 
     "url": "http://flightcar.com"
@@ -1115,6 +1274,7 @@
   {
     "batch": "S09", 
     "description": "FlightCaster predicts flight delays.", 
+    "hostname": "flightcaster.com", 
     "name": "Flightcaster", 
     "status": "Exited", 
     "url": "http://www.flightcaster.com"
@@ -1122,6 +1282,7 @@
   {
     "batch": "S12", 
     "description": "Flightfox is a platform for crowd-sourced flight search.", 
+    "hostname": "flightfox.com", 
     "name": "FlightFox", 
     "status": "Active", 
     "url": "http://flightfox.com"
@@ -1129,6 +1290,7 @@
   {
     "batch": "S13", 
     "description": "Floobits lets you code like you're in the same room.", 
+    "hostname": "floobits.com", 
     "name": "Floobits", 
     "status": "Active", 
     "url": "http://floobits.com"
@@ -1136,6 +1298,7 @@
   {
     "batch": "W12", 
     "description": "Play and pause your music and movies with a gesture!", 
+    "hostname": "flutterapp.com", 
     "name": "Flutter", 
     "status": "Active", 
     "url": "https://flutterapp.com"
@@ -1143,6 +1306,7 @@
   {
     "batch": "W12", 
     "description": "Flypad turns your iPhone into a motion-sensing game controller for PC, Steam, & indie games.", 
+    "hostname": "flypadapp.com", 
     "name": "Flypad", 
     "status": "Active", 
     "url": "http://flypadapp.com"
@@ -1150,6 +1314,7 @@
   {
     "batch": "W09", 
     "description": "Foodoro is a marketplace where people can buy specialty food directly from artisanal Foodmakers.", 
+    "hostname": "foodoro.com", 
     "name": "Foodoro", 
     "status": "Active", 
     "url": "http://foodoro.com"
@@ -1157,6 +1322,7 @@
   {
     "batch": "W14", 
     "description": "Framed retains your users. Framed Data knows how your users behave and warns you when they're about to leave.", 
+    "hostname": "framed.io", 
     "name": "Framed Data", 
     "status": "Active", 
     "url": "http://www.framed.io"
@@ -1164,6 +1330,7 @@
   {
     "batch": "S11", 
     "description": "Freshplum's goal is to bring the decision-making power of data science to companies who sell goods and services electronically.", 
+    "hostname": "freshplum.com", 
     "name": "FreshPlum", 
     "status": "Active", 
     "url": "http://www.freshplum.com"
@@ -1171,6 +1338,7 @@
   {
     "batch": "S08", 
     "description": "Touchscreen platforms for effortless data collection.", 
+    "hostname": "frogmetrics.com", 
     "name": "Frogmetrics", 
     "status": "Active", 
     "url": "http://frogmetrics.com"
@@ -1178,6 +1346,7 @@
   {
     "batch": "S12", 
     "description": "Fullstack Academy is a 12-week immersive coding school that turns great people into great developers.", 
+    "hostname": "fullstackacademy.com", 
     "name": "Fullstack Academy", 
     "status": "Active", 
     "url": "http://fullstackacademy.com"
@@ -1185,6 +1354,7 @@
   {
     "batch": "S12", 
     "description": "FundersClub is a web service that gives investors unprecedented access to investment opportunities and the tools to review and invest online with ease and speed.", 
+    "hostname": "fundersclub.com", 
     "name": "FundersClub", 
     "status": "Active", 
     "url": "https://fundersclub.com"
@@ -1192,6 +1362,7 @@
   {
     "batch": "S10", 
     "description": "FutureAdvisor was founded in 2010 on the premise that investing for your future does not have to be difficult or expensive.", 
+    "hostname": "futureadvisor.com", 
     "name": "FutureAdvisor", 
     "status": "Active", 
     "url": "https://www.futureadvisor.com"
@@ -1199,6 +1370,7 @@
   {
     "batch": "S07", 
     "description": "Habit Industries is currently pursuing the online animation space with Fuzzwich and has previously launched Minivid, a simple, playful animator.", 
+    "hostname": null, 
     "name": "Fuzzwich", 
     "status": "Dead", 
     "url": null
@@ -1206,6 +1378,7 @@
   {
     "batch": "W10", 
     "description": "Gamador is a social game developer that has released three games so far.", 
+    "hostname": "gamador.com", 
     "name": "Gamador", 
     "status": "Active", 
     "url": "http://www.gamador.com"
@@ -1213,6 +1386,7 @@
   {
     "batch": "S10", 
     "description": "Gantto was conceived to fill one obvious gap in our weekly management routine.", 
+    "hostname": "gantto.com", 
     "name": "Gantto", 
     "status": "Active", 
     "url": "http://gantto.com"
@@ -1220,6 +1394,7 @@
   {
     "batch": "S10", 
     "description": "GazeHawk is a Y Combinator-funded company that provides eye tracking services using ordinary webcams.", 
+    "hostname": "gazehawk.com", 
     "name": "GazeHawk", 
     "status": "Exited", 
     "url": "http://www.gazehawk.com"
@@ -1227,6 +1402,7 @@
   {
     "batch": "W14", 
     "description": "BatteryOS is a new way of controlling rechargeable lithium-ion batteries that enables any normal battery to have higher capacity and not degrade over time.", 
+    "hostname": "gbatteries.com", 
     "name": "Gbatteries", 
     "status": "Active", 
     "url": "http://www.gbatteries.com"
@@ -1234,6 +1410,7 @@
   {
     "batch": "S12", 
     "description": "GetGoing is a San Francisco based technology company developing innovative search and booking solutions for the global airline industry.", 
+    "hostname": "getgoing.com", 
     "name": "GetGoing", 
     "status": "Active", 
     "url": "http://www.getgoing.com"
@@ -1241,6 +1418,7 @@
   {
     "batch": "W11", 
     "description": "GiftRocket sells a new type of gift card that works at any location.", 
+    "hostname": "giftrocket.com", 
     "name": "Giftrocket", 
     "status": "Active", 
     "url": "http://www.giftrocket.com"
@@ -1248,6 +1426,7 @@
   {
     "batch": "S10", 
     "description": "Ginzametrics makes enterprise SEO simple and easy to manage.", 
+    "hostname": "ginzametrics.com", 
     "name": "GinzaMetrics", 
     "status": "Active", 
     "url": "http://ginzametrics.com"
@@ -1255,6 +1434,7 @@
   {
     "batch": "W12", 
     "description": "Where fans and celebrities gather for good.", 
+    "hostname": "givespark.com", 
     "name": "Givespark", 
     "status": "Active", 
     "url": "http://givespark.com"
@@ -1262,6 +1442,7 @@
   {
     "batch": "S11", 
     "description": "Glassmap is a simple, beautiful way to show your friends where you are and what you are doing.", 
+    "hostname": "glassmap.com", 
     "name": "Glassmap", 
     "status": "Exited", 
     "url": "http://www.glassmap.com"
@@ -1269,6 +1450,7 @@
   {
     "batch": "S13", 
     "description": null, 
+    "hostname": "glio.com", 
     "name": "Glio", 
     "status": "Active", 
     "url": "http://glio.com"
@@ -1276,6 +1458,7 @@
   {
     "batch": "W14", 
     "description": "Let someone else do the cooking. Wholesome family dinners delivered fresh every night.", 
+    "hostname": "gobble.com", 
     "name": "Gobble", 
     "status": "Active", 
     "url": "http://www.gobble.com"
@@ -1283,6 +1466,7 @@
   {
     "batch": "S11", 
     "description": "GoCardless is a UK-based service that allows smaller merchants to easily set up interbank transfers for customers.", 
+    "hostname": "gocardless.com", 
     "name": "GoCardless", 
     "status": "Active", 
     "url": "https://gocardless.com"
@@ -1290,6 +1474,7 @@
   {
     "batch": "S13", 
     "description": "Your team communications made clear.", 
+    "hostname": "gocomm.com", 
     "name": "GoComm", 
     "status": "Active", 
     "url": "http://www.gocomm.com"
@@ -1297,6 +1482,7 @@
   {
     "batch": "W13", 
     "description": "Our vision is an online marketplace that connects curious eaters with America's best gourmet food purveyors.", 
+    "hostname": "goldbely.com", 
     "name": "Goldbely", 
     "status": "Active", 
     "url": "http://www.goldbely.com"
@@ -1304,6 +1490,7 @@
   {
     "batch": "S09", 
     "description": "At its core GraffitiGeo allows users to leave brief reviews of restaurants, or for those too lazy to do that, to simply leave a \"thumbs up\" or \"thumbs down\". It's like a highly condensed version of Yelp, or a Digg for the world\u009d.", 
+    "hostname": "graffitigeo.com", 
     "name": "GraffitiGeo", 
     "status": "Exited", 
     "url": "http://graffitigeo.com"
@@ -1311,6 +1498,7 @@
   {
     "batch": "S13", 
     "description": "Makers of unique iPhone cases.", 
+    "hostname": "graftconcepts.com", 
     "name": "Graft Concepts", 
     "status": "Active", 
     "url": "http://www.graftconcepts.com"
@@ -1318,6 +1506,7 @@
   {
     "batch": "S12", 
     "description": "A Simply Remarkable Spreadsheet.", 
+    "hostname": "grid.binarythumb.com", 
     "name": "Grid", 
     "status": "Active", 
     "url": "http://grid.binarythumb.com"
@@ -1325,6 +1514,7 @@
   {
     "batch": "W12", 
     "description": "We're a social club that sets up drinks between 2 groups of friends. 3 guys & 3 girls.", 
+    "hostname": "joingrouper.com", 
     "name": "Grouper", 
     "status": "Active", 
     "url": "http://www.joingrouper.com"
@@ -1332,6 +1522,7 @@
   {
     "batch": "W11", 
     "description": "Hosted IRC and so much more.", 
+    "hostname": "grove.io", 
     "name": "Grove", 
     "status": "Exited", 
     "url": "https://grove.io"
@@ -1339,6 +1530,7 @@
   {
     "batch": "W11", 
     "description": "Grubwithus social meals allow you to meet new people, while dining at some of your city's best restaurants.", 
+    "hostname": "grubwithus.com", 
     "name": "GrubWithUs", 
     "status": "Active", 
     "url": "http://grubwithus.com"
@@ -1346,6 +1538,7 @@
   {
     "batch": "S11", 
     "description": "Habit Labs aims to turn leading a healthier life into a game.", 
+    "hostname": "habitlabs.com", 
     "name": "Habit Labs", 
     "status": "Active", 
     "url": "http://habitlabs.com"
@@ -1353,6 +1546,7 @@
   {
     "batch": "S10", 
     "description": "Hacker School is a three-month, full-time school in New York for becoming a better programmer. We're free as in beer, and provide space, a little structure, time to focus, and a friendly community of smart builders dedicated to self-improvement.", 
+    "hostname": "hackerschool.com", 
     "name": "Hacker School", 
     "status": "Active", 
     "url": "https://www.hackerschool.com"
@@ -1360,6 +1554,7 @@
   {
     "batch": "S13", 
     "description": null, 
+    "hostname": "hackermeter.com", 
     "name": "Hackermeter", 
     "status": "Exited", 
     "url": "http://www.hackermeter.com"
@@ -1367,6 +1562,7 @@
   {
     "batch": "W12", 
     "description": "Smart collaborative documents. Company wiki. Personal notes. Event planning. Classroom collaboration.", 
+    "hostname": "hackpad.com", 
     "name": "HackPad", 
     "status": "Active", 
     "url": "http://hackpad.com"
@@ -1374,6 +1570,7 @@
   {
     "batch": "S12", 
     "description": "Mobile and cloud based logistics software.", 
+    "hostname": "hdtradeservices.com", 
     "name": "HD Trade Services", 
     "status": "Active", 
     "url": "http://www.hdtradeservices.com"
@@ -1381,6 +1578,7 @@
   {
     "batch": "S12", 
     "description": "Healthy Labs builds networks to connect patients so they can learn from each other.", 
+    "hostname": "healthylabs.com", 
     "name": "Healthy Labs", 
     "status": "Active", 
     "url": "http://www.healthylabs.com"
@@ -1388,6 +1586,7 @@
   {
     "batch": "W13", 
     "description": "Heap automatically captures every user action in your web app and lets you measure it all. Clicks, form submissions, page views, and more.", 
+    "hostname": "heapanalytics.com", 
     "name": "Heap Analytics", 
     "status": "Active", 
     "url": "https://heapanalytics.com"
@@ -1395,6 +1594,7 @@
   {
     "batch": "W11", 
     "description": "HelloFax is an online service that helps you send and receive faxes, request signatures and fill out forms all from your computer.", 
+    "hostname": "hellofax.com", 
     "name": "HelloFax", 
     "status": "Active", 
     "url": "http://www.hellofax.com"
@@ -1402,6 +1602,7 @@
   {
     "batch": "W08", 
     "description": "Heroku is the first and best multi-language cloud application platform, or platform-as-a-service.", 
+    "hostname": "heroku.com", 
     "name": "Heroku", 
     "status": "Exited", 
     "url": "http://www.heroku.com"
@@ -1409,6 +1610,7 @@
   {
     "batch": "W07", 
     "description": "Heysan is a free mobile messaging and community based in San Francisco, California.", 
+    "hostname": null, 
     "name": "Heysan", 
     "status": "Exited", 
     "url": null
@@ -1416,6 +1618,7 @@
   {
     "batch": "W09", 
     "description": "Heyzap is a premier mobile ad network that helps millions of users discover apps they love.", 
+    "hostname": "heyzap.com", 
     "name": "Heyzap", 
     "status": "Active", 
     "url": "https://www.heyzap.com"
@@ -1423,6 +1626,7 @@
   {
     "batch": "S09", 
     "description": "Create amazing movies right from your iOS or Android device - automatically!", 
+    "hostname": "highlightcam.com", 
     "name": "HighlightCam", 
     "status": "Active", 
     "url": "http://highlightcam.com"
@@ -1430,6 +1634,7 @@
   {
     "batch": "S12", 
     "description": "HiMom - Stay in touch with your parents. Share precious moments in digital- and physical postcards.", 
+    "hostname": "himom.me", 
     "name": "HiMom", 
     "status": "Active", 
     "url": "http://www.himom.me"
@@ -1437,6 +1642,7 @@
   {
     "batch": "S10", 
     "description": "Hipmunk is a travel search site that aims to take the agony out of travel planning.", 
+    "hostname": "hipmunk.com", 
     "name": "Hipmunk", 
     "status": "Active", 
     "url": "http://www.hipmunk.com"
@@ -1444,6 +1650,7 @@
   {
     "batch": "S12", 
     "description": "Hiptype brings analytics and targeted advertising capabilities to the most popular eBook platforms, where these powerful features have never before been possible.", 
+    "hostname": "hiptype.com", 
     "name": "HipType", 
     "status": "Active", 
     "url": "http://www.hiptype.com"
@@ -1451,6 +1658,7 @@
   {
     "batch": "W12", 
     "description": "Brilliant job seekers, delivered. Screen and source job candidates through work samples and video interviews.", 
+    "hostname": "hireart.com", 
     "name": "HireArt", 
     "status": "Active", 
     "url": "http://www.hireart.com"
@@ -1458,6 +1666,7 @@
   {
     "batch": "W10", 
     "description": "Book a trusted cleaner today for $25 per hour", 
+    "hostname": "homejoy.com", 
     "name": "Homejoy", 
     "status": "Active", 
     "url": "https://www.homejoy.com"
@@ -1465,6 +1674,7 @@
   {
     "batch": "W14", 
     "description": "HoverChat enables true multitasking by allowing you to read and reply to incoming messages without ever leaving your current screen.", 
+    "hostname": "hoverchat.com", 
     "name": "HoverChat", 
     "status": "Active", 
     "url": "http://hoverchat.com"
@@ -1472,6 +1682,7 @@
   {
     "batch": "S12", 
     "description": "HubChilla matches you up to similar users and lets you talk to them over SMS.", 
+    "hostname": "hubchilla.com", 
     "name": "Hubchilla", 
     "status": "Active", 
     "url": "http://www.hubchilla.com"
@@ -1479,6 +1690,7 @@
   {
     "batch": "S13", 
     "description": "HUM, simply redefining the inbox one chat at a time.", 
+    "hostname": "letshum.com", 
     "name": "Hum", 
     "status": "Active", 
     "url": "http://letshum.com"
@@ -1486,6 +1698,7 @@
   {
     "batch": "W11", 
     "description": "Humble Bundles are collections of digital creations that are sold online at a price determined by the purchaser.", 
+    "hostname": "humblebundle.com", 
     "name": "Humble Bundle", 
     "status": "Active", 
     "url": "https://www.humblebundle.com"
@@ -1493,6 +1706,7 @@
   {
     "batch": "W11", 
     "description": "Tumult Inc. makes the next generation of designer tools to produce beautiful web content.", 
+    "hostname": "tumultco.com", 
     "name": "Hype", 
     "status": "Active", 
     "url": "http://tumultco.com/hype"
@@ -1500,6 +1714,7 @@
   {
     "batch": "W11", 
     "description": "Hyperink, the San Francisco based self-publishing platform, wants to unlock and sell that untapped information by giving every citizen the ability to publish a book.", 
+    "hostname": "hyperink.com", 
     "name": "Hyperink", 
     "status": "Active", 
     "url": "http://www.hyperink.com"
@@ -1507,6 +1722,7 @@
   {
     "batch": "S10", 
     "description": null, 
+    "hostname": null, 
     "name": "I Move You", 
     "status": "Dead", 
     "url": null
@@ -1514,6 +1730,7 @@
   {
     "batch": "W12", 
     "description": "iCracked provides local iPhone, iPad, iPod, and Samsung repair and trade-in in the United States and eight other countries around the world.", 
+    "hostname": "icracked.com", 
     "name": "iCracked", 
     "status": "Active", 
     "url": "http://www.icracked.com"
@@ -1521,6 +1738,7 @@
   {
     "batch": "S08", 
     "description": "ididwork is an online tool that allows employees to keep track of the work they do over time.", 
+    "hostname": "ididwork.com", 
     "name": "Ididwork", 
     "status": "Active", 
     "url": "http://www.ididwork.com"
@@ -1528,6 +1746,7 @@
   {
     "batch": "S07", 
     "description": "iJigg is a social music site that lets users vote on submitted singles using Digg-like voting.", 
+    "hostname": null, 
     "name": "iJigg", 
     "status": "Dead", 
     "url": null
@@ -1535,6 +1754,7 @@
   {
     "batch": "S12", 
     "description": "A fun image sharing community. Explore amazing art and photography and share your own visual inspiration!", 
+    "hostname": "imgfave.com", 
     "name": "imgfave", 
     "status": "Active", 
     "url": "http://imgfave.com"
@@ -1542,6 +1762,7 @@
   {
     "batch": "W14", 
     "description": "We're developing a free vaccine to end HIV and AIDS", 
+    "hostname": "immunityproject.org", 
     "name": "Immunity Project", 
     "status": "Active", 
     "url": "http://www.immunityproject.org"
@@ -1549,6 +1770,7 @@
   {
     "batch": "S10", 
     "description": "Accounting, taxes & payroll. One solution. inDinero is your company's accounting department.", 
+    "hostname": "indinero.com", 
     "name": "Indinero", 
     "status": "Active", 
     "url": "http://indinero.com"
@@ -1556,6 +1778,7 @@
   {
     "batch": "S05", 
     "description": null, 
+    "hostname": null, 
     "name": "Infogami", 
     "status": "Exited", 
     "url": null
@@ -1563,6 +1786,7 @@
   {
     "batch": "W10", 
     "description": "Infoharmoni is a data visualization startup founded by Kovas Boguta.", 
+    "hostname": "infoharmoni.com", 
     "name": "Infoharmoni", 
     "status": "Active", 
     "url": "http://www.infoharmoni.com"
@@ -1570,6 +1794,7 @@
   {
     "batch": "W06", 
     "description": "Inkling provides a platform for companies to run their own internal or external prediction marketplaces.", 
+    "hostname": "inklingmarkets.com", 
     "name": "InklingMarkets", 
     "status": "Active", 
     "url": "http://inklingmarkets.com"
@@ -1577,6 +1802,7 @@
   {
     "batch": "W08", 
     "description": "Insoshi is an open-source open networking platform.", 
+    "hostname": "insoshi.com", 
     "name": "Insoshi", 
     "status": "Active", 
     "url": "http://insoshi.com"
@@ -1584,6 +1810,7 @@
   {
     "batch": "S12", 
     "description": "A Grocery Store on Your Phone. Delivery to your doorstep within minutes.", 
+    "hostname": "instacart.com", 
     "name": "Instacart", 
     "status": "Active", 
     "url": "http://www.instacart.com"
@@ -1591,6 +1818,7 @@
   {
     "batch": "S09", 
     "description": "InstantQ allows restaurants to fill tables by varying prices to increase demand.", 
+    "hostname": "instantq.com", 
     "name": "InstantQ", 
     "status": "Active", 
     "url": "http://www.instantq.com"
@@ -1598,6 +1826,7 @@
   {
     "batch": "S11", 
     "description": "The future of open project management. Keep users away from competitors by keeping them in the loop with your product's development.", 
+    "hostname": "interstateapp.com", 
     "name": "Interstate", 
     "status": "Active", 
     "url": "http://interstateapp.com"
@@ -1605,6 +1834,7 @@
   {
     "batch": "S11", 
     "description": "Interviewstreet helps you to create customized programming tests (in any language) and evaluate candidates based on their programming skills before proceeding for an interview.", 
+    "hostname": "interviewstreet.com", 
     "name": "InterviewStreet", 
     "status": "Active", 
     "url": "http://interviewstreet.com"
@@ -1612,6 +1842,7 @@
   {
     "batch": "S13", 
     "description": "The Robot Buddy kids will love! Engage, Challenge, Learn.", 
+    "hostname": "ixiplay.com", 
     "name": "ixi-play", 
     "status": "Active", 
     "url": "http://www.ixiplay.com"
@@ -1619,6 +1850,7 @@
   {
     "batch": "S06", 
     "description": "Jamglue is an online community where you can listen to or mix music from a library of user-contributed music.", 
+    "hostname": null, 
     "name": "JamGlue", 
     "status": "Dead", 
     "url": null
@@ -1626,6 +1858,7 @@
   {
     "batch": "W08", 
     "description": "Joberator will help employers find developer talent by encouraging computer science students to refer their developer friends, of whom they have more intimate knowledge than any professional recruiter.", 
+    "hostname": "apps.facebook.com", 
     "name": "Joberator", 
     "status": "Active", 
     "url": "http://apps.facebook.com/joberator"
@@ -1633,6 +1866,7 @@
   {
     "batch": "S09", 
     "description": null, 
+    "hostname": null, 
     "name": "Jobpic", 
     "status": "Dead", 
     "url": null
@@ -1640,6 +1874,7 @@
   {
     "batch": "S09", 
     "description": "JobSpice is a surprisingly easy-to-use, intuitive online tool for creating a resume.", 
+    "hostname": "jobspice.com", 
     "name": "Jobspice", 
     "status": "Active", 
     "url": "http://www.jobspice.com"
@@ -1647,6 +1882,7 @@
   {
     "batch": "S06", 
     "description": "A platform bridging mobile text messages, email, and IM communication without needing to download anything. Users can send mass messages on any of the platforms and JumpChat will send it to the platform the receiver activates.", 
+    "hostname": null, 
     "name": "JumpChat", 
     "status": "Dead", 
     "url": null
@@ -1654,6 +1890,7 @@
   {
     "batch": "S07", 
     "description": "Justin.tv is the easiest way to create live video and show anyone in the world what's happening right now. Justin.tv makes it fun, easy and fast to gather and engage with a live audience.", 
+    "hostname": "justin.tv", 
     "name": "Justin.tv", 
     "status": "Active", 
     "url": "http://www.justin.tv"
@@ -1661,6 +1898,7 @@
   {
     "batch": "W11", 
     "description": "Use Kaleidoscope to spot the differences in text and image files. Review changes in seconds with the world's most advanced file comparison application.", 
+    "hostname": "kaleidoscopeapp.com", 
     "name": "Kaleidoscope", 
     "status": "Active", 
     "url": "http://www.kaleidoscopeapp.com"
@@ -1668,6 +1906,7 @@
   {
     "batch": "S12", 
     "description": "Kamcord allows users to record and share their awesome gameplays without having to leave their games.", 
+    "hostname": "kamcord.com", 
     "name": "Kamcord", 
     "status": "Active", 
     "url": "http://www.kamcord.com"
@@ -1675,6 +1914,7 @@
   {
     "batch": "S12", 
     "description": "Need Reliable Carriers? Keychain's proprietary technology gives you unprecedented access to our nationwide network of qualified drivers.", 
+    "hostname": "keychainlogistics.com", 
     "name": "Keychain Logistics", 
     "status": "Active", 
     "url": "http://keychainlogistics.com"
@@ -1682,6 +1922,7 @@
   {
     "batch": "S11", 
     "description": "Kicksend allows friends and family to easily share files in real-time on the web, mobile, and desktop.", 
+    "hostname": "kicksend.com", 
     "name": "Kicksend", 
     "status": "Active", 
     "url": "http://kicksend.com"
@@ -1689,6 +1930,7 @@
   {
     "batch": "S05", 
     "description": "Kiko is a web calendar for anyone who wants to keep and share a calendar online.", 
+    "hostname": "kiko.com", 
     "name": "Kiko", 
     "status": "Exited", 
     "url": "http://kiko.com"
@@ -1696,6 +1938,7 @@
   {
     "batch": "W14", 
     "description": "Turn websites into structured APIs from your browser in seconds.", 
+    "hostname": "kimonolabs.com", 
     "name": "Kimono", 
     "status": "Active", 
     "url": "http://www.kimonolabs.com"
@@ -1703,6 +1946,7 @@
   {
     "batch": "S12", 
     "description": "With Kippt we want to make your information workflow and archiving effortless.", 
+    "hostname": "kippt.com", 
     "name": "Kippt", 
     "status": "Active", 
     "url": "https://kippt.com"
@@ -1710,6 +1954,7 @@
   {
     "batch": "W08", 
     "description": "Kirkland North is taking an infectious campus-wide game that it ran at Yale and Harvard last year and spreading it to other campuses around the country.", 
+    "hostname": null, 
     "name": "Kirkland North", 
     "status": "Dead", 
     "url": null
@@ -1717,6 +1962,7 @@
   {
     "batch": "S13", 
     "description": "Get feedback on your presentations.", 
+    "hostname": "kivo.com", 
     "name": "Kivo", 
     "status": "Active", 
     "url": "http://kivo.com"
@@ -1724,6 +1970,7 @@
   {
     "batch": "S12", 
     "description": "Where great teachers help you succeed in high school. Search for a topic. Over 8,000 video lessons and counting.", 
+    "hostname": "knowmia.com", 
     "name": "Knowmia", 
     "status": "Active", 
     "url": "http://knowmia.com"
@@ -1731,6 +1978,7 @@
   {
     "batch": "S10", 
     "description": "Koduco makes iPad games that focus on multiplayer collaboration on the same device.", 
+    "hostname": "koduco.com", 
     "name": "Koduco", 
     "status": "Active", 
     "url": "http://www.koduco.com"
@@ -1738,6 +1986,7 @@
   {
     "batch": "W12", 
     "description": "Kytephone is a free app that transforms an Android smartphone into a safe and fun smartphone for kids.", 
+    "hostname": "kytephone.com", 
     "name": "Kyte", 
     "status": "Active", 
     "url": "https://www.kytephone.com"
@@ -1745,6 +1994,7 @@
   {
     "batch": "W11", 
     "description": "Lanyrd is a directory of conferences, events and speakers.", 
+    "hostname": "lanyrd.com", 
     "name": "Lanyrd", 
     "status": "Active", 
     "url": "http://lanyrd.com"
@@ -1752,6 +2002,7 @@
   {
     "batch": "W10", 
     "description": "LaunchHear is a way for bloggers to get early review copies of new products.", 
+    "hostname": "launchhear.com", 
     "name": "Launchhear", 
     "status": "Active", 
     "url": "http://www.launchhear.com"
@@ -1759,6 +2010,7 @@
   {
     "batch": "S11", 
     "description": "We're creating digital toys and tools that empower kids to create, learn & share their ideas through play.", 
+    "hostname": "launchpadtoys.com", 
     "name": "Launchpad Toys", 
     "status": "Active", 
     "url": "http://launchpadtoys.com"
@@ -1766,6 +2018,7 @@
   {
     "batch": "W13", 
     "description": "Talk to a lawyer online. Get the legal advice you need, hassle- and commitment-free.", 
+    "hostname": "lawdingo.com", 
     "name": "Lawdingo", 
     "status": "Active", 
     "url": "http://www.lawdingo.com"
@@ -1773,6 +2026,7 @@
   {
     "batch": "S13", 
     "description": "Welcome to your dream closet. Rent unlimited looks each month.", 
+    "hostname": "letote.com", 
     "name": "Le Tote", 
     "status": "Active", 
     "url": "http://letote.com"
@@ -1780,6 +2034,7 @@
   {
     "batch": "S11", 
     "description": "Leaky helps consumers make better decisions about insurance.", 
+    "hostname": "leaky.com", 
     "name": "Leaky", 
     "status": "Active", 
     "url": "http://leaky.com"
@@ -1787,6 +2042,7 @@
   {
     "batch": "S12", 
     "description": "Lean Startup Machine is the world's leading bootcamp on Lean Startup methodology.", 
+    "hostname": "leanstartupmachine.com", 
     "name": "LeanMarket", 
     "status": "Active", 
     "url": "http://leanstartupmachine.com"
@@ -1794,6 +2050,7 @@
   {
     "batch": "S10", 
     "description": "Leftronic is a Y Combinator-funded company that develops a web-based real-time dashboard application for monitoring a company's most important data.", 
+    "hostname": "leftronic.com", 
     "name": "Leftronic", 
     "status": "Active", 
     "url": "https://www.leftronic.com"
@@ -1801,6 +2058,7 @@
   {
     "batch": "S12", 
     "description": "Light Table is a new interactive IDE that lets you modify running programs and embed anything from websites to games. It provides the real time feedback we need to not only answer questions about our code, but to understand how our programs really work.", 
+    "hostname": "lighttable.com", 
     "name": "LightTable", 
     "status": "Active", 
     "url": "http://www.lighttable.com"
@@ -1808,6 +2066,7 @@
   {
     "batch": "W11", 
     "description": "Like.fm is a fast, beautiful, and fun way to share your favorite songs.", 
+    "hostname": "like.fm", 
     "name": "Like.fm", 
     "status": "Active", 
     "url": "http://like.fm"
@@ -1815,6 +2074,7 @@
   {
     "batch": "S06", 
     "description": "An online personality test game, where you look at two photos and choose which one you \u201cLike Better\u201d.", 
+    "hostname": null, 
     "name": "LikeBetter", 
     "status": "Dead", 
     "url": null
@@ -1822,6 +2082,7 @@
   {
     "batch": "S09", 
     "description": "Lingt is a service for learning languages that takes advantage of gameplay mechanics to keep users coming back for more.", 
+    "hostname": "lingt.com", 
     "name": "Lingt", 
     "status": "Exited", 
     "url": "http://www.lingt.com"
@@ -1829,6 +2090,7 @@
   {
     "batch": "S09", 
     "description": "Listia, which launched in August 2009, is eBay for free stuff.", 
+    "hostname": "listia.com", 
     "name": "Listia", 
     "status": "Active", 
     "url": "http://www.listia.com"
@@ -1836,6 +2098,7 @@
   {
     "batch": "S13", 
     "description": "Power your printing and mailing with Lob. A simple API to integrate print & mail solutions into your applications.", 
+    "hostname": "lob.com", 
     "name": "Lob", 
     "status": "Active", 
     "url": "http://lob.com"
@@ -1843,6 +2106,7 @@
   {
     "batch": "S13", 
     "description": "Essential tools for running your Merchants Association.", 
+    "hostname": "localon.com", 
     "name": "LocalOn", 
     "status": "Active", 
     "url": "http://www.localon.com"
@@ -1850,6 +2114,7 @@
   {
     "batch": "S09", 
     "description": "Keyless entry using your phone.", 
+    "hostname": "lockitron.com", 
     "name": "Lockitron", 
     "status": "Active", 
     "url": "http://lockitron.com"
@@ -1857,6 +2122,7 @@
   {
     "batch": "W13", 
     "description": "Lollipuff is the premier online auction site for high-end designer apparel and accessories.", 
+    "hostname": "lollipuff.com", 
     "name": "Lollipuff", 
     "status": "Active", 
     "url": "http://www.lollipuff.com"
@@ -1864,6 +2130,7 @@
   {
     "batch": "S05", 
     "description": "Loopt is a social service that connects people to their community.", 
+    "hostname": "loopt.com", 
     "name": "Loopt", 
     "status": "Exited", 
     "url": "http://www.loopt.com"
@@ -1871,6 +2138,7 @@
   {
     "batch": "S13", 
     "description": "Rent and own high-quality gear and accessories, starting at $5/day. Simple, affordable and fast!", 
+    "hostname": "lumoid.com", 
     "name": "Lumoid", 
     "status": "Active", 
     "url": "http://www.lumoid.com"
@@ -1878,6 +2146,7 @@
   {
     "batch": "W12", 
     "description": "LVL6 creates social mobile games on Android and iOS.", 
+    "hostname": "lvl6.com", 
     "name": "LVL6", 
     "status": "Active", 
     "url": "http://www.lvl6.com"
@@ -1885,6 +2154,7 @@
   {
     "batch": "W14", 
     "description": "Making materials matter. Developing advanced materials for your 3D printer.", 
+    "hostname": "madesolid.com", 
     "name": "MadeSolid", 
     "status": "Active", 
     "url": "http://www.madesolid.com"
@@ -1892,6 +2162,7 @@
   {
     "batch": "W11", 
     "description": "Mailgun provides a web service for integrating email inboxes into apps.", 
+    "hostname": "mailgun.net", 
     "name": "MailGun", 
     "status": "Exited", 
     "url": "http://www.mailgun.net"
@@ -1899,6 +2170,7 @@
   {
     "batch": "W12", 
     "description": "The Easiest Way to Build an iPhone Game. Period.", 
+    "hostname": "makegameswith.us", 
     "name": "MakeGamesWithUs", 
     "status": "Active", 
     "url": "http://makegameswith.us"
@@ -1906,6 +2178,7 @@
   {
     "batch": "S11", 
     "description": "The latest SEC Filings, Press Releases, Patents, and Trademarks for 700000+ companies and entities.", 
+    "hostname": "marketbrief.com", 
     "name": "MarketBrief", 
     "status": "Active", 
     "url": "http://marketbrief.com"
@@ -1913,6 +2186,7 @@
   {
     "batch": "S12", 
     "description": "Photoshop to html & css. Generates automatically in minutes", 
+    "hostname": "markupwand.com", 
     "name": "Markupwand", 
     "status": "Active", 
     "url": "http://www.markupwand.com"
@@ -1920,6 +2194,7 @@
   {
     "batch": "W12", 
     "description": "Matterport is a revolutionary 3D scanner that allows anyone to create digital models of interior spaces quickly, easily, and automatically.", 
+    "hostname": "matterport.com", 
     "name": "MatterPort", 
     "status": "Active", 
     "url": "http://matterport.com"
@@ -1927,6 +2202,7 @@
   {
     "batch": "W12", 
     "description": "Healthcare communication made simple. Medigram provides a HIPAA-compliant communication platform to make any medical conversation convenient and secure.", 
+    "hostname": "medigr.am", 
     "name": "Medigram", 
     "status": "Active", 
     "url": "https://www.medigr.am"
@@ -1934,6 +2210,7 @@
   {
     "batch": "W13", 
     "description": "Great healthcare, powered by great software.", 
+    "hostname": "medisas.com", 
     "name": "Medisas", 
     "status": "Active", 
     "url": "http://www.medisas.com"
@@ -1941,6 +2218,7 @@
   {
     "batch": "S08", 
     "description": "MeetCast is browser-based software that provides a host of features critical to effective real time interaction, including: sharing documents and images, whiteboarding, simultaneous text editing, and screen sharing.", 
+    "hostname": "meetcast.com", 
     "name": "Meetcast", 
     "status": "Active", 
     "url": "http://www.meetcast.com"
@@ -1948,6 +2226,7 @@
   {
     "batch": "S09", 
     "description": "Save time writing your agenda and minutes.", 
+    "hostname": "meetingmix.com", 
     "name": "MeetingMix", 
     "status": "Active", 
     "url": "http://meetingmix.com"
@@ -1955,6 +2234,7 @@
   {
     "batch": "W11", 
     "description": "With Meetings.io you can meet face to face with anyone from around the world within your web browser.", 
+    "hostname": "meetings.io", 
     "name": "Meetings.io", 
     "status": "Active", 
     "url": "http://meetings.io"
@@ -1962,6 +2242,7 @@
   {
     "batch": "W13", 
     "description": "Meldium automates away the tedious, error-prone, and insecure parts of account management so you can do more work with less IT.", 
+    "hostname": "meldium.com", 
     "name": "Meldium", 
     "status": "Active", 
     "url": "http://www.meldium.com"
@@ -1969,6 +2250,7 @@
   {
     "batch": "S05", 
     "description": null, 
+    "hostname": null, 
     "name": "Memamp", 
     "status": "Dead", 
     "url": null
@@ -1976,6 +2258,7 @@
   {
     "batch": "W14", 
     "description": "Memebox is a rapidly-growing, leading e-commerce beauty retailer.", 
+    "hostname": "memebox.com", 
     "name": "Memebox", 
     "status": "Active", 
     "url": "http://www.memebox.com"
@@ -1983,6 +2266,7 @@
   {
     "batch": "W11", 
     "description": "MemSQL is a Y Combinator grad making a scalable, memory-optimized database built for high-throughput workloads.", 
+    "hostname": "memsql.com", 
     "name": "MemSQL", 
     "status": "Active", 
     "url": "http://www.memsql.com"
@@ -1990,6 +2274,7 @@
   {
     "batch": "W10", 
     "description": "Mertado is a social shopping company that lets consumers discover and buy new products within the online communities that they frequent.", 
+    "hostname": "mertado.com", 
     "name": "Mertado", 
     "status": "Exited", 
     "url": "http://www.mertado.com"
@@ -1997,6 +2282,7 @@
   {
     "batch": "S10", 
     "description": "MessageParty is a new kind of mobile blogging service.", 
+    "hostname": "messageparty.com", 
     "name": "MessageParty", 
     "status": "Active", 
     "url": "http://messageparty.com"
@@ -2004,6 +2290,7 @@
   {
     "batch": "S13", 
     "description": "The first holographic interface.", 
+    "hostname": "spaceglasses.com", 
     "name": "Meta Space Glasses", 
     "status": "Active", 
     "url": "http://spaceglasses.com"
@@ -2011,6 +2298,7 @@
   {
     "batch": "S11", 
     "description": "Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started.", 
+    "hostname": "meteor.com", 
     "name": "Meteor", 
     "status": "Active", 
     "url": "http://www.meteor.com"
@@ -2018,6 +2306,7 @@
   {
     "batch": "S12", 
     "description": "Say goodbye to long forms and meaningless numbers. MicroEval is the quickest and most meaningful way to give feedback to your employees.", 
+    "hostname": "microeval.com", 
     "name": "MicroEval", 
     "status": "Active", 
     "url": "http://www.microeval.com"
@@ -2025,6 +2314,7 @@
   {
     "batch": "W13", 
     "description": "Microryza is a crowdfunding platform for science and academic research.", 
+    "hostname": "microryza.com", 
     "name": "Microryza", 
     "status": "Active", 
     "url": "http://www.microryza.com"
@@ -2032,6 +2322,7 @@
   {
     "batch": "W12", 
     "description": "Create stunning HD videos and share them with your friends.", 
+    "hostname": "midnox.com", 
     "name": "Midnox", 
     "status": "Active", 
     "url": "http://midnox.com"
@@ -2039,6 +2330,7 @@
   {
     "batch": "W08", 
     "description": "MightyQuiz powers a collection of user generated quiz questions that can be answered and rated on-site or through a distributable widget.", 
+    "hostname": "mightyquiz.com", 
     "name": "MightyQuiz", 
     "status": "Active", 
     "url": "http://mightyquiz.com"
@@ -2046,6 +2338,7 @@
   {
     "batch": "W12", 
     "description": "Simple Minecraft servers. Available instantly, free to play for 10 hours a month.", 
+    "hostname": "minefold.com", 
     "name": "MineFold", 
     "status": "Active", 
     "url": "http://www.minefold.com"
@@ -2053,6 +2346,7 @@
   {
     "batch": "W11", 
     "description": "MinoMonsters is a social game where players collect and battle pet monsters.", 
+    "hostname": "minomonsters.com", 
     "name": "MinoMonsters", 
     "status": "Active", 
     "url": "http://minomonsters.com"
@@ -2060,6 +2354,7 @@
   {
     "batch": "W14", 
     "description": "The best keyboard for smart watches.", 
+    "hostname": "minuum.com", 
     "name": "Minuum", 
     "status": "Active", 
     "url": "http://minuum.com"
@@ -2067,6 +2362,7 @@
   {
     "batch": "S09", 
     "description": "Mixpanel is an advanced analytics service that helps improve web and mobile applications by tracking how users interact & engage with them.", 
+    "hostname": "mixpanel.com", 
     "name": "Mixpanel", 
     "status": "Active", 
     "url": "http://www.mixpanel.com"
@@ -2074,6 +2370,7 @@
   {
     "batch": "S11", 
     "description": "MixRank is a spy tool for contextual and display ads.", 
+    "hostname": "mixrank.com", 
     "name": "MixRank", 
     "status": "Active", 
     "url": "http://mixrank.com"
@@ -2081,6 +2378,7 @@
   {
     "batch": "W08", 
     "description": "Mixwit describes itself as a combination of Slide and iTunes.", 
+    "hostname": null, 
     "name": "Mixwit", 
     "status": "Dead", 
     "url": null
@@ -2088,6 +2386,7 @@
   {
     "batch": "S11", 
     "description": "MobileWorks is a crowdsourcing platform for businesses and developers that is more accurate, faster and easier to use than existing solutions.", 
+    "hostname": "mobileworks.com", 
     "name": "MobileWorks", 
     "status": "Active", 
     "url": "http://www.mobileworks.com"
@@ -2095,6 +2394,7 @@
   {
     "batch": "W11", 
     "description": "Moki.TV is a directory of all paid and free content included on Amazon's streaming service, Netlfix, Hulu, iTunes, and others.", 
+    "hostname": null, 
     "name": "Moki.TV", 
     "status": "Dead", 
     "url": null
@@ -2102,6 +2402,7 @@
   {
     "batch": "S11", 
     "description": "MongoHQ is the leading provider of data solutions for developers utilizing MongoDB as their data storage technology.", 
+    "hostname": "mongohq.com", 
     "name": "MongoHQ", 
     "status": "Active", 
     "url": "https://mongohq.com"
@@ -2109,6 +2410,7 @@
   {
     "batch": "W14", 
     "description": "The easiest way to buy and sell furniture.", 
+    "hostname": "moveloot.com", 
     "name": "Move Loot", 
     "status": "Active", 
     "url": "http://www.moveloot.com"
@@ -2116,6 +2418,7 @@
   {
     "batch": "W10", 
     "description": "Movity.com surfaces geodata (crime, noise, pricing, etc) to help home buyers make better decisions.", 
+    "hostname": "movity.com", 
     "name": "Movity", 
     "status": "Exited", 
     "url": "http://www.movity.com"
@@ -2123,6 +2426,7 @@
   {
     "batch": "S12", 
     "description": "Our goal is to be THE answer to the mobile monetization problem. The first step is to solve the problem of \"blind\" ads. Hence our focus on targeting.", 
+    "hostname": "mthsense.com", 
     "name": "Mth Sense", 
     "status": "Active", 
     "url": "http://www.mthsense.com"
@@ -2130,6 +2434,7 @@
   {
     "batch": "S11", 
     "description": "Munch On Me is a food discovery portal that connects people with great food at great prices in local communities.", 
+    "hostname": "munchonme.com", 
     "name": "Munch On Me", 
     "status": "Exited", 
     "url": "http://www.munchonme.com"
@@ -2137,6 +2442,7 @@
   {
     "batch": "W13", 
     "description": "The MYO armband lets you use the electrical activity in your muscles to wirelessly control your computer, phone, and other favorite digital technologies.", 
+    "hostname": "getmyo.com", 
     "name": "Myo", 
     "status": "Active", 
     "url": "https://getmyo.com"
@@ -2144,6 +2450,7 @@
   {
     "batch": "S12", 
     "description": "MyVR is online marketing software that allows vacation rental owners and operators to manage all of their vacation rental marketing in one place.", 
+    "hostname": "myvr.com", 
     "name": "MyVR", 
     "status": "Active", 
     "url": "http://myvr.com"
@@ -2151,6 +2458,7 @@
   {
     "batch": "W09", 
     "description": "Nambii is an online dating service with iPhone applications that allow users to send and receive flirts with people around them.", 
+    "hostname": null, 
     "name": "Nambii", 
     "status": "Dead", 
     "url": null
@@ -2158,6 +2466,7 @@
   {
     "batch": "S12", 
     "description": "Focus on the best stories from your friends and favorite blogs.", 
+    "hostname": "newsblur.com", 
     "name": "Newsblur", 
     "status": "Active", 
     "url": "http://newsblur.com"
@@ -2165,6 +2474,7 @@
   {
     "batch": "W10", 
     "description": "NewsLabs offers a platform that looks to help \u201cold school\u201d journalists adapt to the web, by giving them help with advertising, SEO, and other issues they may not have had to deal with before.", 
+    "hostname": null, 
     "name": "NewsLabs", 
     "status": "Dead", 
     "url": null
@@ -2172,6 +2482,7 @@
   {
     "batch": "W14", 
     "description": "Know your caller. The most advanced caller identification platform in the world.", 
+    "hostname": "nextcaller.com", 
     "name": "Next Caller", 
     "status": "Active", 
     "url": "http://nextcaller.com"
@@ -2179,6 +2490,7 @@
   {
     "batch": "W08", 
     "description": "The easiest, fastest way to update or install software. Ninite downloads and installs programs automatically in the background.", 
+    "hostname": "ninite.com", 
     "name": "Ninite", 
     "status": "Active", 
     "url": "http://ninite.com"
@@ -2186,6 +2498,7 @@
   {
     "batch": "W14", 
     "description": "Noora Health empowers patients and their families with high-impact medical skills to recover from their condition and improve health outcomes.", 
+    "hostname": "noorahealth.org", 
     "name": "Noora Health", 
     "status": "Active", 
     "url": "http://www.noorahealth.org"
@@ -2193,6 +2506,7 @@
   {
     "batch": "W11", 
     "description": "Always Know Who You're Meeting. You schedule meetings in Google Calendar, Noteleaf gives you information about who you're meeting on your phone.", 
+    "hostname": "noteleaf.com", 
     "name": "Noteleaf", 
     "status": "Active", 
     "url": "http://noteleaf.com"
@@ -2200,6 +2514,7 @@
   {
     "batch": "W10", 
     "description": "Notifo is a mobile application and platform which allows any web site or service to easily create mobile notifications.", 
+    "hostname": null, 
     "name": "Notifo", 
     "status": "Dead", 
     "url": null
@@ -2207,6 +2522,7 @@
   {
     "batch": "W11", 
     "description": "Flotype Inc. is a venture-backed company building a suite of enterprise technology for real-time messaging.", 
+    "hostname": "flotype.com", 
     "name": "NowJS", 
     "status": "Active", 
     "url": "http://flotype.com"
@@ -2214,6 +2530,7 @@
   {
     "batch": "W10", 
     "description": "Nowmov is an endless stream of videos recommended to users based on their interests, friends and what's trending around the world.", 
+    "hostname": "nowbox.com", 
     "name": "Nowmov", 
     "status": "Active", 
     "url": "http://nowbox.com"
@@ -2221,6 +2538,7 @@
   {
     "batch": "W07", 
     "description": "Vertical search engine Octopart, which launched not too long ago, focuses on putting an end the inadequate search engines used by electronics parts manufacturers.", 
+    "hostname": "octopart.com", 
     "name": "Octopart", 
     "status": "Active", 
     "url": "http://octopart.com"
@@ -2228,6 +2546,7 @@
   {
     "batch": "S10", 
     "description": "Write in private about your life.", 
+    "hostname": "ohlife.com", 
     "name": "OhLife", 
     "status": "Active", 
     "url": "http://ohlife.com"
@@ -2235,6 +2554,7 @@
   {
     "batch": "S09", 
     "description": "Olark is a lightweight tool to chat with visitors to your website using your existing instant messaging client.", 
+    "hostname": "olark.com", 
     "name": "Olark", 
     "status": "Active", 
     "url": "http://www.olark.com"
@@ -2242,6 +2562,7 @@
   {
     "batch": "S06", 
     "description": "OMGPOP (formerly known as iminlikewithyou) developer and publisher of multiplayer, social and mobile games.", 
+    "hostname": "omgpop.com", 
     "name": "OMGPOP", 
     "status": "Exited", 
     "url": "http://omgpop.com"
@@ -2249,6 +2570,7 @@
   {
     "batch": "W08", 
     "description": "Omnisio was founded in 2007 by Ryan Junee, Simon Ratner and Julian Frumar, and was subsquently acquired by YouTube in July 2008.", 
+    "hostname": "omnisio.com", 
     "name": "Omnisio", 
     "status": "Exited", 
     "url": "http://omnisio.com"
@@ -2256,6 +2578,7 @@
   {
     "batch": "W14", 
     "description": "Community resources, just for you. The easiest way to find, manage, and share nonprofit services for you and your family.", 
+    "hostname": "1deg.org", 
     "name": "One Degree", 
     "status": "Active", 
     "url": "http://www.1deg.org"
@@ -2263,6 +2586,7 @@
   {
     "batch": "S13", 
     "description": "Learn how to code with the #1 bestselling online class One Month Rails.", 
+    "hostname": "onemonthrails.com", 
     "name": "One Month Rails", 
     "status": "Active", 
     "url": "http://onemonthrails.com"
@@ -2270,6 +2594,7 @@
   {
     "batch": "S11", 
     "description": "The best people around. Who are the best trainers, stylists, etc. around me?", 
+    "hostname": "opez.com", 
     "name": "Opez", 
     "status": "Active", 
     "url": "http://www.opez.com"
@@ -2277,6 +2602,7 @@
   {
     "batch": "W10", 
     "description": "Simple, fast, and powerful.", 
+    "hostname": "optimizely.com", 
     "name": "Optimizely", 
     "status": "Active", 
     "url": "http://www.optimizely.com"
@@ -2284,6 +2610,7 @@
   {
     "batch": "S10", 
     "description": "Opzi is creating software to make corporate knowledge accessible.", 
+    "hostname": "opzi.com", 
     "name": "Opzi", 
     "status": "Active", 
     "url": "http://www.opzi.com"
@@ -2291,6 +2618,7 @@
   {
     "batch": "W14", 
     "description": "We help you sell more. Smart email marketing and reviews at the distance of a click.", 
+    "hostname": "orankl.com", 
     "name": "Orankl", 
     "status": "Active", 
     "url": "http://www.orankl.com"
@@ -2298,6 +2626,7 @@
   {
     "batch": "S13", 
     "description": "The next generation collectible card game... with asynchronous mode!", 
+    "hostname": "orbsccg.com", 
     "name": "OrbsCCG", 
     "status": "Active", 
     "url": "http://orbsccg.com"
@@ -2305,6 +2634,7 @@
   {
     "batch": "W11", 
     "description": "OrderAhead is the easiest way to order from local merchants on your phone.", 
+    "hostname": "orderaheadapp.com", 
     "name": "OrderAhead", 
     "status": "Active", 
     "url": "http://orderaheadapp.com"
@@ -2312,6 +2642,7 @@
   {
     "batch": "W10", 
     "description": "OwnLocal (previously Seeing Interactive) provides Web-based software to local newspapers and gives them a white-label service for selling online ads and services to local businesses.", 
+    "hostname": "ownlocal.com", 
     "name": "OwnLocal", 
     "status": "Active", 
     "url": "http://www.ownlocal.com"
@@ -2319,6 +2650,7 @@
   {
     "batch": "W13", 
     "description": "Padlet is an Internet application that allows people to express their thoughts on a common topic easily. It works like an online sheet of paper where people can put any content (e.g. images, videos, documents, text) anywhere on the page, together with anyone, from any device.", 
+    "hostname": "padlet.com", 
     "name": "Padlet", 
     "status": "Active", 
     "url": "http://padlet.com"
@@ -2326,6 +2658,7 @@
   {
     "batch": "S11", 
     "description": "PageLever is the leading analytics platform for measuring your brand's presence on Facebook.", 
+    "hostname": "pagelever.com", 
     "name": "PageLever", 
     "status": "Active", 
     "url": "http://pagelever.com"
@@ -2333,6 +2666,7 @@
   {
     "batch": "S10", 
     "description": "PagerDuty is an alarm dispatching service for system administrators and support teams.", 
+    "hostname": "pagerduty.com", 
     "name": "PagerDuty", 
     "status": "Active", 
     "url": "http://www.pagerduty.com"
@@ -2340,6 +2674,7 @@
   {
     "batch": "W12", 
     "description": "Pair is an app just for the two of you.", 
+    "hostname": "trypair.com", 
     "name": "Pair", 
     "status": "Active", 
     "url": "http://trypair.com"
@@ -2347,6 +2682,7 @@
   {
     "batch": "S13", 
     "description": "More than 4,000 schools use Panorama for data analytics and feedback surveys of teachers, parents, and students.", 
+    "hostname": "panoramaed.com", 
     "name": "Panorama Education", 
     "status": "Active", 
     "url": "http://www.panoramaed.com"
@@ -2354,6 +2690,7 @@
   {
     "batch": "S11", 
     "description": "QR codes made easy. Paperlinks is the premier platform for generating QR codes for businesses.", 
+    "hostname": "paperlinks.com", 
     "name": "Paperlinks", 
     "status": "Active", 
     "url": "http://www.paperlinks.com"
@@ -2361,6 +2698,7 @@
   {
     "batch": "W07", 
     "description": "Parakey was founded in early 2006 by Blake Ross and Joe Hewitt of Mozilla/Firefox fame.", 
+    "hostname": "parakey.com", 
     "name": "Parakey", 
     "status": "Exited", 
     "url": "http://www.parakey.com"
@@ -2368,6 +2706,7 @@
   {
     "batch": "S12", 
     "description": "Parallel Universe, a Y-Combinator startup, makes middleware that enable easy scaling for real-time spatial applications.", 
+    "hostname": "paralleluniverse.co", 
     "name": "Parallel Universe", 
     "status": "Active", 
     "url": "http://paralleluniverse.co"
@@ -2375,6 +2714,7 @@
   {
     "batch": "S11", 
     "description": "Parse provides cloud services for mobile developers. The complete mobile app platform. Parse lets you focus on creating unique & engaging apps. We take care of the rest.", 
+    "hostname": "parse.com", 
     "name": "Parse", 
     "status": "Active", 
     "url": "http://www.parse.com"
@@ -2382,6 +2722,7 @@
   {
     "batch": "W13", 
     "description": "PayTango links the cards in your wallet to your fingerprints.", 
+    "hostname": "paytango.com", 
     "name": "PayTango", 
     "status": "Active", 
     "url": "http://www.paytango.com"
@@ -2389,6 +2730,7 @@
   {
     "batch": "W11", 
     "description": "Pebble is an infinitely customizable e-paper watch.", 
+    "hostname": "getpebble.com", 
     "name": "Pebble Technology", 
     "status": "Active", 
     "url": "http://www.getpebble.com"
@@ -2396,6 +2738,7 @@
   {
     "batch": "S08", 
     "description": "People and Pages is a service similar to Google Groups, allowing group organizers to manage email lists and publish to the web in one place.", 
+    "hostname": null, 
     "name": "People and Pages", 
     "status": "Dead", 
     "url": null
@@ -2403,6 +2746,7 @@
   {
     "batch": "W12", 
     "description": "Phi is currently designed as a PCIe card for developers. It is hardware (a software defined radio) that allows software developers to write applications to interact with all types of wireless signals and wireless devices.", 
+    "hostname": "pervices.com", 
     "name": "Per Vices", 
     "status": "Active", 
     "url": "http://pervices.com"
@@ -2410,6 +2754,7 @@
   {
     "batch": "S12", 
     "description": "Fast & Easy Facebook Retargeting. Retarget lost customers on Facebook and get more sales.", 
+    "hostname": "perfectaudience.com", 
     "name": "Perfect Audience", 
     "status": "Active", 
     "url": "http://www.perfectaudience.com"
@@ -2417,6 +2762,7 @@
   {
     "batch": "S11", 
     "description": "Share Your Best Moments. Send photo prints to loved ones in seconds.", 
+    "hostname": "picplum.com", 
     "name": "PicPlum", 
     "status": "Active", 
     "url": "http://www.picplum.com"
@@ -2424,6 +2770,7 @@
   {
     "batch": "W09", 
     "description": "Picurio is web-based photo sharing and photo management software.", 
+    "hostname": "picurio.com", 
     "name": "Picurio", 
     "status": "Active", 
     "url": "http://picurio.com"
@@ -2431,6 +2778,7 @@
   {
     "batch": "S08", 
     "description": "Picwing is a photo sharing platform that enables users to share their photos through a variety of sources.", 
+    "hostname": "picwing.com", 
     "name": "Picwing", 
     "status": "Exited", 
     "url": "http://www.picwing.com"
@@ -2438,6 +2786,7 @@
   {
     "batch": "W14", 
     "description": "Location analytics made simple. PiinPoint enables businesses to find the best locations for expansion.", 
+    "hostname": "piinpoint.com", 
     "name": "Piinpoint", 
     "status": "Active", 
     "url": "http://piinpoint.com"
@@ -2445,6 +2794,7 @@
   {
     "batch": "W12", 
     "description": "PlanGrid was created to save contractors time.", 
+    "hostname": "plangrid.com", 
     "name": "PlanGrid", 
     "status": "Active", 
     "url": "http://plangrid.com"
@@ -2452,6 +2802,7 @@
   {
     "batch": "S12", 
     "description": "Plivo is a cloud based API platform to build Voice and SMS Applications.", 
+    "hostname": "plivo.com", 
     "name": "Plivo", 
     "status": "Active", 
     "url": "http://www.plivo.com"
@@ -2459,6 +2810,7 @@
   {
     "batch": "S09", 
     "description": "Plurchase is an online social shopping site.", 
+    "hostname": null, 
     "name": "Plurchase", 
     "status": "Dead", 
     "url": null
@@ -2466,6 +2818,7 @@
   {
     "batch": "W09", 
     "description": "pocketfungames is a game developer for the iPhone that focuses on games with strong social components.", 
+    "hostname": "pocketfungames.com", 
     "name": "PocketFunGames", 
     "status": "Active", 
     "url": "http://pocketfungames.com"
@@ -2473,6 +2826,7 @@
   {
     "batch": "S08", 
     "description": "The best way to create stylish real-time experiences for events using mobile devices.", 
+    "hostname": "polleverywhere.com", 
     "name": "PollEverywhere", 
     "status": "Active", 
     "url": "http://polleverywhere.com"
@@ -2480,6 +2834,7 @@
   {
     "batch": "S06", 
     "description": "A social polling site. Pollground allows you to easily create surveys and allow the \u201cwisdom of the crowd\u201d to answer your questions. Questions and comments can be posted anonymously.", 
+    "hostname": null, 
     "name": "PollGround", 
     "status": "Dead", 
     "url": null
@@ -2487,6 +2842,7 @@
   {
     "batch": "S08", 
     "description": "Popcuts is a unique online music store. Buy music. Make money.", 
+    "hostname": null, 
     "name": "PopCuts", 
     "status": "Dead", 
     "url": null
@@ -2494,6 +2850,7 @@
   {
     "batch": "W12", 
     "description": "Popset is the easiest way to start group photo albums with friends, directly from a mobile phone.", 
+    "hostname": "popset.com", 
     "name": "PopSet", 
     "status": "Active", 
     "url": "http://www.popset.com"
@@ -2501,6 +2858,7 @@
   {
     "batch": "W13", 
     "description": "Posmetrics provides iPad-based customer feedback surveys that are mounted right at the point of purchase.", 
+    "hostname": "posmetrics.com", 
     "name": "Posmetrics", 
     "status": "Active", 
     "url": "http://www.posmetrics.com"
@@ -2508,6 +2866,7 @@
   {
     "batch": "S08", 
     "description": "Posterous was focused on making blogging simple - as simple as sending an email.", 
+    "hostname": "posterous.com", 
     "name": "Posterous", 
     "status": "Exited", 
     "url": "https://posterous.com"
@@ -2515,6 +2874,7 @@
   {
     "batch": "W14", 
     "description": "Povio enables you to start communicating with friends in the most comfortable way.", 
+    "hostname": "pov.io", 
     "name": "Povio", 
     "status": "Active", 
     "url": "http://pov.io"
@@ -2522,6 +2882,7 @@
   {
     "batch": "S08", 
     "description": null, 
+    "hostname": null, 
     "name": "Precognate", 
     "status": "Dead", 
     "url": null
@@ -2529,6 +2890,7 @@
   {
     "batch": "W12", 
     "description": "Priceonomics is the price guide for everything.", 
+    "hostname": "priceonomics.com", 
     "name": "Priceonomics", 
     "status": "Active", 
     "url": "http://priceonomics.com"
@@ -2536,6 +2898,7 @@
   {
     "batch": "S13", 
     "description": "Same day laundry delivery.", 
+    "hostname": "getprim.com", 
     "name": "Prim", 
     "status": "Active", 
     "url": "http://getprim.com"
@@ -2543,6 +2906,7 @@
   {
     "batch": "W13", 
     "description": "A fundraising platform enabling celebrities to use their fan bases to raise money and awareness for their chosen causes.", 
+    "hostname": "prizeo.com", 
     "name": "Prizeo", 
     "status": "Active", 
     "url": "http://www.prizeo.com"
@@ -2550,6 +2914,7 @@
   {
     "batch": "S12", 
     "description": "Profig provides transcriptions, call tracking, voice broadcasting, CRM integration and other custom features to businesses.", 
+    "hostname": "profig.com", 
     "name": "Profig", 
     "status": "Active", 
     "url": "http://profig.com"
@@ -2557,6 +2922,7 @@
   {
     "batch": "W09", 
     "description": "Propable was a suite of online management and investment analysis tools for property investors.", 
+    "hostname": null, 
     "name": "Propable", 
     "status": "Dead", 
     "url": null
@@ -2564,6 +2930,7 @@
   {
     "batch": "S11", 
     "description": "Proxino is a cloud platform for monitoring and debugging client-side JavaScript.", 
+    "hostname": "proxino.com", 
     "name": "Proxino", 
     "status": "Active", 
     "url": "http://www.proxino.com"
@@ -2571,6 +2938,7 @@
   {
     "batch": "W14", 
     "description": "PushBullet makes it easy to push files, links, reminders and more between your Android devices, to your friends, and even to your computer quickly, easily and securely.", 
+    "hostname": "pushbullet.com", 
     "name": "Pushbullet", 
     "status": "Active", 
     "url": "http://www.pushbullet.com"
@@ -2578,6 +2946,7 @@
   {
     "batch": "S11", 
     "description": "Quartzy is an online suite of lab management tools for the academic life science community.", 
+    "hostname": "quartzy.com", 
     "name": "Quartzy", 
     "status": "Active", 
     "url": "http://www.quartzy.com"
@@ -2585,6 +2954,7 @@
   {
     "batch": "S12", 
     "description": "QuicklyChat is a quick way for coworkers to video chat with each other when they're working remotely.", 
+    "hostname": "quicklychat.com", 
     "name": "QuicklyChat", 
     "status": "Active", 
     "url": "http://www.quicklychat.com"
@@ -2592,6 +2962,7 @@
   {
     "batch": "S10", 
     "description": "Rapportive shows you everything about your contacts right inside your inbox.", 
+    "hostname": "rapportive.com", 
     "name": "Rapportive", 
     "status": "Exited", 
     "url": "http://rapportive.com"
@@ -2599,6 +2970,7 @@
   {
     "batch": "S10", 
     "description": "ReadyForZero creates online financial software that helps people control and reduce debt.", 
+    "hostname": "readyforzero.com", 
     "name": "ReadyForZero", 
     "status": "Active", 
     "url": "https://www.readyforzero.com"
@@ -2606,6 +2978,7 @@
   {
     "batch": "S13", 
     "description": "Featured investments available for funding.", 
+    "hostname": "realcrowd.com", 
     "name": "RealCrowd", 
     "status": "Active", 
     "url": "http://realcrowd.com"
@@ -2613,6 +2986,7 @@
   {
     "batch": "S07", 
     "description": "Reble offers a software download, only for windows, that allows users to stream music from your friends who also have installed Reble.", 
+    "hostname": null, 
     "name": "Reble", 
     "status": "Dead", 
     "url": null
@@ -2620,6 +2994,7 @@
   {
     "batch": "S05", 
     "description": "Launched in 2005, Reddit is a social news website that displays news based on your personal preferences and what the community likes.", 
+    "hostname": "reddit.com", 
     "name": "Reddit", 
     "status": "Exited", 
     "url": "http://reddit.com"
@@ -2627,6 +3002,7 @@
   {
     "batch": "S13", 
     "description": "Flyers at your fingertips! Simple. Fast. Free.", 
+    "hostname": "reebee.com", 
     "name": "Reebee", 
     "status": "Active", 
     "url": "http://reebee.com"
@@ -2634,6 +3010,7 @@
   {
     "batch": "S12", 
     "description": "ReelSurfer lets anyone clip and share any video from any website.", 
+    "hostname": "reelsurfer.com", 
     "name": "ReelSurfer", 
     "status": "Active", 
     "url": "http://www.reelsurfer.com"
@@ -2641,6 +3018,7 @@
   {
     "batch": "S12", 
     "description": "Referly is an Online Referral System for Your Social Network.", 
+    "hostname": "refer.ly", 
     "name": "Refer.ly", 
     "status": "Active", 
     "url": "http://refer.ly"
@@ -2648,6 +3026,7 @@
   {
     "batch": "S13", 
     "description": "Food credit straight to your phone.", 
+    "hostname": "regalii.com", 
     "name": "Regalii", 
     "status": "Active", 
     "url": "http://www.regalii.com"
@@ -2655,6 +3034,7 @@
   {
     "batch": "S12", 
     "description": "The first wedding registry to co-operate with independent retailers & big box stores, RegistryLove lets you register products and services from anywhere & consolidate them all onto ONE registry.", 
+    "hostname": "registrylove.com", 
     "name": "RegistryLove", 
     "status": "Active", 
     "url": "http://registrylove.com"
@@ -2662,6 +3042,7 @@
   {
     "batch": "W09", 
     "description": "ReMail is an email app that downloads all your email to your iPhone and offers a comprehensive email search.", 
+    "hostname": "remail.com", 
     "name": "reMail", 
     "status": "Exited", 
     "url": "http://www.remail.com"
@@ -2669,6 +3050,7 @@
   {
     "batch": "S12", 
     "description": "Set Rent Accurately. Rent.io helps you set competitive pricing for rental properties.", 
+    "hostname": "rent.io", 
     "name": "Rent.io", 
     "status": "Active", 
     "url": "http://www.rent.io"
@@ -2676,6 +3058,7 @@
   {
     "batch": "S09", 
     "description": "Search NYC Apartments and Listings by Location. Find New York City Apartment Rentals. Contact Landlords Online.", 
+    "hostname": "renthop.com", 
     "name": "RentHop", 
     "status": "Active", 
     "url": "http://www.renthop.com"
@@ -2683,6 +3066,7 @@
   {
     "batch": "S11", 
     "description": "Rentobo is a new tool built for landlords, managers, and agents of all sizes to simplify the process of finding and signing a new tenant for your rental property.", 
+    "hostname": "rentobo.com", 
     "name": "Rentobo", 
     "status": "Active", 
     "url": "http://www.rentobo.com"
@@ -2690,6 +3074,7 @@
   {
     "batch": "W08", 
     "description": "RescueTime is a frictionless web-based time management tool that keeps track of what you do and for how long when you are on your computer.", 
+    "hostname": "rescuetime.com", 
     "name": "RescueTime", 
     "status": "Active", 
     "url": "http://rescuetime.com"
@@ -2697,6 +3082,7 @@
   {
     "batch": "S09", 
     "description": "RethinkDB is designed to be extremely fast, and implements powerful features that are cumbersome and inefficient with rotational storage.", 
+    "hostname": "rethinkdb.com", 
     "name": "RethinkDB", 
     "status": "Active", 
     "url": "http://www.rethinkdb.com"
@@ -2704,6 +3090,7 @@
   {
     "batch": "W14", 
     "description": "Same day delivery has never been this easy.", 
+    "hostname": "gorickshaw.com", 
     "name": "Rickshaw", 
     "status": "Active", 
     "url": "http://gorickshaw.com"
@@ -2711,6 +3098,7 @@
   {
     "batch": "W14", 
     "description": "Reduce travel spend, improve employee culture. It's business travel made personal.", 
+    "hostname": "rocketrip.com", 
     "name": "Rocketrip", 
     "status": "Active", 
     "url": "http://www.rocketrip.com"
@@ -2718,6 +3106,7 @@
   {
     "batch": "S11", 
     "description": "Science Exchange is an online marketplace for scientific experiments. The easiest way to get experiments conducted by researchers in top core facilities and institutions.", 
+    "hostname": "scienceexchange.com", 
     "name": "Science Exchange", 
     "status": "Active", 
     "url": "http://scienceexchange.com"
@@ -2725,6 +3114,7 @@
   {
     "batch": "S08", 
     "description": "The artist-formerly-known-as Scoopler is a real-time search engine.", 
+    "hostname": "justspotted.com", 
     "name": "Scoopler", 
     "status": "Active", 
     "url": "http://www.justspotted.com"
@@ -2732,6 +3122,7 @@
   {
     "batch": "S12", 
     "description": "Scoutzie.com is a curated marketplace for design.", 
+    "hostname": "scoutzie.com", 
     "name": "Scoutzie", 
     "status": "Active", 
     "url": "http://www.scoutzie.com"
@@ -2739,6 +3130,7 @@
   {
     "batch": "W13", 
     "description": "Collaborative screen sharing. You each get your own mouse, and you're both always in control.", 
+    "hostname": "screenhero.com", 
     "name": "Screenhero", 
     "status": "Active", 
     "url": "http://www.screenhero.com"
@@ -2746,6 +3138,7 @@
   {
     "batch": "W12", 
     "description": "Share your screen instantly to any device with a browser.", 
+    "hostname": "screenleap.com", 
     "name": "ScreenLeap", 
     "status": "Active", 
     "url": "http://www.screenleap.com"
@@ -2753,6 +3146,7 @@
   {
     "batch": "S06", 
     "description": "Scribd is a social reading and publishing website.", 
+    "hostname": "scribd.com", 
     "name": "Scribd", 
     "status": "Active", 
     "url": "http://scribd.com"
@@ -2760,6 +3154,7 @@
   {
     "batch": "S11", 
     "description": "The Segment API controls other analytics tools, allowing developers to integrate one single API in place of many.", 
+    "hostname": "segment.com", 
     "name": "Segment", 
     "status": "Active", 
     "url": "https://segment.com"
@@ -2767,6 +3162,7 @@
   {
     "batch": "S11", 
     "description": "SellStage is SaaS for online retailers to make communicating and selling via video easy and affordable.", 
+    "hostname": "sellstage.com", 
     "name": "SellStage", 
     "status": "Active", 
     "url": "http://www.sellstage.com"
@@ -2774,6 +3170,7 @@
   {
     "batch": "W13", 
     "description": "Curated database of products and prices. 50 million distinct prices from 20 million products, refreshed constantly.", 
+    "hostname": "semantics3.com", 
     "name": "Semantics3", 
     "status": "Active", 
     "url": "http://www.semantics3.com"
@@ -2781,6 +3178,7 @@
   {
     "batch": "W12", 
     "description": "SendHub is a fast and simple way for professionals to communicate.", 
+    "hostname": "sendhub.com", 
     "name": "SendHub", 
     "status": "Active", 
     "url": "http://sendhub.com"
@@ -2788,6 +3186,7 @@
   {
     "batch": "W11", 
     "description": "Sendoid is an on-demand peer to peer transfer system.", 
+    "hostname": "sendoid.com", 
     "name": "Sendoid", 
     "status": "Exited", 
     "url": "http://sendoid.com"
@@ -2795,6 +3194,7 @@
   {
     "batch": "W14", 
     "description": "Transactional Email Made Easy. Stop trapping your email in source code. Set it free.", 
+    "hostname": "sendwithus.com", 
     "name": "Sendwithus", 
     "status": "Active", 
     "url": "http://www.sendwithus.com"
@@ -2802,6 +3202,7 @@
   {
     "batch": "S13", 
     "description": "Smarter sensing.", 
+    "hostname": "senic.com", 
     "name": "Senic", 
     "status": "Active", 
     "url": "http://senic.com"
@@ -2809,6 +3210,7 @@
   {
     "batch": "W14", 
     "description": "Your night starts here.", 
+    "hostname": "shoobs.com", 
     "name": "Shoobs", 
     "status": "Active", 
     "url": "http://shoobs.com"
@@ -2816,6 +3218,7 @@
   {
     "batch": "W12", 
     "description": "Shoptiques.com brings boutique shopping online.", 
+    "hostname": "shoptiques.com", 
     "name": "Shoptiques", 
     "status": "Active", 
     "url": "http://shoptiques.com"
@@ -2823,6 +3226,7 @@
   {
     "batch": "S06", 
     "description": "A \u201cfashion related community\u201d.", 
+    "hostname": null, 
     "name": "Shoutfit", 
     "status": "Dead", 
     "url": null
@@ -2830,6 +3234,7 @@
   {
     "batch": "S11", 
     "description": "Siasto is a collaboration and project management tool that integrates into Google Apps, Gmail, Google Drive, GCal, box, and Dropbox.", 
+    "hostname": "siasto.com", 
     "name": "Siasto", 
     "status": "Active", 
     "url": "http://siasto.com"
@@ -2837,6 +3242,7 @@
   {
     "batch": "S11", 
     "description": "The world's most advanced fraud prevention platform", 
+    "hostname": "siftscience.com", 
     "name": "Sift Science", 
     "status": "Active", 
     "url": "http://siftscience.com"
@@ -2844,6 +3250,7 @@
   {
     "batch": "S05", 
     "description": null, 
+    "hostname": null, 
     "name": "Simmery", 
     "status": "Dead", 
     "url": null
@@ -2851,6 +3258,7 @@
   {
     "batch": "S10", 
     "description": null, 
+    "hostname": "simplenoteapp.com", 
     "name": "Simperium", 
     "status": "Active", 
     "url": "http://simplenoteapp.com"
@@ -2858,6 +3266,7 @@
   {
     "batch": "S13", 
     "description": "Make sense of your legal bills.", 
+    "hostname": "simplelegal.com", 
     "name": "SimpleLegal", 
     "status": "Active", 
     "url": "http://www.simplelegal.com"
@@ -2865,6 +3274,7 @@
   {
     "batch": "W13", 
     "description": "Simple health insurance for small businesses.", 
+    "hostname": "simplyinsured.com", 
     "name": "SimplyInsured", 
     "status": "Active", 
     "url": "http://www.simplyinsured.com"
@@ -2872,6 +3282,7 @@
   {
     "batch": "W14", 
     "description": "We make your presentations look great.", 
+    "hostname": "sketchdeck.com", 
     "name": "SketchDeck", 
     "status": "Active", 
     "url": "http://sketchdeck.com"
@@ -2879,6 +3290,7 @@
   {
     "batch": "W09", 
     "description": "Skysheet is a web-based spreadsheet, in stealth mode as of March 2009.", 
+    "hostname": "skysheet.com", 
     "name": "Skysheet", 
     "status": "Active", 
     "url": "http://www.skysheet.com"
@@ -2886,6 +3298,7 @@
   {
     "batch": "S07", 
     "description": "SlapVid was a video site built on peer-to-peer technology that allows you to browse, search and watch video pulled from top video sites.", 
+    "hostname": null, 
     "name": "SlapVid", 
     "status": "Dead", 
     "url": null
@@ -2893,6 +3306,7 @@
   {
     "batch": "S08", 
     "description": "Slinkset is a white label social news platform that allows anyone to start a social news site and integrate it into their own website.", 
+    "hostname": "slinkset.com", 
     "name": "Slinkset", 
     "status": "Exited", 
     "url": "http://slinkset.com"
@@ -2900,6 +3314,7 @@
   {
     "batch": "S12", 
     "description": "SmartAsset makes life's biggest decisions easier by bringing full transparency to the financial decision making process.", 
+    "hostname": "smartasset.com", 
     "name": "SmartAsset", 
     "status": "Active", 
     "url": "http://www.smartasset.com"
@@ -2907,6 +3322,7 @@
   {
     "batch": "S11", 
     "description": "Snapjoy is an online photo library that imports your photos from anywhere and organizes them into meaningful memories of who, what, when, & where.", 
+    "hostname": "snapjoy.com", 
     "name": "Snapjoy", 
     "status": "Active", 
     "url": "http://snapjoy.com"
@@ -2914,6 +3330,7 @@
   {
     "batch": "W08", 
     "description": "Snaptalent powers a distributed job advertisement network primarily meant for developer listings.", 
+    "hostname": null, 
     "name": "Snaptalent", 
     "status": "Dead", 
     "url": null
@@ -2921,6 +3338,7 @@
   {
     "batch": "S08", 
     "description": "Grab pieces of enjoyable content from any page, save them online, and share without having to copy/paste using a simple bookmarklet.", 
+    "hostname": null, 
     "name": "Snipd", 
     "status": "Dead", 
     "url": null
@@ -2928,6 +3346,7 @@
   {
     "batch": "W06", 
     "description": "Snipshot is a photo editor that lets you start editing any photo with one click of a bookmarklet.", 
+    "hostname": "snipshot.com", 
     "name": "Snipshot", 
     "status": "Active", 
     "url": "http://snipshot.com"
@@ -2935,6 +3354,7 @@
   {
     "batch": "S08", 
     "description": "SocialBrowse is a Firefox extension for sharing links.", 
+    "hostname": null, 
     "name": "Socialbrowse", 
     "status": "Dead", 
     "url": null
@@ -2942,6 +3362,7 @@
   {
     "batch": "W12", 
     "description": "Socialcam is a new mobile video application coming to both iPhone and Android.", 
+    "hostname": "socialcam.com", 
     "name": "SocialCam", 
     "status": "Exited", 
     "url": "http://socialcam.com"
@@ -2949,6 +3370,7 @@
   {
     "batch": "W07", 
     "description": "Socialmoth is a community to post your thoughts anonymously.", 
+    "hostname": "socialmoth.com", 
     "name": "SocialMoth", 
     "status": "Active", 
     "url": "http://socialmoth.com"
@@ -2956,6 +3378,7 @@
   {
     "batch": "S07", 
     "description": "SocialPicks provides individual investors with a trusted online investing community where they can invest smarter together.", 
+    "hostname": "socialpicks.com", 
     "name": "SocialPicks", 
     "status": "Exited", 
     "url": "http://www.socialpicks.com"
@@ -2963,6 +3386,7 @@
   {
     "batch": "W12", 
     "description": "Sonalight is an app that lets you text whilst you drive.", 
+    "hostname": "sonalight.com", 
     "name": "Sonalight", 
     "status": "Active", 
     "url": "http://sonalight.com"
@@ -2970,6 +3394,7 @@
   {
     "batch": "S07", 
     "description": "Launched October 2007 by co-founders Ian Hogarth, Michelle You and Pete Smith, Songkick is an online database of concerts for music enthusiasts.", 
+    "hostname": "songkick.com", 
     "name": "Songkick", 
     "status": "Active", 
     "url": "http://songkick.com"
@@ -2977,6 +3402,7 @@
   {
     "batch": "S13", 
     "description": "Hear your music in 20/20.", 
+    "hostname": "soundfocus.com", 
     "name": "SoundFocus", 
     "status": "Active", 
     "url": "http://soundfocus.com"
@@ -2984,6 +3410,7 @@
   {
     "batch": "S12", 
     "description": "SpinPunch makes infrastructure for high performance browser games to rival PC and console titles.", 
+    "hostname": "spinpunch.com", 
     "name": "SpinPunch", 
     "status": "Active", 
     "url": "http://www.spinpunch.com"
@@ -2991,6 +3418,7 @@
   {
     "batch": "S07", 
     "description": "Splashup, formerly known as fauxto, is an online image editing service that provides some advanced tools and is unique for its incorporation of image editing layer effects.", 
+    "hostname": "splashup.com", 
     "name": "Splashup", 
     "status": "Active", 
     "url": "http://www.splashup.com"
@@ -2998,6 +3426,7 @@
   {
     "batch": "S12", 
     "description": "Sponsorfied is an online marketplace for sponsorships that connects brands with relevant sponsorship opportunities with the click of a button.", 
+    "hostname": "sponsorfied.com", 
     "name": "Sponsorfied", 
     "status": "Active", 
     "url": "http://www.sponsorfied.com"
@@ -3005,6 +3434,7 @@
   {
     "batch": "S13", 
     "description": "Most convenient meal ever.", 
+    "hostname": "spoonrocket.com", 
     "name": "SpoonRocket", 
     "status": "Active", 
     "url": "http://www.spoonrocket.com"
@@ -3012,6 +3442,7 @@
   {
     "batch": "W14", 
     "description": "The research you need to understand every new user, delivered to your inbox when they sign up.", 
+    "hostname": "stacklead.com", 
     "name": "StackLead", 
     "status": "Active", 
     "url": "http://stacklead.com"
@@ -3019,6 +3450,7 @@
   {
     "batch": "S13", 
     "description": "APIs for commercial banks.", 
+    "hostname": "standardtreasury.com", 
     "name": "Standard Treasury", 
     "status": "Active", 
     "url": "http://standardtreasury.com"
@@ -3026,6 +3458,7 @@
   {
     "batch": "S08", 
     "description": "Startup companies. Startup jobs. Jobs at the world's best angel- and venture-backed web, media, and technology companies.", 
+    "hostname": "startuply.com", 
     "name": "Startuply", 
     "status": "Active", 
     "url": "http://www.startuply.com"
@@ -3033,6 +3466,7 @@
   {
     "batch": "S13", 
     "description": "Better Server Status Communication The best way to create a status page for your app or website. Just ask New Relic.", 
+    "hostname": "statuspage.io", 
     "name": "StatusPage", 
     "status": "Active", 
     "url": "http://www.statuspage.io"
@@ -3040,6 +3474,7 @@
   {
     "batch": "S12", 
     "description": "Web-based statistical analysis software that speaks in plain english instead of arcane stats jargon.", 
+    "hostname": "statwing.com", 
     "name": "Statwing", 
     "status": "Active", 
     "url": "http://www.statwing.com"
@@ -3047,6 +3482,7 @@
   {
     "batch": "S11", 
     "description": "Greek Streak is a company that designs and creates unique sorority and fraternity apparel.", 
+    "hostname": "greekstreak.com", 
     "name": "Streak.com", 
     "status": "Active", 
     "url": "http://greekstreak.com"
@@ -3054,6 +3490,7 @@
   {
     "batch": "W13", 
     "description": "Gorgeous, mobile-optimized sites in minutes.", 
+    "hostname": "strikingly.com", 
     "name": "Strikingly", 
     "status": "Active", 
     "url": "http://www.strikingly.com"
@@ -3061,6 +3498,7 @@
   {
     "batch": "S10", 
     "description": "Stripe is a simple, developer-friendly way to accept payments online.", 
+    "hostname": "stripe.com", 
     "name": "Stripe", 
     "status": "Active", 
     "url": "https://stripe.com"
@@ -3068,6 +3506,7 @@
   {
     "batch": "S12", 
     "description": "Better Grades. Less Frustration. We help you get better grades in your college classes with less time spent studying.", 
+    "hostname": "studyedge.com", 
     "name": "StudyEdge", 
     "status": "Active", 
     "url": "http://www.studyedge.com"
@@ -3075,6 +3514,7 @@
   {
     "batch": "W14", 
     "description": "Live fashionably. Borrow & Lend Designer Dresses with local Fashionistas.", 
+    "hostname": "stylelend.com", 
     "name": "Style Lend", 
     "status": "Active", 
     "url": "http://www.stylelend.com"
@@ -3082,6 +3522,7 @@
   {
     "batch": "W13", 
     "description": "Weather-appropriate fashion advice tailored to your life and style, every day.", 
+    "hostname": "thestyleup.com", 
     "name": "StyleUp", 
     "status": "Active", 
     "url": "http://www.thestyleup.com"
@@ -3089,6 +3530,7 @@
   {
     "batch": "S11", 
     "description": "Stypi is a collaborative real-time text editor similar to Etherpad.", 
+    "hostname": "stypi.com", 
     "name": "Stypi", 
     "status": "Exited", 
     "url": "http://www.stypi.com"
@@ -3096,6 +3538,7 @@
   {
     "batch": "S12", 
     "description": "Submittable is a cloud-based submission management platform used by 1000s of businesses, publishers and art organizations to curate and accept payment with submission (i.e. audio, video, manuscripts, images, applications, and resumes).", 
+    "hostname": "submittable.com", 
     "name": "Submittable", 
     "status": "Active", 
     "url": "http://www.submittable.com"
@@ -3103,6 +3546,7 @@
   {
     "batch": "W14", 
     "description": "Your Personal Airbnb Assistant. The easiest way to manage your Airbnb listing!", 
+    "hostname": "booksuperhost.com", 
     "name": "Superhost", 
     "status": "Active", 
     "url": "http://www.booksuperhost.com"
@@ -3110,6 +3554,7 @@
   {
     "batch": "S12", 
     "description": "Survata is a new type of market research and consumer insights service.", 
+    "hostname": "survata.com", 
     "name": "Survata", 
     "status": "Active", 
     "url": "http://www.survata.com"
@@ -3117,6 +3562,7 @@
   {
     "batch": "W13", 
     "description": "Svbtle is publishing network that brings some of the best things from newspapers and magazines to a network of great people.", 
+    "hostname": "svbtle.com", 
     "name": "Svbtle", 
     "status": "Active", 
     "url": "http://svbtle.com"
@@ -3124,6 +3570,7 @@
   {
     "batch": "W10", 
     "description": null, 
+    "hostname": null, 
     "name": "Swagapalooza", 
     "status": "Dead", 
     "url": null
@@ -3131,6 +3578,7 @@
   {
     "batch": "W13", 
     "description": "With Swapbox you no longer have to worry about missing deliveries. Use your Swapbox shipping address and your packages will be waiting for you at our nearest location.", 
+    "hostname": "swapbox.com", 
     "name": "SwapBox", 
     "status": "Active", 
     "url": "http://www.swapbox.com"
@@ -3138,6 +3586,7 @@
   {
     "batch": "W12", 
     "description": "Swiftype is building search software for the next generation of websites and applications.", 
+    "hostname": "swiftype.com", 
     "name": "Swiftype", 
     "status": "Active", 
     "url": "http://swiftype.com"
@@ -3145,6 +3594,7 @@
   {
     "batch": "W11", 
     "description": "SwipeGood allows users to enroll their credit or debit cards and automatically round up every purchase to the nearest dollar for charity.", 
+    "hostname": "swipegood.com", 
     "name": "SwipeGood", 
     "status": "Active", 
     "url": "https://swipegood.com"
@@ -3152,6 +3602,7 @@
   {
     "batch": "W13", 
     "description": "Swish is a dynamic, specialized mobile payment company that has developed a ground breaking new card reader and application which provides a complete mobile point of sale solution to any size business.", 
+    "hostname": "swish.com", 
     "name": "Swish", 
     "status": "Active", 
     "url": "http://www.swish.com"
@@ -3159,6 +3610,7 @@
   {
     "batch": "S11", 
     "description": "Tagstand ships NFC stickers and a platform to manage them.", 
+    "hostname": "tagstand.com", 
     "name": "Tagstand", 
     "status": "Active", 
     "url": "http://www.tagstand.com"
@@ -3166,6 +3618,7 @@
   {
     "batch": "W11", 
     "description": "TalkBin is a feedback platform for local businesses.", 
+    "hostname": "talkbin.com", 
     "name": "TalkBin", 
     "status": "Exited", 
     "url": "http://www.talkbin.com"
@@ -3173,6 +3626,7 @@
   {
     "batch": "S06", 
     "description": "A service that enables its users to meet and chat when they visit the same websites.", 
+    "hostname": null, 
     "name": "Talkito", 
     "status": "Dead", 
     "url": null
@@ -3180,6 +3634,7 @@
   {
     "batch": "S11", 
     "description": "You need a tablet strategy. We can help.", 
+    "hostname": "tapengage.com", 
     "name": "TapEngage", 
     "status": "Exited", 
     "url": "http://tapengage.com"
@@ -3187,6 +3642,7 @@
   {
     "batch": "S12", 
     "description": "TapIn is the easiest way to go from seeing to sharing. Broadcast mobile videos instantly.", 
+    "hostname": "tapin.tv", 
     "name": "TapIn", 
     "status": "Active", 
     "url": "http://www.tapin.tv"
@@ -3194,6 +3650,7 @@
   {
     "batch": "W14", 
     "description": "Mobile A/B testing for everyone on iOS. With the world's most fully featured mobile A/B testing platform.", 
+    "hostname": "taplytics.com", 
     "name": "Taplytics", 
     "status": "Active", 
     "url": "http://taplytics.com"
@@ -3201,6 +3658,7 @@
   {
     "batch": "S10", 
     "description": "TapZilla is a Y Combinator-backed company that launched October 13, 2010 and is taking the daily deal model and applying it to discounts on paid mobile apps.", 
+    "hostname": "tapzilla.com", 
     "name": "Tapzilla", 
     "status": "Active", 
     "url": "http://tapzilla.com"
@@ -3208,6 +3666,7 @@
   {
     "batch": "W11", 
     "description": "Siasto is a collaboration and project management tool that integrates into Google Apps, Gmail, Google Drive, GCal, box, and Dropbox.", 
+    "hostname": "siasto.com", 
     "name": "Taskforce", 
     "status": "Active", 
     "url": "http://siasto.com"
@@ -3215,6 +3674,7 @@
   {
     "batch": "S12", 
     "description": "Tastemaker aims to make interior decorating affordable and accessible to everyone.", 
+    "hostname": "tastemaker.com", 
     "name": "Tastemaker", 
     "status": "Active", 
     "url": "http://www.tastemaker.com"
@@ -3222,6 +3682,7 @@
   {
     "batch": "W13", 
     "description": "Create and sell custom t-shirts with zero upfront costs.", 
+    "hostname": "teespring.com", 
     "name": "Teespring", 
     "status": "Active", 
     "url": "http://teespring.com"
@@ -3229,6 +3690,7 @@
   {
     "batch": "S10", 
     "description": "Fast stream watching.", 
+    "hostname": "teevox.com", 
     "name": "Teevox", 
     "status": "Active", 
     "url": "http://teevox.com"
@@ -3236,6 +3698,7 @@
   {
     "batch": "S13", 
     "description": "Immigration, tax, and relocation. All in one place. Teleborder helps you scale your business.", 
+    "hostname": "teleborder.com", 
     "name": "Teleborder", 
     "status": "Active", 
     "url": "http://www.teleborder.com"
@@ -3243,6 +3706,7 @@
   {
     "batch": "W11", 
     "description": "Fastest, easiest way to setup a phone system for your business.", 
+    "hostname": "tellfi.com", 
     "name": "TellFi", 
     "status": "Active", 
     "url": "https://tellfi.com"
@@ -3250,6 +3714,7 @@
   {
     "batch": "W13", 
     "description": "Set up exams, tests and assessments with ease. Get student answers securely. Get them graded instantly.", 
+    "hostname": "terascore.com", 
     "name": "Terascore", 
     "status": "Active", 
     "url": "https://www.terascore.com"
@@ -3257,6 +3722,7 @@
   {
     "batch": "W14", 
     "description": "Getting an aerial imagery subscription to manage your farm's operations is easy!", 
+    "hostname": "terravion.com", 
     "name": "TerrAvion", 
     "status": "Active", 
     "url": "http://www.terravion.com"
@@ -3264,6 +3730,7 @@
   {
     "batch": "S05", 
     "description": "Founded in 2005, TextPayMe is an SMS payment service that lets you send money to other people using cell phone text messaging.", 
+    "hostname": "textpayme.com", 
     "name": "TextPayMe", 
     "status": "Exited", 
     "url": "http://www.textpayme.com"
@@ -3271,6 +3738,7 @@
   {
     "batch": "W14", 
     "description": "We're making dating fun again. We meet all of our members and set up dates. It's like meeting through friends, except much, much better.", 
+    "hostname": "thedatingring.com", 
     "name": "The Dating Ring", 
     "status": "Active", 
     "url": "http://thedatingring.com"
@@ -3278,6 +3746,7 @@
   {
     "batch": "S10", 
     "description": "The Fridge is a platform for lightweight single serving social networks for the functionality of Facebook without being on Facebook.", 
+    "hostname": "frid.ge", 
     "name": "The Fridge", 
     "status": "Exited", 
     "url": "http://www.frid.ge"
@@ -3285,6 +3754,7 @@
   {
     "batch": "W12", 
     "description": "The Daily Muse is visually engaging job search and related career resources.", 
+    "hostname": "thedailymuse.com", 
     "name": "theDailyMuse", 
     "status": "Active", 
     "url": "http://www.thedailymuse.com"
@@ -3292,6 +3762,7 @@
   {
     "batch": "W09", 
     "description": "thesixtyone is Digg for new music, a social filter for the tsunami of indie creativity hitting the web.", 
+    "hostname": "thesixtyone.com", 
     "name": "TheSixtyOne", 
     "status": "Active", 
     "url": "http://www.thesixtyone.com"
@@ -3299,6 +3770,7 @@
   {
     "batch": "S06", 
     "description": "An online collaboration environment that allows users to chat and draw diagrams on a shared whiteboard.", 
+    "hostname": null, 
     "name": "Thinkature", 
     "status": "Dead", 
     "url": null
@@ -3306,6 +3778,7 @@
   {
     "batch": "W14", 
     "description": "Mailing lists evolved. Threadable makes group email less noisy and more actionable.", 
+    "hostname": "threadable.com", 
     "name": "Threadable", 
     "status": "Active", 
     "url": "http://threadable.com"
@@ -3313,6 +3786,7 @@
   {
     "batch": "S08", 
     "description": "TicketStumbler is a secondary ticket market search engine and comparison website.", 
+    "hostname": null, 
     "name": "TicketStumbler", 
     "status": "Dead", 
     "url": null
@@ -3320,6 +3794,7 @@
   {
     "batch": "W12", 
     "description": "An Android and iOS app that turns your phone into a real-time push-to-talk walkie-talkie that also sends texts, voicemail, images, and video.", 
+    "hostname": "tikl.mobi", 
     "name": "TiKL", 
     "status": "Active", 
     "url": "http://www.tikl.mobi"
@@ -3327,6 +3802,7 @@
   {
     "batch": "W08", 
     "description": "Tipjoy is a simple, social payments engine that allows merchants to sell digital content and features, charities to raise money for causes, and individuals to give money to one another.", 
+    "hostname": null, 
     "name": "Tipjoy", 
     "status": "Dead", 
     "url": null
@@ -3334,6 +3810,7 @@
   {
     "batch": "S12", 
     "description": "Handcrafted iPhone travel guides that are free, offline, and just plain full of awesomeness.", 
+    "hostname": "tomoguides.com", 
     "name": "TomoGuides", 
     "status": "Active", 
     "url": "http://tomoguides.com"
@@ -3341,6 +3818,7 @@
   {
     "batch": "S13", 
     "description": "Toutpost is a community for experts and enthusiasts to discuss and discover the best products and brands.", 
+    "hostname": "toutpost.com", 
     "name": "Toutpost", 
     "status": "Active", 
     "url": "http://www.toutpost.com"
@@ -3348,6 +3826,7 @@
   {
     "batch": "S12", 
     "description": "The best way for artists to release new music and videos.", 
+    "hostname": "tracksby.com", 
     "name": "Tracks.by", 
     "status": "Active", 
     "url": "http://tracksby.com"
@@ -3355,6 +3834,7 @@
   {
     "batch": "W14", 
     "description": "Digital currency data and analysis. TradeBlock's digital currency tools and research are trusted by hundreds of thousands of traders and enthusiasts across the globe.", 
+    "hostname": "tradeblock.com", 
     "name": "TradeBlock", 
     "status": "Active", 
     "url": "http://tradeblock.com"
@@ -3362,6 +3842,7 @@
   {
     "batch": "S13", 
     "description": "We keep a watchful eye out for fraud and spending mishaps so you \u0003can spend your time doing what matters.", 
+    "hostname": "truelinkcard.com", 
     "name": "True Link Financial", 
     "status": "Active", 
     "url": "http://www.truelinkcard.com"
@@ -3369,6 +3850,7 @@
   {
     "batch": "W14", 
     "description": "Secure API to store health data. HIPAA compliance made easier for healthcare applications", 
+    "hostname": "truevault.com", 
     "name": "TrueVault", 
     "status": "Active", 
     "url": "http://www.truevault.com"
@@ -3376,6 +3858,7 @@
   {
     "batch": "W11", 
     "description": "The simplest way to save for a child's future.", 
+    "hostname": "trustegg.com", 
     "name": "TrustEgg", 
     "status": "Active", 
     "url": "http://trustegg.com"
@@ -3383,6 +3866,7 @@
   {
     "batch": "W07", 
     "description": "Mobile applications have so far been nightmares to implement.", 
+    "hostname": "tsumobi.com", 
     "name": "Tsumobi", 
     "status": "Active", 
     "url": "http://tsumobi.com"
@@ -3390,6 +3874,7 @@
   {
     "batch": "W11", 
     "description": "Tutorspree is an online portal that helps tutors and clients find each other.", 
+    "hostname": "tutorspree.com", 
     "name": "Tutorspree", 
     "status": "Active", 
     "url": "http://www.tutorspree.com"
@@ -3397,6 +3882,7 @@
   {
     "batch": "S09", 
     "description": "Tuxebo connects people looking for things to rent from local rental companies.", 
+    "hostname": "tuxebo.co.uk", 
     "name": "Tuxebo", 
     "status": "Active", 
     "url": "http://www.tuxebo.co.uk"
@@ -3404,6 +3890,7 @@
   {
     "batch": "W10", 
     "description": null, 
+    "hostname": "tweetflow.com", 
     "name": "Tweetflow", 
     "status": "Active", 
     "url": "http://tweetflow.com"
@@ -3411,6 +3898,7 @@
   {
     "batch": "W14", 
     "description": "Users can now order any product directly in your app with Two Tap.", 
+    "hostname": "twotap.com", 
     "name": "Two Tap", 
     "status": "Active", 
     "url": "http://twotap.com"
@@ -3418,6 +3906,7 @@
   {
     "batch": "W14", 
     "description": "Translation as a service. Human corrected machine translation service that enables businesses to communicate globally.", 
+    "hostname": "unbabel.com", 
     "name": "Unbabel", 
     "status": "Active", 
     "url": "http://www.unbabel.com"
@@ -3425,6 +3914,7 @@
   {
     "batch": "W11", 
     "description": "Upverter is building browser-based electronic design tools focused on collaboration and usability.", 
+    "hostname": "upverter.com", 
     "name": "Upverter", 
     "status": "Active", 
     "url": "http://upverter.com"
@@ -3432,6 +3922,7 @@
   {
     "batch": "S08", 
     "description": null, 
+    "hostname": null, 
     "name": "UrbanTakeover", 
     "status": "Dead", 
     "url": null
@@ -3439,6 +3930,7 @@
   {
     "batch": "S13", 
     "description": "Add urx.io/ to every link and drive users to your app, mobile website, or desktop browser.", 
+    "hostname": "urx.com", 
     "name": "URX", 
     "status": "Active", 
     "url": "http://urx.com"
@@ -3446,6 +3938,7 @@
   {
     "batch": "S12", 
     "description": "Custom Fit, Perfect Fit, Personalized Polos, T-shirts.", 
+    "hostname": "vastrm.com", 
     "name": "Vastrm", 
     "status": "Active", 
     "url": "http://vastrm.com"
@@ -3453,6 +3946,7 @@
   {
     "batch": "S12", 
     "description": "Vayable is an online marketplace where people can discover, buy and sell unique travel experiences, including tours, activities and extended trips.", 
+    "hostname": "vayable.com", 
     "name": "Vayable", 
     "status": "Active", 
     "url": "http://www.vayable.com"
@@ -3460,6 +3954,7 @@
   {
     "batch": "S11", 
     "description": "Verbling provides users with an innovative way to learn new languages by utilizing video chat technology.", 
+    "hostname": "verbling.com", 
     "name": "Verbling", 
     "status": "Active", 
     "url": "http://verbling.com"
@@ -3467,6 +3962,7 @@
   {
     "batch": "S12", 
     "description": "ViaCycle creates advanced bicycle sharing technology that allows easy deployment and administration.", 
+    "hostname": "viacycle.com", 
     "name": "ViaCycle", 
     "status": "Active", 
     "url": "http://www.viacycle.com"
@@ -3474,6 +3970,7 @@
   {
     "batch": "S08", 
     "description": "Vidly, formerly known as TwitVid (or Twitvid.io), wants to be the easiest way to share video on the web.", 
+    "hostname": null, 
     "name": "Vidly / Fliggo", 
     "status": "Dead", 
     "url": null
@@ -3481,6 +3978,7 @@
   {
     "batch": "W14", 
     "description": "Social media on air.", 
+    "hostname": "vidpresso.com", 
     "name": "Vidpresso", 
     "status": "Active", 
     "url": "http://www.vidpresso.com"
@@ -3488,6 +3986,7 @@
   {
     "batch": "S11", 
     "description": "Vidyard is an online video platform for business. Add Video To Your Website In Minutes. Vidyard hosts your videos, analyzes their effectiveness, and transforms them into powerful marketing tools.", 
+    "hostname": "vidyard.com", 
     "name": "Vidyard", 
     "status": "Active", 
     "url": "http://vidyard.com"
@@ -3495,6 +3994,7 @@
   {
     "batch": "W07", 
     "description": null, 
+    "hostname": null, 
     "name": "View3", 
     "status": "Dead", 
     "url": null
@@ -3502,6 +4002,7 @@
   {
     "batch": "S11", 
     "description": "Vimessa allows you to send free video messages to your friends anywhere in the world, even if they do not have an iPhone.", 
+    "hostname": "vimessa.com", 
     "name": "Vimessa", 
     "status": "Active", 
     "url": "http://vimessa.com"
@@ -3509,6 +4010,7 @@
   {
     "batch": "S12", 
     "description": "Get your video seen by millions of people! Leverage our platform to distribute your video to people you want on blogs, social games, and mobile apps.", 
+    "hostname": "virool.com", 
     "name": "Virool", 
     "status": "Active", 
     "url": "http://www.virool.com"
@@ -3516,6 +4018,7 @@
   {
     "batch": "W07", 
     "description": "Virtualmin is taking on the lack of innovation in the server admin programs, like Plesk, by making a more accessable version for pages managed by the non-technical crowd.", 
+    "hostname": "virtualmin.com", 
     "name": "VirtualMin", 
     "status": "Active", 
     "url": "http://www.virtualmin.com"
@@ -3523,6 +4026,7 @@
   {
     "batch": "S12", 
     "description": "VoiceGem is the easiest way to send a voice message to anyone.", 
+    "hostname": "voicegem.com", 
     "name": "VoiceGem", 
     "status": "Active", 
     "url": "http://www.voicegem.com"
@@ -3530,6 +4034,7 @@
   {
     "batch": "W09", 
     "description": "Voxli offers browser-based group voice chat for gamers and teams.", 
+    "hostname": "voxli.com", 
     "name": "Voxli", 
     "status": "Active", 
     "url": "https://voxli.com"
@@ -3537,6 +4042,7 @@
   {
     "batch": "S09", 
     "description": "WakeMate makes personalized alarm clocks that sync with both a user's body and their cell phone, enabling the iPhone alarm system to sound at the end of a REM cycle.", 
+    "hostname": "wakemate.com", 
     "name": "Wakemate", 
     "status": "Active", 
     "url": "http://www.wakemate.com"
@@ -3544,6 +4050,7 @@
   {
     "batch": "S13", 
     "description": "Record your iPhone app.", 
+    "hostname": "watchsend.com", 
     "name": "Watchsend", 
     "status": "Active", 
     "url": "http://www.watchsend.com"
@@ -3551,6 +4058,7 @@
   {
     "batch": "W13", 
     "description": "Watsi is an online peer-to-peer crowdfunding platform that allows users to fund life-changing medical treatments for underserved people in developing countries.", 
+    "hostname": "watsi.org", 
     "name": "Watsi", 
     "status": "Active", 
     "url": "http://watsi.org"
@@ -3558,6 +4066,7 @@
   {
     "batch": "W09", 
     "description": "Wattvision offers a simple idea: Monitor your energy consumption in realtime from the web.", 
+    "hostname": "wattvision.com", 
     "name": "Wattvision", 
     "status": "Active", 
     "url": "http://wattvision.com"
@@ -3565,6 +4074,7 @@
   {
     "batch": "W14", 
     "description": "Better phone service for your dental practice that syncs with your dental software.", 
+    "hostname": "getweave.com", 
     "name": "Weave", 
     "status": "Active", 
     "url": "http://www.getweave.com"
@@ -3572,6 +4082,7 @@
   {
     "batch": "S13", 
     "description": "Build beautiful, responsive websites without code.", 
+    "hostname": "webflow.com", 
     "name": "Webflow", 
     "status": "Active", 
     "url": "http://www.webflow.com"
@@ -3579,6 +4090,7 @@
   {
     "batch": "W08", 
     "description": "WebMynd is a Y Combinator-funded startup launched in January 2008.", 
+    "hostname": "webmynd.com", 
     "name": "Webmynd", 
     "status": "Active", 
     "url": "http://webmynd.com"
@@ -3586,6 +4098,7 @@
   {
     "batch": "W07", 
     "description": "Weebly is an AJAX website creator that allows you to create pages with template skins and content widgets.", 
+    "hostname": "weebly.com", 
     "name": "Weebly", 
     "status": "Active", 
     "url": "http://www.weebly.com"
@@ -3593,6 +4106,7 @@
   {
     "batch": "W13", 
     "description": "We aim to give everyone - regardless of wealth - the opportunity to invest in startups.", 
+    "hostname": "wefunder.com", 
     "name": "WeFunder", 
     "status": "Active", 
     "url": "https://wefunder.com"
@@ -3600,6 +4114,7 @@
   {
     "batch": "S13", 
     "description": "Weilos is the most motivational fitness and weight loss community.", 
+    "hostname": "weilos.com", 
     "name": "Weilos", 
     "status": "Active", 
     "url": "http://weilos.com"
@@ -3607,6 +4122,7 @@
   {
     "batch": "S09", 
     "description": "WePay is an online payments platform for individuals, organizations, and businesses.", 
+    "hostname": "wepay.com", 
     "name": "WePay", 
     "status": "Active", 
     "url": "https://www.wepay.com"
@@ -3614,6 +4130,7 @@
   {
     "batch": "W13", 
     "description": "Wevorce's divorce services ensure kids come first, costs remain affordable and everyone stays out of court.", 
+    "hostname": "wevorce.com", 
     "name": "Wevorce", 
     "status": "Active", 
     "url": "http://wevorce.com"
@@ -3621,6 +4138,7 @@
   {
     "batch": "W11", 
     "description": "WhereBerry helps you keep track of things you want to do in your city.", 
+    "hostname": "whereberry.com", 
     "name": "WhereBerry", 
     "status": "Active", 
     "url": "http://whereberry.com"
@@ -3628,6 +4146,7 @@
   {
     "batch": "S10", 
     "description": "Whereoscope is a service designed to help parents keep know where their kids are.", 
+    "hostname": "whereoscope.com", 
     "name": "Whereoscope", 
     "status": "Active", 
     "url": "http://whereoscope.com"
@@ -3635,6 +4154,7 @@
   {
     "batch": "W07", 
     "description": "Whitenoise is like a social network for the music industry.", 
+    "hostname": null, 
     "name": "Whitenoise Networks", 
     "status": "Dead", 
     "url": null
@@ -3642,6 +4162,7 @@
   {
     "batch": "W14", 
     "description": "Natural Language for the Internet of Things.", 
+    "hostname": "wit.ai", 
     "name": "Wit.ai", 
     "status": "Active", 
     "url": "http://wit.ai"
@@ -3649,6 +4170,7 @@
   {
     "batch": "S10", 
     "description": "WorkFlowy is a tool for organizing your brain.", 
+    "hostname": "workflowy.com", 
     "name": "Workflowy", 
     "status": "Active", 
     "url": "http://workflowy.com"
@@ -3656,6 +4178,7 @@
   {
     "batch": "W07", 
     "description": "Writewith is a collaborative writing web app, enabling you to easily flow through the steps of writing, editing, and publishing a document with a group.", 
+    "hostname": null, 
     "name": "Writewith", 
     "status": "Dead", 
     "url": null
@@ -3663,6 +4186,7 @@
   {
     "batch": "W06", 
     "description": "Wufoo's HTML form builder helps you create online web forms. Use our web form creator to power your contact forms, online surveys, and event registrations.", 
+    "hostname": "wufoo.com", 
     "name": "Wufoo", 
     "status": "Exited", 
     "url": "http://wufoo.com"
@@ -3670,6 +4194,7 @@
   {
     "batch": "W08", 
     "description": "Wundrbar wants to improve upon the search bar experience by providing users with powerful inline commands.", 
+    "hostname": null, 
     "name": "Wundrbar", 
     "status": "Dead", 
     "url": null
@@ -3677,6 +4202,7 @@
   {
     "batch": "S06", 
     "description": "Xobni (the word inbox spelled backwards) makes your inbox and address book smarter.", 
+    "hostname": "xobni.com", 
     "name": "Xobni", 
     "status": "Active", 
     "url": "http://www.xobni.com"
@@ -3684,6 +4210,7 @@
   {
     "batch": "S11", 
     "description": "Yardsale, a mobile app to help folks sell goods to local buyers.", 
+    "hostname": "getyardsale.com", 
     "name": "Yardsale", 
     "status": "Active", 
     "url": "https://www.getyardsale.com"
@@ -3691,6 +4218,7 @@
   {
     "batch": "W11", 
     "description": "YouGotListings is the online rental technology platform that provides real estate offices and landlords with the easy-to-learn tools to enhance their professional lives.", 
+    "hostname": "yougotlistings.com", 
     "name": "YouGotListings", 
     "status": "Active", 
     "url": "http://www.yougotlistings.com"
@@ -3698,6 +4226,7 @@
   {
     "batch": "S08", 
     "description": "The Youlicit web content recommendation engine leverages the wisdom of the crowds to return the most recommended sites related to a website or topic.", 
+    "hostname": null, 
     "name": "Youlicit", 
     "status": "Dead", 
     "url": null
@@ -3705,6 +4234,7 @@
   {
     "batch": "W06", 
     "description": "YouOS provides a platform for developers to create and distribute applications that live in a browser-based \u201cdesktop\u201d environment.", 
+    "hostname": null, 
     "name": "YouOS", 
     "status": "Dead", 
     "url": null
@@ -3712,6 +4242,7 @@
   {
     "batch": "W12", 
     "description": "Hire mechanics that will come to your home or work to fix your car. Save 20% or more on car repairs. Convenient, affordable and transparent.", 
+    "hostname": "yourmechanic.com", 
     "name": "Your Mechanic", 
     "status": "Active", 
     "url": "http://yourmechanic.com"
@@ -3719,6 +4250,7 @@
   {
     "batch": "W08", 
     "description": "YumDots wants to be the go-to mobile application for finding places to eat when out on the town.", 
+    "hostname": "yumdots.com", 
     "name": "YumDots", 
     "status": "Active", 
     "url": "http://yumdots.com"
@@ -3726,6 +4258,7 @@
   {
     "batch": "S12", 
     "description": "Zapier lets SaaS users create integrations that push data between dozens of different web applications without having to write any code or wrangle APIs.", 
+    "hostname": "zapier.com", 
     "name": "Zapier", 
     "status": "Active", 
     "url": "https://zapier.com"
@@ -3733,6 +4266,7 @@
   {
     "batch": "W13", 
     "description": "Find a professionally managed vacation rental.", 
+    "hostname": "zaranga.com", 
     "name": "Zaranga", 
     "status": "Active", 
     "url": "http://www.zaranga.com"
@@ -3740,6 +4274,7 @@
   {
     "batch": "S07", 
     "description": "Zecter is creating technology that aims to make it easy to share files with others over the internet.", 
+    "hostname": "zecter.com", 
     "name": "Zecter (Versionate)", 
     "status": "Exited", 
     "url": "http://www.zecter.com"
@@ -3747,6 +4282,7 @@
   {
     "batch": "S11", 
     "description": "Zenbox is a browser extension that connects all of your SaaS services.", 
+    "hostname": "zenboxapp.com", 
     "name": "Zenbox", 
     "status": "Active", 
     "url": "http://www.zenboxapp.com"
@@ -3754,6 +4290,7 @@
   {
     "batch": "W10", 
     "description": "Zencoder is web-based video encoding software as a service, designed to quickly convert any video into web and mobile compatible formats.", 
+    "hostname": "zencoder.com", 
     "name": "Zencoder", 
     "status": "Exited", 
     "url": "http://zencoder.com"
@@ -3761,6 +4298,7 @@
   {
     "batch": "W10", 
     "description": "Learn something new every day with new articles written daily about topics discovered from all around the web.", 
+    "hostname": "zenedy.com", 
     "name": "Zenedy", 
     "status": "Active", 
     "url": "http://zenedy.com"
@@ -3768,6 +4306,7 @@
   {
     "batch": "W13", 
     "description": "Zenefits runs your benefits, so you can run your business. Get affordable benefits for your company in minutes. Then set and forget them.", 
+    "hostname": "zenefits.com", 
     "name": "Zenefits", 
     "status": "Active", 
     "url": "http://www.zenefits.com"
@@ -3775,6 +4314,7 @@
   {
     "batch": "W12", 
     "description": "We are creating beautiful, modern payroll.", 
+    "hostname": "zenpayroll.com", 
     "name": "ZenPayroll", 
     "status": "Active", 
     "url": "http://zenpayroll.com"
@@ -3782,6 +4322,7 @@
   {
     "batch": "W07", 
     "description": null, 
+    "hostname": null, 
     "name": "Zenter", 
     "status": "Exited", 
     "url": null
@@ -3789,6 +4330,7 @@
   {
     "batch": "W11", 
     "description": "ZeroCater makes it easy for companies to enjoy meals delivered from the best local restaurants, caterers and private chefs.", 
+    "hostname": "zerocater.com", 
     "name": "ZeroCater", 
     "status": "Active", 
     "url": "http://zerocater.com"
@@ -3796,6 +4338,7 @@
   {
     "batch": "W14", 
     "description": "Zesty lets you order healthy meals from your favorite local restaurants.", 
+    "hostname": "zesty.com", 
     "name": "Zesty", 
     "status": "Active", 
     "url": "http://www.zesty.com"
@@ -3803,6 +4346,7 @@
   {
     "batch": "W14", 
     "description": "We are pioneering the first online microlending community to connect lenders and borrowers directly across international borders - overcoming previously insurmountable barriers of geography, wealth and circumstance.", 
+    "hostname": "zidisha.org", 
     "name": "Zidisha", 
     "status": "Active", 
     "url": "http://www.zidisha.org"
@@ -3810,6 +4354,7 @@
   {
     "batch": "S11", 
     "description": "Zigfu is the easiest way to make and play Kinect apps. Download the plugin, hook up your sensor, and enjoy the future now!", 
+    "hostname": "zigfu.com", 
     "name": "Zigfu", 
     "status": "Active", 
     "url": "http://zigfu.com"
@@ -3817,6 +4362,7 @@
   {
     "batch": "W12", 
     "description": "Zillabyte is an online big-data analysis platform currently in stealth mode.", 
+    "hostname": "zillabyte.com", 
     "name": "Zillabyte", 
     "status": "Active", 
     "url": "http://www.zillabyte.com"
@@ -3824,6 +4370,7 @@
   {
     "batch": "W14", 
     "description": "Zinc is the best way to buy. Pay with with Dwolla or Bitcoin, and manage all your orders in one place.", 
+    "hostname": "zinc.io", 
     "name": "Zinc", 
     "status": "Active", 
     "url": "http://zinc.io"
@@ -3831,6 +4378,7 @@
   {
     "batch": "W14", 
     "description": "Play mobile games with plush toy characters!", 
+    "hostname": "zowpow.com", 
     "name": "ZowPow", 
     "status": "Active", 
     "url": "http://www.zowpow.com"
