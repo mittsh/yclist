@@ -15,9 +15,9 @@ MD_HEAD_TPL = '''# A list of [Y Combinator](https://www.ycombinator.com/) funded
 '''
 MD_COMPANY_TPL = '''## {name}
 
-URL: [{url}]({url})
-Batch: {batch}
-Status: {status}
+* URL: [{url}]({url})
+* Batch: {batch}
+* Status: {status}
 
 {description}
 
@@ -66,6 +66,8 @@ class ParseYC(object):
       for line in fp:
         if line:
           self.parse_yc_line(line)
+
+    self.yc_companies.sort(key=lambda d: d.get('name').lower())
 
   def write(self):
     with open('./list.json', 'w') as fp:
