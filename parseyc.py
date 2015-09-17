@@ -4,7 +4,7 @@ import json
 YC_LINE = re.compile(r'^' +
   '(?P<name>.+?)' + '\s+' +
   '(?:' + '(?P<url>http[^\s]+)\s+' + ')?' +
-  '(?P<batch>\w*)\s+' +
+  '(?P<batch>[WS]\d{2})\s+' +
   '(?:' + '(?P<status>(?:Exited|Dead))\s+' + ')?' +
   '(?P<description>.*)' +
   '$'

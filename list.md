@@ -18,13 +18,13 @@
 140Fire is a platform to make online video ads interactive.
 
 
-## 280
+## 280 North
 
-* URL: [N.A.](N.A.)
-* Batch: North
-* Status: Active
+* URL: [http://280north.com](http://280north.com)
+* Batch: W08
+* Status: Exited
 
-http://280north.com W08 Exited  280 North is a web application company based on their proprietary application framework, Cappuccino.
+280 North is a web application company based on their proprietary application framework, Cappuccino.
 
 
 ## 42
@@ -54,13 +54,13 @@ Grow Revenue Big data made simple. Leave the numbers to us, we'll give the answe
 500friends enables retailers to acquire and retain high value customers.
 
 
-## 7
+## 7 Cups of Tea
 
-* URL: [N.A.](N.A.)
-* Batch: Cups
+* URL: [http://www.7cupsoftea.com](http://www.7cupsoftea.com)
+* Batch: S13
 * Status: Active
 
-of Tea http://www.7cupsoftea.com S13   Want to talk? Connect with someone who will really listen.
+Want to talk? Connect with someone who will really listen.
 
 
 ## 8aweek
@@ -414,13 +414,13 @@ Our mission is to connect great businesses with each other. We'll help you make 
 BackType is a marketing intelligence platform that helps brands and agencies understand the business impact of social media.
 
 
-## Balanced
+## Balanced Payments
 
-* URL: [N.A.](N.A.)
-* Batch: Payments
+* URL: [https://www.balancedpayments.com](https://www.balancedpayments.com)
+* Batch: W11
 * Status: Active
 
-https://www.balancedpayments.com  W11   Payments for marketplaces. Pay sellers, campaign organizers and service providers.
+Payments for marketplaces. Pay sellers, campaign organizers and service providers.
 
 
 ## Beacon
@@ -621,13 +621,13 @@ Thousands of the best summer camps and year-round activities in your area and be
 Be the first to hear about movies that you will love!
 
 
-## Canopy
+## Canopy Labs
 
-* URL: [N.A.](N.A.)
-* Batch: Labs
+* URL: [http://canopylabs.com](http://canopylabs.com)
+* Batch: S12
 * Status: Active
 
-http://canopylabs.com S12   Canopy Labs provides a powerful platform for businesses wanting to build and apply customer models.
+Canopy Labs provides a powerful platform for businesses wanting to build and apply customer models.
 
 
 ## CardPool
@@ -747,13 +747,13 @@ We're making it easier for engineers, students, and hobbyists to design, analyze
 Circular offers an infinitely scrolling feed of content based on people you follow and topics that interest you.
 
 
-## Citus
+## Citus Data
 
-* URL: [N.A.](N.A.)
-* Batch: Data
+* URL: [http://www.citusdata.com](http://www.citusdata.com)
+* Batch: S11
 * Status: Active
 
-http://www.citusdata.com  S11   CitusDB is a distributed database that lets you run SQL queries over very large data sets. Designed for analytical queries, CitusDB enables real-time responsiveness.
+CitusDB is a distributed database that lets you run SQL queries over very large data sets. Designed for analytical queries, CitusDB enables real-time responsiveness.
 
 
 ## Clever
@@ -819,13 +819,13 @@ Clustrix has built a NewSQL database with no limits.
 CO2Stats aims to help website owners understand the electricity usage and related carbon emissions associated with site usage, and then helps site owners manage their carbon footprint.
 
 
-## Coco
+## Coco Controller
 
-* URL: [N.A.](N.A.)
-* Batch: Controller
+* URL: [http://cococontroller.com](http://cococontroller.com)
+* Batch: S12
 * Status: Active
 
-http://cococontroller.com S12   Coco Controller is a Kickstarter project that adds directional controls and game buttons to almost any phone, including the Galaxy SIII, iPhone, and most standard Android handsets.
+Coco Controller is a Kickstarter project that adds directional controls and game buttons to almost any phone, including the Galaxy SIII, iPhone, and most standard Android handsets.
 
 
 ## Codecademy
@@ -882,13 +882,13 @@ Your Hosted Bitcoin Wallet. Coinbase is the easiest way to get started with Bitc
 Finder for the cloud. Google docs, Facebook, Instagram.
 
 
-## Comprehend
+## Comprehend Systems
 
-* URL: [N.A.](N.A.)
-* Batch: Systems
+* URL: [http://www.comprehend.com](http://www.comprehend.com)
+* Batch: W11
 * Status: Active
 
-http://www.comprehend.com W11   Comprehend Systems is the maker of Comprehend Clinical, which is a reporting and visualization tool which runs against multiple databases in real time, while leaving the data in place.
+Comprehend Systems is the maker of Comprehend Clinical, which is a reporting and visualization tool which runs against multiple databases in real time, while leaving the data in place.
 
 
 ## ContestMachine
@@ -1098,13 +1098,13 @@ Your favorite local restaurants delivered to you.
 DotCloud is a 2nd-generation platform-as-a-service.
 
 
-## Double
+## Double Robotics
 
-* URL: [N.A.](N.A.)
-* Batch: Robotics
+* URL: [http://doublerobotics.com](http://doublerobotics.com)
+* Batch: S12
 * Status: Active
 
-http://doublerobotics.com S12   Double is the simplest, most elegant way to be somewhere else in the world without flying there. Wheels for your iPad.
+Double is the simplest, most elegant way to be somewhere else in the world without flying there. Wheels for your iPad.
 
 
 ## DoubleRecall
@@ -1116,13 +1116,13 @@ http://doublerobotics.com S12   Double is the simplest, most elegant way to be s
 DoubleRecall is a recall based advertising platform and monetization solution for online media and mobile.
 
 
-## Dr
+## Dr Chrono
 
-* URL: [N.A.](N.A.)
-* Batch: Chrono
+* URL: [http://drchrono.com](http://drchrono.com)
+* Batch: W11
 * Status: Active
 
-http://drchrono.com W11   drchrono is a medical platform for doctors and patients.
+drchrono is a medical platform for doctors and patients.
 
 
 ## Draftmix
@@ -1152,13 +1152,13 @@ We believe that 3D printing will fundamentally reshape our relationship with the
 Dropbox was founded in 2007 by Drew Houston and Arash Ferdowsi.
 
 
-## E
+## E la Carte
 
-* URL: [N.A.](N.A.)
-* Batch: la
+* URL: [http://elacarte.com](http://elacarte.com)
+* Batch: S10
 * Status: Active
 
-Carte  http://elacarte.com S10   E la Carte develops tablets for restaurant tables so guests can order, pay and play games from their seats
+E la Carte develops tablets for restaurant tables so guests can order, pay and play games from their seats
 
 
 ## Earbits
@@ -1395,13 +1395,13 @@ A scalable real-time backend for your web app. Build apps really fast without th
 Think of FitFu as a personal trainer in your pocket that keeps you active with little bits of exercise throughout the day.
 
 
-## Five
+## Five Stars
 
-* URL: [N.A.](N.A.)
-* Batch: Stars
+* URL: [http://fivestarscard.com](http://fivestarscard.com)
+* Batch: W11
 * Status: Active
 
-http://fivestarscard.com  W11   We created a universal customer loyalty card that embraces the power of network effects, social media integration & improves the customer experience.
+We created a universal customer loyalty card that embraces the power of network effects, social media integration & improves the customer experience.
 
 
 ## Fivetran
@@ -1485,13 +1485,13 @@ Flypad turns your iPhone into a motion-sensing game controller for PC, Steam, & 
 Foodoro is a marketplace where people can buy specialty food directly from artisanal Foodmakers.
 
 
-## Framed
+## Framed Data
 
-* URL: [N.A.](N.A.)
-* Batch: Data
+* URL: [http://www.framed.io](http://www.framed.io)
+* Batch: W14
 * Status: Active
 
-http://www.framed.io  W14   Framed retains your users. Framed Data knows how your users behave and warns you when they're about to leave.
+Framed retains your users. Framed Data knows how your users behave and warns you when they're about to leave.
 
 
 ## FreshPlum
@@ -1512,13 +1512,13 @@ Freshplum's goal is to bring the decision-making power of data science to compan
 Touchscreen platforms for effortless data collection.
 
 
-## Fullstack
+## Fullstack Academy
 
-* URL: [N.A.](N.A.)
-* Batch: Academy
+* URL: [http://fullstackacademy.com](http://fullstackacademy.com)
+* Batch: S12
 * Status: Active
 
-http://fullstackacademy.com S12   Fullstack Academy is a 12-week immersive coding school that turns great people into great developers.
+Fullstack Academy is a 12-week immersive coding school that turns great people into great developers.
 
 
 ## FundersClub
@@ -1683,13 +1683,13 @@ Our vision is an online marketplace that connects curious eaters with America's 
 At its core GraffitiGeo allows users to leave brief reviews of restaurants, or for those too lazy to do that, to simply leave a "thumbs up" or "thumbs down". It's like a highly condensed version of Yelp, or a Digg for the world.
 
 
-## Graft
+## Graft Concepts
 
-* URL: [N.A.](N.A.)
-* Batch: Concepts
+* URL: [http://www.graftconcepts.com](http://www.graftconcepts.com)
+* Batch: S13
 * Status: Active
 
-http://www.graftconcepts.com  S13   Makers of unique iPhone cases.
+Makers of unique iPhone cases.
 
 
 ## Grid
@@ -1728,22 +1728,22 @@ Hosted IRC and so much more.
 Grubwithus social meals allow you to meet new people, while dining at some of your city's best restaurants.
 
 
-## Habit
+## Habit Labs
 
-* URL: [N.A.](N.A.)
-* Batch: Labs
+* URL: [http://habitlabs.com](http://habitlabs.com)
+* Batch: S11
 * Status: Active
 
-http://habitlabs.com  S11   Habit Labs aims to turn leading a healthier life into a game.
+Habit Labs aims to turn leading a healthier life into a game.
 
 
-## Hacker
+## Hacker School
 
-* URL: [N.A.](N.A.)
-* Batch: School
+* URL: [https://www.hackerschool.com](https://www.hackerschool.com)
+* Batch: S10
 * Status: Active
 
-https://www.hackerschool.com  S10   Hacker School is a three-month, full-time school in New York for becoming a better programmer. We're free as in beer, and provide space, a little structure, time to focus, and a friendly community of smart builders dedicated to self-improvement.
+Hacker School is a three-month, full-time school in New York for becoming a better programmer. We're free as in beer, and provide space, a little structure, time to focus, and a friendly community of smart builders dedicated to self-improvement.
 
 
 ## Hackermeter
@@ -1764,31 +1764,31 @@ N.A.
 Smart collaborative documents. Company wiki. Personal notes. Event planning. Classroom collaboration.
 
 
-## HD
+## HD Trade Services
 
-* URL: [N.A.](N.A.)
-* Batch: Trade
+* URL: [http://www.hdtradeservices.com](http://www.hdtradeservices.com)
+* Batch: S12
 * Status: Active
 
-Services http://www.hdtradeservices.com  S12   Mobile and cloud based logistics software.
+Mobile and cloud based logistics software.
 
 
-## Healthy
+## Healthy Labs
 
-* URL: [N.A.](N.A.)
-* Batch: Labs
+* URL: [http://www.healthylabs.com](http://www.healthylabs.com)
+* Batch: S12
 * Status: Active
 
-http://www.healthylabs.com  S12   Healthy Labs builds networks to connect patients so they can learn from each other.
+Healthy Labs builds networks to connect patients so they can learn from each other.
 
 
-## Heap
+## Heap Analytics
 
-* URL: [N.A.](N.A.)
-* Batch: Analytics
+* URL: [https://heapanalytics.com](https://heapanalytics.com)
+* Batch: W13
 * Status: Active
 
-https://heapanalytics.com W13   Heap automatically captures every user action in your web app and lets you measure it all. Clicks, form submissions, page views, and more.
+Heap automatically captures every user action in your web app and lets you measure it all. Clicks, form submissions, page views, and more.
 
 
 ## HelloFax
@@ -1908,13 +1908,13 @@ HubChilla matches you up to similar users and lets you talk to them over SMS.
 HUM, simply redefining the inbox one chat at a time.
 
 
-## Humble
+## Humble Bundle
 
-* URL: [N.A.](N.A.)
-* Batch: Bundle
+* URL: [https://www.humblebundle.com](https://www.humblebundle.com)
+* Batch: W11
 * Status: Active
 
-https://www.humblebundle.com  W11   Humble Bundles are collections of digital creations that are sold online at a price determined by the purchaser.
+Humble Bundles are collections of digital creations that are sold online at a price determined by the purchaser.
 
 
 ## Hype
@@ -1935,13 +1935,13 @@ Tumult Inc. makes the next generation of designer tools to produce beautiful web
 Hyperink, the San Francisco based self-publishing platform, wants to unlock and sell that untapped information by giving every citizen the ability to publish a book.
 
 
-## I
+## I Move You
 
 * URL: [N.A.](N.A.)
-* Batch: Move
-* Status: Active
+* Batch: S10
+* Status: Dead
 
-You    S10 Dead  
+N.A.
 
 
 ## iCracked
@@ -1980,13 +1980,13 @@ iJigg is a social music site that lets users vote on submitted singles using Dig
 A fun image sharing community. Explore amazing art and photography and share your own visual inspiration!
 
 
-## Immunity
+## Immunity Project
 
-* URL: [N.A.](N.A.)
-* Batch: Project
+* URL: [http://www.immunityproject.org](http://www.immunityproject.org)
+* Batch: W14
 * Status: Active
 
-http://www.immunityproject.org  W14   We're developing a free vaccine to end HIV and AIDS
+We're developing a free vaccine to end HIV and AIDS
 
 
 ## Indinero
@@ -2151,13 +2151,13 @@ Use Kaleidoscope to spot the differences in text and image files. Review changes
 Kamcord allows users to record and share their awesome gameplays without having to leave their games.
 
 
-## Keychain
+## Keychain Logistics
 
-* URL: [N.A.](N.A.)
-* Batch: Logistics
+* URL: [http://keychainlogistics.com](http://keychainlogistics.com)
+* Batch: S12
 * Status: Active
 
-http://keychainlogistics.com  S12   Need Reliable Carriers? Keychain's proprietary technology gives you unprecedented access to our nationwide network of qualified drivers.
+Need Reliable Carriers? Keychain's proprietary technology gives you unprecedented access to our nationwide network of qualified drivers.
 
 
 ## Kicksend
@@ -2196,13 +2196,13 @@ Turn websites into structured APIs from your browser in seconds.
 With Kippt we want to make your information workflow and archiving effortless.
 
 
-## Kirkland
+## Kirkland North
 
 * URL: [N.A.](N.A.)
-* Batch: North
-* Status: Active
+* Batch: W08
+* Status: Dead
 
-W08 Dead  Kirkland North is taking an infectious campus-wide game that it ran at Yale and Harvard last year and spreading it to other campuses around the country.
+Kirkland North is taking an infectious campus-wide game that it ran at Yale and Harvard last year and spreading it to other campuses around the country.
 
 
 ## Kivo
@@ -2259,13 +2259,13 @@ Lanyrd is a directory of conferences, events and speakers.
 LaunchHear is a way for bloggers to get early review copies of new products.
 
 
-## Launchpad
+## Launchpad Toys
 
-* URL: [N.A.](N.A.)
-* Batch: Toys
+* URL: [http://launchpadtoys.com](http://launchpadtoys.com)
+* Batch: S11
 * Status: Active
 
-http://launchpadtoys.com  S11   We're creating digital toys and tools that empower kids to create, learn & share their ideas through play.
+We're creating digital toys and tools that empower kids to create, learn & share their ideas through play.
 
 
 ## Lawdingo
@@ -2277,13 +2277,13 @@ http://launchpadtoys.com  S11   We're creating digital toys and tools that empow
 Talk to a lawyer online. Get the legal advice you need, hassle- and commitment-free.
 
 
-## Le
+## Le Tote
 
-* URL: [N.A.](N.A.)
-* Batch: Tote
+* URL: [http://letote.com](http://letote.com)
+* Batch: S13
 * Status: Active
 
-http://letote.com S13   Welcome to your dream closet. Rent unlimited looks each month.
+Welcome to your dream closet. Rent unlimited looks each month.
 
 
 ## Leaky
@@ -2574,13 +2574,13 @@ Mertado is a social shopping company that lets consumers discover and buy new pr
 MessageParty is a new kind of mobile blogging service.
 
 
-## Meta
+## Meta Space Glasses
 
-* URL: [N.A.](N.A.)
-* Batch: Space
+* URL: [http://spaceglasses.com](http://spaceglasses.com)
+* Batch: S13
 * Status: Active
 
-Glasses  http://spaceglasses.com S13   The first holographic interface.
+The first holographic interface.
 
 
 ## Meteor
@@ -2709,13 +2709,13 @@ Moki.TV is a directory of all paid and free content included on Amazon's streami
 MongoHQ is the leading provider of data solutions for developers utilizing MongoDB as their data storage technology.
 
 
-## Move
+## Move Loot
 
-* URL: [N.A.](N.A.)
-* Batch: Loot
+* URL: [http://www.moveloot.com](http://www.moveloot.com)
+* Batch: W14
 * Status: Active
 
-http://www.moveloot.com W14   The easiest way to buy and sell furniture.
+The easiest way to buy and sell furniture.
 
 
 ## Movity
@@ -2727,22 +2727,22 @@ http://www.moveloot.com W14   The easiest way to buy and sell furniture.
 Movity.com surfaces geodata (crime, noise, pricing, etc) to help home buyers make better decisions.
 
 
-## Mth
+## Mth Sense
 
-* URL: [N.A.](N.A.)
-* Batch: Sense
+* URL: [http://www.mthsense.com](http://www.mthsense.com)
+* Batch: S12
 * Status: Active
 
-http://www.mthsense.com S12   Our goal is to be THE answer to the mobile monetization problem. The first step is to solve the problem of "blind" ads. Hence our focus on targeting.
+Our goal is to be THE answer to the mobile monetization problem. The first step is to solve the problem of "blind" ads. Hence our focus on targeting.
 
 
-## Munch
+## Munch On Me
 
-* URL: [N.A.](N.A.)
-* Batch: On
-* Status: Active
+* URL: [http://www.munchonme.com](http://www.munchonme.com)
+* Batch: S11
+* Status: Exited
 
-Me http://www.munchonme.com  S11 Exited  Munch On Me is a food discovery portal that connects people with great food at great prices in local communities.
+Munch On Me is a food discovery portal that connects people with great food at great prices in local communities.
 
 
 ## Myo
@@ -2790,13 +2790,13 @@ Focus on the best stories from your friends and favorite blogs.
 NewsLabs offers a platform that looks to help “old school” journalists adapt to the web, by giving them help with advertising, SEO, and other issues they may not have had to deal with before.
 
 
-## Next
+## Next Caller
 
-* URL: [N.A.](N.A.)
-* Batch: Caller
+* URL: [http://nextcaller.com](http://nextcaller.com)
+* Batch: W14
 * Status: Active
 
-http://nextcaller.com W14   Know your caller. The most advanced caller identification platform in the world.
+Know your caller. The most advanced caller identification platform in the world.
 
 
 ## Ninite
@@ -2808,13 +2808,13 @@ http://nextcaller.com W14   Know your caller. The most advanced caller identific
 The easiest, fastest way to update or install software. Ninite downloads and installs programs automatically in the background.
 
 
-## Noora
+## Noora Health
 
-* URL: [N.A.](N.A.)
-* Batch: Health
+* URL: [http://www.noorahealth.org](http://www.noorahealth.org)
+* Batch: W14
 * Status: Active
 
-http://www.noorahealth.org  W14   Noora Health empowers patients and their families with high-impact medical skills to recover from their condition and improve health outcomes.
+Noora Health empowers patients and their families with high-impact medical skills to recover from their condition and improve health outcomes.
 
 
 ## Noteleaf
@@ -2898,22 +2898,22 @@ OMGPOP (formerly known as iminlikewithyou) developer and publisher of multiplaye
 Omnisio was founded in 2007 by Ryan Junee, Simon Ratner and Julian Frumar, and was subsquently acquired by YouTube in July 2008.
 
 
-## One
+## One Degree
 
-* URL: [N.A.](N.A.)
-* Batch: Degree
+* URL: [http://www.1deg.org](http://www.1deg.org)
+* Batch: W14
 * Status: Active
 
-http://www.1deg.org W14   Community resources, just for you. The easiest way to find, manage, and share nonprofit services for you and your family.
+Community resources, just for you. The easiest way to find, manage, and share nonprofit services for you and your family.
 
 
-## One
+## One Month Rails
 
-* URL: [N.A.](N.A.)
-* Batch: Month
+* URL: [http://onemonthrails.com](http://onemonthrails.com)
+* Batch: S13
 * Status: Active
 
-Rails http://onemonthrails.com  S13   Learn how to code with the #1 bestselling online class One Month Rails.
+Learn how to code with the #1 bestselling online class One Month Rails.
 
 
 ## Opez
@@ -3015,13 +3015,13 @@ PagerDuty is an alarm dispatching service for system administrators and support 
 Pair is an app just for the two of you.
 
 
-## Panorama
+## Panorama Education
 
-* URL: [N.A.](N.A.)
-* Batch: Education
+* URL: [http://www.panoramaed.com](http://www.panoramaed.com)
+* Batch: S13
 * Status: Active
 
-http://www.panoramaed.com S13   More than 4,000 schools use Panorama for data analytics and feedback surveys of teachers, parents, and students.
+More than 4,000 schools use Panorama for data analytics and feedback surveys of teachers, parents, and students.
 
 
 ## Paperlinks
@@ -3042,13 +3042,13 @@ QR codes made easy. Paperlinks is the premier platform for generating QR codes f
 Parakey was founded in early 2006 by Blake Ross and Joe Hewitt of Mozilla/Firefox fame.
 
 
-## Parallel
+## Parallel Universe
 
-* URL: [N.A.](N.A.)
-* Batch: Universe
+* URL: [http://paralleluniverse.co](http://paralleluniverse.co)
+* Batch: S12
 * Status: Active
 
-http://paralleluniverse.co  S12   Parallel Universe, a Y-Combinator startup, makes middleware that enable easy scaling for real-time spatial applications.
+Parallel Universe, a Y-Combinator startup, makes middleware that enable easy scaling for real-time spatial applications.
 
 
 ## Parse
@@ -3069,40 +3069,40 @@ Parse provides cloud services for mobile developers. The complete mobile app pla
 PayTango links the cards in your wallet to your fingerprints.
 
 
-## Pebble
+## Pebble Technology
 
-* URL: [N.A.](N.A.)
-* Batch: Technology
+* URL: [http://www.getpebble.com](http://www.getpebble.com)
+* Batch: W11
 * Status: Active
 
-http://www.getpebble.com  W11   Pebble is an infinitely customizable e-paper watch.
+Pebble is an infinitely customizable e-paper watch.
 
 
-## People
-
-* URL: [N.A.](N.A.)
-* Batch: and
-* Status: Active
-
-Pages    S08 Dead  People and Pages is a service similar to Google Groups, allowing group organizers to manage email lists and publish to the web in one place.
-
-
-## Per
+## People and Pages
 
 * URL: [N.A.](N.A.)
-* Batch: Vices
+* Batch: S08
+* Status: Dead
+
+People and Pages is a service similar to Google Groups, allowing group organizers to manage email lists and publish to the web in one place.
+
+
+## Per Vices
+
+* URL: [http://pervices.com](http://pervices.com)
+* Batch: W12
 * Status: Active
 
-http://pervices.com W12   Phi is currently designed as a PCIe card for developers. It is hardware (a software defined radio) that allows software developers to write applications to interact with all types of wireless signals and wireless devices.
+Phi is currently designed as a PCIe card for developers. It is hardware (a software defined radio) that allows software developers to write applications to interact with all types of wireless signals and wireless devices.
 
 
-## Perfect
+## Perfect Audience
 
-* URL: [N.A.](N.A.)
-* Batch: Audience
+* URL: [http://www.perfectaudience.com](http://www.perfectaudience.com)
+* Batch: S12
 * Status: Active
 
-http://www.perfectaudience.com  S12   Fast & Easy Facebook Retargeting. Retarget lost customers on Facebook and get more sales.
+Fast & Easy Facebook Retargeting. Retarget lost customers on Facebook and get more sales.
 
 
 ## PicPlum
@@ -3492,13 +3492,13 @@ Same day delivery has never been this easy.
 Reduce travel spend, improve employee culture. It's business travel made personal.
 
 
-## Science
+## Science Exchange
 
-* URL: [N.A.](N.A.)
-* Batch: Exchange
+* URL: [http://scienceexchange.com](http://scienceexchange.com)
+* Batch: S11
 * Status: Active
 
-http://scienceexchange.com  S11   Science Exchange is an online marketplace for scientific experiments. The easiest way to get experiments conducted by researchers in top core facilities and institutions.
+Science Exchange is an online marketplace for scientific experiments. The easiest way to get experiments conducted by researchers in top core facilities and institutions.
 
 
 ## Scoopler
@@ -3645,13 +3645,13 @@ A “fashion related community”.
 Siasto is a collaboration and project management tool that integrates into Google Apps, Gmail, Google Drive, GCal, box, and Dropbox.
 
 
-## Sift
+## Sift Science
 
-* URL: [N.A.](N.A.)
-* Batch: Science
+* URL: [http://siftscience.com](http://siftscience.com)
+* Batch: S11
 * Status: Active
 
-http://siftscience.com  S11   The world's most advanced fraud prevention platform
+The world's most advanced fraud prevention platform
 
 
 ## Simmery
@@ -3879,13 +3879,13 @@ Most convenient meal ever.
 The research you need to understand every new user, delivered to your inbox when they sign up.
 
 
-## Standard
+## Standard Treasury
 
-* URL: [N.A.](N.A.)
-* Batch: Treasury
+* URL: [http://standardtreasury.com](http://standardtreasury.com)
+* Batch: S13
 * Status: Active
 
-http://standardtreasury.com S13   APIs for commercial banks.
+APIs for commercial banks.
 
 
 ## Startuply
@@ -3951,13 +3951,13 @@ Stripe is a simple, developer-friendly way to accept payments online.
 Better Grades. Less Frustration. We help you get better grades in your college classes with less time spent studying.
 
 
-## Style
+## Style Lend
 
-* URL: [N.A.](N.A.)
-* Batch: Lend
+* URL: [http://www.stylelend.com](http://www.stylelend.com)
+* Batch: W14
 * Status: Active
 
-http://www.stylelend.com  W14   Live fashionably. Borrow & Lend Designer Dresses with local Fashionistas.
+Live fashionably. Borrow & Lend Designer Dresses with local Fashionistas.
 
 
 ## StyleUp
@@ -4203,22 +4203,22 @@ Getting an aerial imagery subscription to manage your farm's operations is easy!
 Founded in 2005, TextPayMe is an SMS payment service that lets you send money to other people using cell phone text messaging.
 
 
-## The
+## The Dating Ring
 
-* URL: [N.A.](N.A.)
-* Batch: Dating
+* URL: [http://thedatingring.com](http://thedatingring.com)
+* Batch: W14
 * Status: Active
 
-Ring http://thedatingring.com  W14   We're making dating fun again. We meet all of our members and set up dates. It's like meeting through friends, except much, much better.
+We're making dating fun again. We meet all of our members and set up dates. It's like meeting through friends, except much, much better.
 
 
-## The
+## The Fridge
 
-* URL: [N.A.](N.A.)
-* Batch: Fridge
-* Status: Active
+* URL: [http://www.frid.ge](http://www.frid.ge)
+* Batch: S10
+* Status: Exited
 
-http://www.frid.ge  S10 Exited  The Fridge is a platform for lightweight single serving social networks for the functionality of Facebook without being on Facebook.
+The Fridge is a platform for lightweight single serving social networks for the functionality of Facebook without being on Facebook.
 
 
 ## theDailyMuse
@@ -4320,13 +4320,13 @@ The best way for artists to release new music and videos.
 Digital currency data and analysis. TradeBlock's digital currency tools and research are trusted by hundreds of thousands of traders and enthusiasts across the globe.
 
 
-## True
+## True Link Financial
 
-* URL: [N.A.](N.A.)
-* Batch: Link
+* URL: [http://www.truelinkcard.com](http://www.truelinkcard.com)
+* Batch: S13
 * Status: Active
 
-Financial http://www.truelinkcard.com S13   We keep a watchful eye out for fraud and spending mishaps so you can spend your time doing what matters.
+We keep a watchful eye out for fraud and spending mishaps so you can spend your time doing what matters.
 
 
 ## TrueVault
@@ -4383,13 +4383,13 @@ Tuxebo connects people looking for things to rent from local rental companies.
 N.A.
 
 
-## Two
+## Two Tap
 
-* URL: [N.A.](N.A.)
-* Batch: Tap
+* URL: [http://twotap.com](http://twotap.com)
+* Batch: W14
 * Status: Active
 
-http://twotap.com W14   Users can now order any product directly in your app with Two Tap.
+Users can now order any product directly in your app with Two Tap.
 
 
 ## Unbabel
@@ -4464,13 +4464,13 @@ Verbling provides users with an innovative way to learn new languages by utilizi
 ViaCycle creates advanced bicycle sharing technology that allows easy deployment and administration.
 
 
-## Vidly /
+## Vidly / Fliggo
 
 * URL: [N.A.](N.A.)
-* Batch: Fliggo
-* Status: Active
+* Batch: S08
+* Status: Dead
 
-S08 Dead  Vidly, formerly known as TwitVid (or Twitvid.io), wants to be the easiest way to share video on the web.
+Vidly, formerly known as TwitVid (or Twitvid.io), wants to be the easiest way to share video on the web.
 
 
 ## Vidpresso
@@ -4671,13 +4671,13 @@ WhereBerry helps you keep track of things you want to do in your city.
 Whereoscope is a service designed to help parents keep know where their kids are.
 
 
-## Whitenoise
+## Whitenoise Networks
 
 * URL: [N.A.](N.A.)
-* Batch: Networks
-* Status: Active
+* Batch: W07
+* Status: Dead
 
-W07 Dead  Whitenoise is like a social network for the music industry.
+Whitenoise is like a social network for the music industry.
 
 
 ## Wit.ai
@@ -4770,13 +4770,13 @@ The Youlicit web content recommendation engine leverages the wisdom of the crowd
 YouOS provides a platform for developers to create and distribute applications that live in a browser-based “desktop” environment.
 
 
-## Your
+## Your Mechanic
 
-* URL: [N.A.](N.A.)
-* Batch: Mechanic
+* URL: [http://yourmechanic.com](http://yourmechanic.com)
+* Batch: W12
 * Status: Active
 
-http://yourmechanic.com W12   Hire mechanics that will come to your home or work to fix your car. Save 20% or more on car repairs. Convenient, affordable and transparent.
+Hire mechanics that will come to your home or work to fix your car. Save 20% or more on car repairs. Convenient, affordable and transparent.
 
 
 ## YumDots

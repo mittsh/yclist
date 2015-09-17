@@ -14,11 +14,11 @@
     "url": "http://www.140fire.com"
   }, 
   {
-    "batch": "North", 
-    "description": "http://280north.com W08 Exited  280 North is a web application company based on their proprietary application framework, Cappuccino.", 
-    "name": "280", 
-    "status": "Active", 
-    "url": null
+    "batch": "W08", 
+    "description": "280 North is a web application company based on their proprietary application framework, Cappuccino.", 
+    "name": "280 North", 
+    "status": "Exited", 
+    "url": "http://280north.com"
   }, 
   {
     "batch": "W14", 
@@ -42,11 +42,11 @@
     "url": "http://www.500friends.com"
   }, 
   {
-    "batch": "Cups", 
-    "description": "of Tea http://www.7cupsoftea.com S13   Want to talk? Connect with someone who will really listen.", 
-    "name": "7", 
+    "batch": "S13", 
+    "description": "Want to talk? Connect with someone who will really listen.", 
+    "name": "7 Cups of Tea", 
     "status": "Active", 
-    "url": null
+    "url": "http://www.7cupsoftea.com"
   }, 
   {
     "batch": "W08", 
@@ -322,11 +322,11 @@
     "url": "http://www.backtype.com"
   }, 
   {
-    "batch": "Payments", 
-    "description": "https://www.balancedpayments.com  W11   Payments for marketplaces. Pay sellers, campaign organizers and service providers.", 
-    "name": "Balanced", 
+    "batch": "W11", 
+    "description": "Payments for marketplaces. Pay sellers, campaign organizers and service providers.", 
+    "name": "Balanced Payments", 
     "status": "Active", 
-    "url": null
+    "url": "https://www.balancedpayments.com"
   }, 
   {
     "batch": "W14", 
@@ -483,11 +483,11 @@
     "url": "http://cantwa.it"
   }, 
   {
-    "batch": "Labs", 
-    "description": "http://canopylabs.com S12   Canopy Labs provides a powerful platform for businesses wanting to build and apply customer models.", 
-    "name": "Canopy", 
+    "batch": "S12", 
+    "description": "Canopy Labs provides a powerful platform for businesses wanting to build and apply customer models.", 
+    "name": "Canopy Labs", 
     "status": "Active", 
-    "url": null
+    "url": "http://canopylabs.com"
   }, 
   {
     "batch": "W10", 
@@ -581,11 +581,11 @@
     "url": "http://www.circularapp.com"
   }, 
   {
-    "batch": "Data", 
-    "description": "http://www.citusdata.com  S11   CitusDB is a distributed database that lets you run SQL queries over very large data sets. Designed for analytical queries, CitusDB enables real-time responsiveness.", 
-    "name": "Citus", 
+    "batch": "S11", 
+    "description": "CitusDB is a distributed database that lets you run SQL queries over very large data sets. Designed for analytical queries, CitusDB enables real-time responsiveness.", 
+    "name": "Citus Data", 
     "status": "Active", 
-    "url": null
+    "url": "http://www.citusdata.com"
   }, 
   {
     "batch": "S12", 
@@ -637,11 +637,11 @@
     "url": "http://co2stats.com"
   }, 
   {
-    "batch": "Controller", 
-    "description": "http://cococontroller.com S12   Coco Controller is a Kickstarter project that adds directional controls and game buttons to almost any phone, including the Galaxy SIII, iPhone, and most standard Android handsets.", 
-    "name": "Coco", 
+    "batch": "S12", 
+    "description": "Coco Controller is a Kickstarter project that adds directional controls and game buttons to almost any phone, including the Galaxy SIII, iPhone, and most standard Android handsets.", 
+    "name": "Coco Controller", 
     "status": "Active", 
-    "url": null
+    "url": "http://cococontroller.com"
   }, 
   {
     "batch": "S11", 
@@ -686,11 +686,11 @@
     "url": "http://collections.me"
   }, 
   {
-    "batch": "Systems", 
-    "description": "http://www.comprehend.com W11   Comprehend Systems is the maker of Comprehend Clinical, which is a reporting and visualization tool which runs against multiple databases in real time, while leaving the data in place.", 
-    "name": "Comprehend", 
+    "batch": "W11", 
+    "description": "Comprehend Systems is the maker of Comprehend Clinical, which is a reporting and visualization tool which runs against multiple databases in real time, while leaving the data in place.", 
+    "name": "Comprehend Systems", 
     "status": "Active", 
-    "url": null
+    "url": "http://www.comprehend.com"
   }, 
   {
     "batch": "S08", 
@@ -854,11 +854,11 @@
     "url": "http://www.dotcloud.com"
   }, 
   {
-    "batch": "Robotics", 
-    "description": "http://doublerobotics.com S12   Double is the simplest, most elegant way to be somewhere else in the world without flying there. Wheels for your iPad.", 
-    "name": "Double", 
+    "batch": "S12", 
+    "description": "Double is the simplest, most elegant way to be somewhere else in the world without flying there. Wheels for your iPad.", 
+    "name": "Double Robotics", 
     "status": "Active", 
-    "url": null
+    "url": "http://doublerobotics.com"
   }, 
   {
     "batch": "S11", 
@@ -868,11 +868,11 @@
     "url": "http://www.doublerecall.com"
   }, 
   {
-    "batch": "Chrono", 
-    "description": "http://drchrono.com W11   drchrono is a medical platform for doctors and patients.", 
-    "name": "Dr", 
+    "batch": "W11", 
+    "description": "drchrono is a medical platform for doctors and patients.", 
+    "name": "Dr Chrono", 
     "status": "Active", 
-    "url": null
+    "url": "http://drchrono.com"
   }, 
   {
     "batch": "S07", 
@@ -896,11 +896,11 @@
     "url": "http://www.dropbox.com"
   }, 
   {
-    "batch": "la", 
-    "description": "Carte  http://elacarte.com S10   E la Carte develops tablets for restaurant tables so guests can order, pay and play games from their seats", 
-    "name": "E", 
+    "batch": "S10", 
+    "description": "E la Carte develops tablets for restaurant tables so guests can order, pay and play games from their seats", 
+    "name": "E la Carte", 
     "status": "Active", 
-    "url": null
+    "url": "http://elacarte.com"
   }, 
   {
     "batch": "W11", 
@@ -1085,11 +1085,11 @@
     "url": null
   }, 
   {
-    "batch": "Stars", 
-    "description": "http://fivestarscard.com  W11   We created a universal customer loyalty card that embraces the power of network effects, social media integration & improves the customer experience.", 
-    "name": "Five", 
+    "batch": "W11", 
+    "description": "We created a universal customer loyalty card that embraces the power of network effects, social media integration & improves the customer experience.", 
+    "name": "Five Stars", 
     "status": "Active", 
-    "url": null
+    "url": "http://fivestarscard.com"
   }, 
   {
     "batch": "W13", 
@@ -1155,11 +1155,11 @@
     "url": "http://foodoro.com"
   }, 
   {
-    "batch": "Data", 
-    "description": "http://www.framed.io  W14   Framed retains your users. Framed Data knows how your users behave and warns you when they're about to leave.", 
-    "name": "Framed", 
+    "batch": "W14", 
+    "description": "Framed retains your users. Framed Data knows how your users behave and warns you when they're about to leave.", 
+    "name": "Framed Data", 
     "status": "Active", 
-    "url": null
+    "url": "http://www.framed.io"
   }, 
   {
     "batch": "S11", 
@@ -1176,11 +1176,11 @@
     "url": "http://frogmetrics.com"
   }, 
   {
-    "batch": "Academy", 
-    "description": "http://fullstackacademy.com S12   Fullstack Academy is a 12-week immersive coding school that turns great people into great developers.", 
-    "name": "Fullstack", 
+    "batch": "S12", 
+    "description": "Fullstack Academy is a 12-week immersive coding school that turns great people into great developers.", 
+    "name": "Fullstack Academy", 
     "status": "Active", 
-    "url": null
+    "url": "http://fullstackacademy.com"
   }, 
   {
     "batch": "S12", 
@@ -1309,11 +1309,11 @@
     "url": "http://graffitigeo.com"
   }, 
   {
-    "batch": "Concepts", 
-    "description": "http://www.graftconcepts.com  S13   Makers of unique iPhone cases.", 
-    "name": "Graft", 
+    "batch": "S13", 
+    "description": "Makers of unique iPhone cases.", 
+    "name": "Graft Concepts", 
     "status": "Active", 
-    "url": null
+    "url": "http://www.graftconcepts.com"
   }, 
   {
     "batch": "S12", 
@@ -1344,18 +1344,18 @@
     "url": "http://grubwithus.com"
   }, 
   {
-    "batch": "Labs", 
-    "description": "http://habitlabs.com  S11   Habit Labs aims to turn leading a healthier life into a game.", 
-    "name": "Habit", 
+    "batch": "S11", 
+    "description": "Habit Labs aims to turn leading a healthier life into a game.", 
+    "name": "Habit Labs", 
     "status": "Active", 
-    "url": null
+    "url": "http://habitlabs.com"
   }, 
   {
-    "batch": "School", 
-    "description": "https://www.hackerschool.com  S10   Hacker School is a three-month, full-time school in New York for becoming a better programmer. We're free as in beer, and provide space, a little structure, time to focus, and a friendly community of smart builders dedicated to self-improvement.", 
-    "name": "Hacker", 
+    "batch": "S10", 
+    "description": "Hacker School is a three-month, full-time school in New York for becoming a better programmer. We're free as in beer, and provide space, a little structure, time to focus, and a friendly community of smart builders dedicated to self-improvement.", 
+    "name": "Hacker School", 
     "status": "Active", 
-    "url": null
+    "url": "https://www.hackerschool.com"
   }, 
   {
     "batch": "S13", 
@@ -1372,25 +1372,25 @@
     "url": "http://hackpad.com"
   }, 
   {
-    "batch": "Trade", 
-    "description": "Services http://www.hdtradeservices.com  S12   Mobile and cloud based logistics software.", 
-    "name": "HD", 
+    "batch": "S12", 
+    "description": "Mobile and cloud based logistics software.", 
+    "name": "HD Trade Services", 
     "status": "Active", 
-    "url": null
+    "url": "http://www.hdtradeservices.com"
   }, 
   {
-    "batch": "Labs", 
-    "description": "http://www.healthylabs.com  S12   Healthy Labs builds networks to connect patients so they can learn from each other.", 
-    "name": "Healthy", 
+    "batch": "S12", 
+    "description": "Healthy Labs builds networks to connect patients so they can learn from each other.", 
+    "name": "Healthy Labs", 
     "status": "Active", 
-    "url": null
+    "url": "http://www.healthylabs.com"
   }, 
   {
-    "batch": "Analytics", 
-    "description": "https://heapanalytics.com W13   Heap automatically captures every user action in your web app and lets you measure it all. Clicks, form submissions, page views, and more.", 
-    "name": "Heap", 
+    "batch": "W13", 
+    "description": "Heap automatically captures every user action in your web app and lets you measure it all. Clicks, form submissions, page views, and more.", 
+    "name": "Heap Analytics", 
     "status": "Active", 
-    "url": null
+    "url": "https://heapanalytics.com"
   }, 
   {
     "batch": "W11", 
@@ -1484,11 +1484,11 @@
     "url": "http://letshum.com"
   }, 
   {
-    "batch": "Bundle", 
-    "description": "https://www.humblebundle.com  W11   Humble Bundles are collections of digital creations that are sold online at a price determined by the purchaser.", 
-    "name": "Humble", 
+    "batch": "W11", 
+    "description": "Humble Bundles are collections of digital creations that are sold online at a price determined by the purchaser.", 
+    "name": "Humble Bundle", 
     "status": "Active", 
-    "url": null
+    "url": "https://www.humblebundle.com"
   }, 
   {
     "batch": "W11", 
@@ -1505,10 +1505,10 @@
     "url": "http://www.hyperink.com"
   }, 
   {
-    "batch": "Move", 
-    "description": "You    S10 Dead  ", 
-    "name": "I", 
-    "status": "Active", 
+    "batch": "S10", 
+    "description": null, 
+    "name": "I Move You", 
+    "status": "Dead", 
     "url": null
   }, 
   {
@@ -1540,11 +1540,11 @@
     "url": "http://imgfave.com"
   }, 
   {
-    "batch": "Project", 
-    "description": "http://www.immunityproject.org  W14   We're developing a free vaccine to end HIV and AIDS", 
-    "name": "Immunity", 
+    "batch": "W14", 
+    "description": "We're developing a free vaccine to end HIV and AIDS", 
+    "name": "Immunity Project", 
     "status": "Active", 
-    "url": null
+    "url": "http://www.immunityproject.org"
   }, 
   {
     "batch": "S10", 
@@ -1673,11 +1673,11 @@
     "url": "http://www.kamcord.com"
   }, 
   {
-    "batch": "Logistics", 
-    "description": "http://keychainlogistics.com  S12   Need Reliable Carriers? Keychain's proprietary technology gives you unprecedented access to our nationwide network of qualified drivers.", 
-    "name": "Keychain", 
+    "batch": "S12", 
+    "description": "Need Reliable Carriers? Keychain's proprietary technology gives you unprecedented access to our nationwide network of qualified drivers.", 
+    "name": "Keychain Logistics", 
     "status": "Active", 
-    "url": null
+    "url": "http://keychainlogistics.com"
   }, 
   {
     "batch": "S11", 
@@ -1708,10 +1708,10 @@
     "url": "https://kippt.com"
   }, 
   {
-    "batch": "North", 
-    "description": "W08 Dead  Kirkland North is taking an infectious campus-wide game that it ran at Yale and Harvard last year and spreading it to other campuses around the country.", 
-    "name": "Kirkland", 
-    "status": "Active", 
+    "batch": "W08", 
+    "description": "Kirkland North is taking an infectious campus-wide game that it ran at Yale and Harvard last year and spreading it to other campuses around the country.", 
+    "name": "Kirkland North", 
+    "status": "Dead", 
     "url": null
   }, 
   {
@@ -1757,11 +1757,11 @@
     "url": "http://www.launchhear.com"
   }, 
   {
-    "batch": "Toys", 
-    "description": "http://launchpadtoys.com  S11   We're creating digital toys and tools that empower kids to create, learn & share their ideas through play.", 
-    "name": "Launchpad", 
+    "batch": "S11", 
+    "description": "We're creating digital toys and tools that empower kids to create, learn & share their ideas through play.", 
+    "name": "Launchpad Toys", 
     "status": "Active", 
-    "url": null
+    "url": "http://launchpadtoys.com"
   }, 
   {
     "batch": "W13", 
@@ -1771,11 +1771,11 @@
     "url": "http://www.lawdingo.com"
   }, 
   {
-    "batch": "Tote", 
-    "description": "http://letote.com S13   Welcome to your dream closet. Rent unlimited looks each month.", 
-    "name": "Le", 
+    "batch": "S13", 
+    "description": "Welcome to your dream closet. Rent unlimited looks each month.", 
+    "name": "Le Tote", 
     "status": "Active", 
-    "url": null
+    "url": "http://letote.com"
   }, 
   {
     "batch": "S11", 
@@ -2002,11 +2002,11 @@
     "url": "http://messageparty.com"
   }, 
   {
-    "batch": "Space", 
-    "description": "Glasses  http://spaceglasses.com S13   The first holographic interface.", 
-    "name": "Meta", 
+    "batch": "S13", 
+    "description": "The first holographic interface.", 
+    "name": "Meta Space Glasses", 
     "status": "Active", 
-    "url": null
+    "url": "http://spaceglasses.com"
   }, 
   {
     "batch": "S11", 
@@ -2107,11 +2107,11 @@
     "url": "https://mongohq.com"
   }, 
   {
-    "batch": "Loot", 
-    "description": "http://www.moveloot.com W14   The easiest way to buy and sell furniture.", 
-    "name": "Move", 
+    "batch": "W14", 
+    "description": "The easiest way to buy and sell furniture.", 
+    "name": "Move Loot", 
     "status": "Active", 
-    "url": null
+    "url": "http://www.moveloot.com"
   }, 
   {
     "batch": "W10", 
@@ -2121,18 +2121,18 @@
     "url": "http://www.movity.com"
   }, 
   {
-    "batch": "Sense", 
-    "description": "http://www.mthsense.com S12   Our goal is to be THE answer to the mobile monetization problem. The first step is to solve the problem of \"blind\" ads. Hence our focus on targeting.", 
-    "name": "Mth", 
+    "batch": "S12", 
+    "description": "Our goal is to be THE answer to the mobile monetization problem. The first step is to solve the problem of \"blind\" ads. Hence our focus on targeting.", 
+    "name": "Mth Sense", 
     "status": "Active", 
-    "url": null
+    "url": "http://www.mthsense.com"
   }, 
   {
-    "batch": "On", 
-    "description": "Me http://www.munchonme.com  S11 Exited  Munch On Me is a food discovery portal that connects people with great food at great prices in local communities.", 
-    "name": "Munch", 
-    "status": "Active", 
-    "url": null
+    "batch": "S11", 
+    "description": "Munch On Me is a food discovery portal that connects people with great food at great prices in local communities.", 
+    "name": "Munch On Me", 
+    "status": "Exited", 
+    "url": "http://www.munchonme.com"
   }, 
   {
     "batch": "W13", 
@@ -2170,11 +2170,11 @@
     "url": null
   }, 
   {
-    "batch": "Caller", 
-    "description": "http://nextcaller.com W14   Know your caller. The most advanced caller identification platform in the world.", 
-    "name": "Next", 
+    "batch": "W14", 
+    "description": "Know your caller. The most advanced caller identification platform in the world.", 
+    "name": "Next Caller", 
     "status": "Active", 
-    "url": null
+    "url": "http://nextcaller.com"
   }, 
   {
     "batch": "W08", 
@@ -2184,11 +2184,11 @@
     "url": "http://ninite.com"
   }, 
   {
-    "batch": "Health", 
-    "description": "http://www.noorahealth.org  W14   Noora Health empowers patients and their families with high-impact medical skills to recover from their condition and improve health outcomes.", 
-    "name": "Noora", 
+    "batch": "W14", 
+    "description": "Noora Health empowers patients and their families with high-impact medical skills to recover from their condition and improve health outcomes.", 
+    "name": "Noora Health", 
     "status": "Active", 
-    "url": null
+    "url": "http://www.noorahealth.org"
   }, 
   {
     "batch": "W11", 
@@ -2254,18 +2254,18 @@
     "url": "http://omnisio.com"
   }, 
   {
-    "batch": "Degree", 
-    "description": "http://www.1deg.org W14   Community resources, just for you. The easiest way to find, manage, and share nonprofit services for you and your family.", 
-    "name": "One", 
+    "batch": "W14", 
+    "description": "Community resources, just for you. The easiest way to find, manage, and share nonprofit services for you and your family.", 
+    "name": "One Degree", 
     "status": "Active", 
-    "url": null
+    "url": "http://www.1deg.org"
   }, 
   {
-    "batch": "Month", 
-    "description": "Rails http://onemonthrails.com  S13   Learn how to code with the #1 bestselling online class One Month Rails.", 
-    "name": "One", 
+    "batch": "S13", 
+    "description": "Learn how to code with the #1 bestselling online class One Month Rails.", 
+    "name": "One Month Rails", 
     "status": "Active", 
-    "url": null
+    "url": "http://onemonthrails.com"
   }, 
   {
     "batch": "S11", 
@@ -2345,11 +2345,11 @@
     "url": "http://trypair.com"
   }, 
   {
-    "batch": "Education", 
-    "description": "http://www.panoramaed.com S13   More than 4,000 schools use Panorama for data analytics and feedback surveys of teachers, parents, and students.", 
-    "name": "Panorama", 
+    "batch": "S13", 
+    "description": "More than 4,000 schools use Panorama for data analytics and feedback surveys of teachers, parents, and students.", 
+    "name": "Panorama Education", 
     "status": "Active", 
-    "url": null
+    "url": "http://www.panoramaed.com"
   }, 
   {
     "batch": "S11", 
@@ -2366,11 +2366,11 @@
     "url": "http://www.parakey.com"
   }, 
   {
-    "batch": "Universe", 
-    "description": "http://paralleluniverse.co  S12   Parallel Universe, a Y-Combinator startup, makes middleware that enable easy scaling for real-time spatial applications.", 
-    "name": "Parallel", 
+    "batch": "S12", 
+    "description": "Parallel Universe, a Y-Combinator startup, makes middleware that enable easy scaling for real-time spatial applications.", 
+    "name": "Parallel Universe", 
     "status": "Active", 
-    "url": null
+    "url": "http://paralleluniverse.co"
   }, 
   {
     "batch": "S11", 
@@ -2387,32 +2387,32 @@
     "url": "http://www.paytango.com"
   }, 
   {
-    "batch": "Technology", 
-    "description": "http://www.getpebble.com  W11   Pebble is an infinitely customizable e-paper watch.", 
-    "name": "Pebble", 
+    "batch": "W11", 
+    "description": "Pebble is an infinitely customizable e-paper watch.", 
+    "name": "Pebble Technology", 
     "status": "Active", 
+    "url": "http://www.getpebble.com"
+  }, 
+  {
+    "batch": "S08", 
+    "description": "People and Pages is a service similar to Google Groups, allowing group organizers to manage email lists and publish to the web in one place.", 
+    "name": "People and Pages", 
+    "status": "Dead", 
     "url": null
   }, 
   {
-    "batch": "and", 
-    "description": "Pages    S08 Dead  People and Pages is a service similar to Google Groups, allowing group organizers to manage email lists and publish to the web in one place.", 
-    "name": "People", 
+    "batch": "W12", 
+    "description": "Phi is currently designed as a PCIe card for developers. It is hardware (a software defined radio) that allows software developers to write applications to interact with all types of wireless signals and wireless devices.", 
+    "name": "Per Vices", 
     "status": "Active", 
-    "url": null
+    "url": "http://pervices.com"
   }, 
   {
-    "batch": "Vices", 
-    "description": "http://pervices.com W12   Phi is currently designed as a PCIe card for developers. It is hardware (a software defined radio) that allows software developers to write applications to interact with all types of wireless signals and wireless devices.", 
-    "name": "Per", 
+    "batch": "S12", 
+    "description": "Fast & Easy Facebook Retargeting. Retarget lost customers on Facebook and get more sales.", 
+    "name": "Perfect Audience", 
     "status": "Active", 
-    "url": null
-  }, 
-  {
-    "batch": "Audience", 
-    "description": "http://www.perfectaudience.com  S12   Fast & Easy Facebook Retargeting. Retarget lost customers on Facebook and get more sales.", 
-    "name": "Perfect", 
-    "status": "Active", 
-    "url": null
+    "url": "http://www.perfectaudience.com"
   }, 
   {
     "batch": "S11", 
@@ -2716,11 +2716,11 @@
     "url": "http://www.rocketrip.com"
   }, 
   {
-    "batch": "Exchange", 
-    "description": "http://scienceexchange.com  S11   Science Exchange is an online marketplace for scientific experiments. The easiest way to get experiments conducted by researchers in top core facilities and institutions.", 
-    "name": "Science", 
+    "batch": "S11", 
+    "description": "Science Exchange is an online marketplace for scientific experiments. The easiest way to get experiments conducted by researchers in top core facilities and institutions.", 
+    "name": "Science Exchange", 
     "status": "Active", 
-    "url": null
+    "url": "http://scienceexchange.com"
   }, 
   {
     "batch": "S08", 
@@ -2835,11 +2835,11 @@
     "url": "http://siasto.com"
   }, 
   {
-    "batch": "Science", 
-    "description": "http://siftscience.com  S11   The world's most advanced fraud prevention platform", 
-    "name": "Sift", 
+    "batch": "S11", 
+    "description": "The world's most advanced fraud prevention platform", 
+    "name": "Sift Science", 
     "status": "Active", 
-    "url": null
+    "url": "http://siftscience.com"
   }, 
   {
     "batch": "S05", 
@@ -3017,11 +3017,11 @@
     "url": "http://stacklead.com"
   }, 
   {
-    "batch": "Treasury", 
-    "description": "http://standardtreasury.com S13   APIs for commercial banks.", 
-    "name": "Standard", 
+    "batch": "S13", 
+    "description": "APIs for commercial banks.", 
+    "name": "Standard Treasury", 
     "status": "Active", 
-    "url": null
+    "url": "http://standardtreasury.com"
   }, 
   {
     "batch": "S08", 
@@ -3073,11 +3073,11 @@
     "url": "http://www.studyedge.com"
   }, 
   {
-    "batch": "Lend", 
-    "description": "http://www.stylelend.com  W14   Live fashionably. Borrow & Lend Designer Dresses with local Fashionistas.", 
-    "name": "Style", 
+    "batch": "W14", 
+    "description": "Live fashionably. Borrow & Lend Designer Dresses with local Fashionistas.", 
+    "name": "Style Lend", 
     "status": "Active", 
-    "url": null
+    "url": "http://www.stylelend.com"
   }, 
   {
     "batch": "W13", 
@@ -3269,18 +3269,18 @@
     "url": "http://www.textpayme.com"
   }, 
   {
-    "batch": "Dating", 
-    "description": "Ring http://thedatingring.com  W14   We're making dating fun again. We meet all of our members and set up dates. It's like meeting through friends, except much, much better.", 
-    "name": "The", 
+    "batch": "W14", 
+    "description": "We're making dating fun again. We meet all of our members and set up dates. It's like meeting through friends, except much, much better.", 
+    "name": "The Dating Ring", 
     "status": "Active", 
-    "url": null
+    "url": "http://thedatingring.com"
   }, 
   {
-    "batch": "Fridge", 
-    "description": "http://www.frid.ge  S10 Exited  The Fridge is a platform for lightweight single serving social networks for the functionality of Facebook without being on Facebook.", 
-    "name": "The", 
-    "status": "Active", 
-    "url": null
+    "batch": "S10", 
+    "description": "The Fridge is a platform for lightweight single serving social networks for the functionality of Facebook without being on Facebook.", 
+    "name": "The Fridge", 
+    "status": "Exited", 
+    "url": "http://www.frid.ge"
   }, 
   {
     "batch": "W12", 
@@ -3360,11 +3360,11 @@
     "url": "http://tradeblock.com"
   }, 
   {
-    "batch": "Link", 
-    "description": "Financial http://www.truelinkcard.com S13   We keep a watchful eye out for fraud and spending mishaps so you \u0003can spend your time doing what matters.", 
-    "name": "True", 
+    "batch": "S13", 
+    "description": "We keep a watchful eye out for fraud and spending mishaps so you \u0003can spend your time doing what matters.", 
+    "name": "True Link Financial", 
     "status": "Active", 
-    "url": null
+    "url": "http://www.truelinkcard.com"
   }, 
   {
     "batch": "W14", 
@@ -3409,11 +3409,11 @@
     "url": "http://tweetflow.com"
   }, 
   {
-    "batch": "Tap", 
-    "description": "http://twotap.com W14   Users can now order any product directly in your app with Two Tap.", 
-    "name": "Two", 
+    "batch": "W14", 
+    "description": "Users can now order any product directly in your app with Two Tap.", 
+    "name": "Two Tap", 
     "status": "Active", 
-    "url": null
+    "url": "http://twotap.com"
   }, 
   {
     "batch": "W14", 
@@ -3472,10 +3472,10 @@
     "url": "http://www.viacycle.com"
   }, 
   {
-    "batch": "Fliggo", 
-    "description": "S08 Dead  Vidly, formerly known as TwitVid (or Twitvid.io), wants to be the easiest way to share video on the web.", 
-    "name": "Vidly /", 
-    "status": "Active", 
+    "batch": "S08", 
+    "description": "Vidly, formerly known as TwitVid (or Twitvid.io), wants to be the easiest way to share video on the web.", 
+    "name": "Vidly / Fliggo", 
+    "status": "Dead", 
     "url": null
   }, 
   {
@@ -3633,10 +3633,10 @@
     "url": "http://whereoscope.com"
   }, 
   {
-    "batch": "Networks", 
-    "description": "W07 Dead  Whitenoise is like a social network for the music industry.", 
-    "name": "Whitenoise", 
-    "status": "Active", 
+    "batch": "W07", 
+    "description": "Whitenoise is like a social network for the music industry.", 
+    "name": "Whitenoise Networks", 
+    "status": "Dead", 
     "url": null
   }, 
   {
@@ -3710,11 +3710,11 @@
     "url": null
   }, 
   {
-    "batch": "Mechanic", 
-    "description": "http://yourmechanic.com W12   Hire mechanics that will come to your home or work to fix your car. Save 20% or more on car repairs. Convenient, affordable and transparent.", 
-    "name": "Your", 
+    "batch": "W12", 
+    "description": "Hire mechanics that will come to your home or work to fix your car. Save 20% or more on car repairs. Convenient, affordable and transparent.", 
+    "name": "Your Mechanic", 
     "status": "Active", 
-    "url": null
+    "url": "http://yourmechanic.com"
   }, 
   {
     "batch": "W08", 
